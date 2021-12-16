@@ -1,0 +1,1600 @@
+,Calcium,Magnesium,Potassium,Sulfur,Nitrogen,Lime,Carbon,Phosphorus,Moisture,Fertilizer
+0,0.7,0.6,0.8,0.8,0.7,0.8,0.3,0.1,0.9,single superphosphate(SSP)
+1,0.5,0.5,0.4,0.3,0.5,0.7,0.5,0.7,0.8,potassium sulphate(SOP)
+2,0.6,0.8,0.1,0.3,0.7,0.5,0.5,0.6,0.6,potassium sulphate(SOP)
+3,0.7,0.7,0.7,0.5,0.8,0.7,0.4,0.1,0.7,single superphosphate(SSP)
+4,0.8,0.8,0.2,0.3,0.5,0.5,0.7,0.8,0.5,potassium sulphate(SOP)
+5,0.7,0.5,0.6,0.7,0.8,0.8,0.3,0.4,0.8,single superphosphate(SSP)
+6,0.7,0.5,0.8,0.8,0.2,0.4,0.7,0.5,0.7,ammonium nitrate lime(ANL)
+7,0.1,0.4,0.7,0.5,0.6,0.7,0.5,0.6,0.9,kieserite
+8,0.5,0.8,0.3,0.4,0.7,0.7,0.8,0.6,0.7,potassium sulphate(SOP)
+9,0.4,0.2,0.6,0.6,0.6,0.5,0.8,0.7,0.5,kieserite
+10,0.8,0.7,0.5,0.6,0.1,0.4,0.7,0.6,0.7,ammonium nitrate lime(ANL)
+11,0.6,0.6,0.7,0.5,0.2,0.4,0.7,0.8,0.9,ammonium nitrate lime(ANL)
+12,0.6,0.5,0.8,0.5,0.1,0.4,0.5,0.8,0.5,ammonium nitrate lime(ANL)
+13,0.4,0.2,0.5,0.7,0.7,0.6,0.8,0.5,0.5,kieserite
+14,0.5,0.7,0.8,0.7,0.7,0.8,0.4,0.2,0.5,single superphosphate(SSP)
+15,0.6,0.7,0.7,0.5,0.1,0.3,0.8,0.8,0.7,ammonium nitrate lime(ANL)
+16,0.7,0.7,0.6,0.5,0.2,0.2,0.5,0.5,0.5,ammonium nitrate lime(ANL)
+17,0.4,0.1,0.8,0.6,0.8,0.5,0.8,0.5,0.8,kieserite
+18,0.6,0.5,0.7,0.8,0.1,0.1,0.5,0.8,0.8,ammonium nitrate lime(ANL)
+19,0.8,0.7,0.4,0.3,0.5,0.5,0.7,0.6,0.9,potassium sulphate(SOP)
+20,0.5,0.5,0.5,0.5,0.1,0.3,0.8,0.6,0.8,ammonium nitrate lime(ANL)
+21,0.6,0.5,0.6,0.6,0.1,0.4,0.5,0.7,0.8,ammonium nitrate lime(ANL)
+22,0.8,0.5,0.2,0.3,0.6,0.7,0.7,0.5,0.7,potassium sulphate(SOP)
+23,0.6,0.5,0.8,0.6,0.6,0.6,0.1,0.2,0.7,single superphosphate(SSP)
+24,0.4,0.4,0.7,0.8,0.8,0.6,0.7,0.8,0.8,kieserite
+25,0.6,0.5,0.4,0.2,0.8,0.5,0.7,0.8,0.8,potassium sulphate(SOP)
+26,0.8,0.6,0.3,0.2,0.8,0.6,0.7,0.5,0.6,potassium sulphate(SOP)
+27,0.6,0.7,0.3,0.1,0.7,0.7,0.5,0.8,0.6,potassium sulphate(SOP)
+28,0.2,0.4,0.8,0.5,0.8,0.8,0.5,0.6,0.5,kieserite
+29,0.5,0.6,0.4,0.2,0.8,0.5,0.5,0.5,0.9,potassium sulphate(SOP)
+30,0.3,0.1,0.8,0.8,0.6,0.7,0.7,0.6,0.8,kieserite
+31,0.7,0.8,0.5,0.8,0.6,0.5,0.4,0.3,0.9,single superphosphate(SSP)
+32,0.7,0.8,0.8,0.5,0.1,0.3,0.5,0.6,0.8,ammonium nitrate lime(ANL)
+33,0.4,0.1,0.8,0.5,0.6,0.5,0.6,0.6,0.8,kieserite
+34,0.5,0.5,0.5,0.6,0.1,0.4,0.6,0.7,0.5,ammonium nitrate lime(ANL)
+35,0.4,0.3,0.6,0.8,0.6,0.5,0.6,0.6,0.6,kieserite
+36,0.6,0.6,0.4,0.4,0.8,0.5,0.7,0.5,0.6,potassium sulphate(SOP)
+37,0.3,0.2,0.8,0.7,0.7,0.6,0.8,0.8,0.5,kieserite
+38,0.5,0.8,0.6,0.5,0.5,0.8,0.3,0.1,0.6,single superphosphate(SSP)
+39,0.1,0.3,0.7,0.7,0.8,0.6,0.6,0.7,0.6,kieserite
+40,0.7,0.5,0.7,0.5,0.4,0.4,0.7,0.8,0.7,ammonium nitrate lime(ANL)
+41,0.7,0.7,0.5,0.7,0.4,0.3,0.6,0.6,0.5,ammonium nitrate lime(ANL)
+42,0.8,0.8,0.5,0.5,0.3,0.4,0.8,0.5,0.8,ammonium nitrate lime(ANL)
+43,0.8,0.5,0.4,0.1,0.6,0.5,0.7,0.5,0.6,potassium sulphate(SOP)
+44,0.8,0.7,0.6,0.7,0.3,0.4,0.8,0.7,0.5,ammonium nitrate lime(ANL)
+45,0.8,0.8,0.7,0.8,0.1,0.4,0.6,0.5,0.8,ammonium nitrate lime(ANL)
+46,0.6,0.8,0.4,0.1,0.8,0.5,0.6,0.5,0.7,potassium sulphate(SOP)
+47,0.5,0.8,0.3,0.1,0.5,0.8,0.6,0.7,0.7,potassium sulphate(SOP)
+48,0.5,0.8,0.8,0.8,0.6,0.6,0.2,0.3,0.7,single superphosphate(SSP)
+49,0.5,0.5,0.5,0.7,0.3,0.1,0.8,0.8,0.9,ammonium nitrate lime(ANL)
+50,0.5,0.6,0.5,0.8,0.7,0.8,0.3,0.1,0.9,single superphosphate(SSP)
+51,0.8,0.6,0.6,0.6,0.8,0.6,0.2,0.2,0.5,single superphosphate(SSP)
+52,0.1,0.2,0.6,0.7,0.6,0.5,0.7,0.6,0.5,kieserite
+53,0.4,0.3,0.5,0.6,0.8,0.8,0.6,0.5,0.7,kieserite
+54,0.7,0.6,0.8,0.5,0.4,0.1,0.5,0.6,0.7,ammonium nitrate lime(ANL)
+55,0.7,0.7,0.7,0.5,0.4,0.1,0.8,0.8,0.9,ammonium nitrate lime(ANL)
+56,0.5,0.5,0.5,0.8,0.3,0.4,0.5,0.7,0.7,ammonium nitrate lime(ANL)
+57,0.3,0.3,0.5,0.8,0.8,0.7,0.7,0.6,0.5,kieserite
+58,0.8,0.5,0.6,0.7,0.1,0.1,0.8,0.8,0.8,ammonium nitrate lime(ANL)
+59,0.8,0.5,0.1,0.1,0.5,0.6,0.6,0.5,0.6,potassium sulphate(SOP)
+60,0.7,0.6,0.1,0.2,0.7,0.7,0.7,0.6,0.5,potassium sulphate(SOP)
+61,0.2,0.3,0.8,0.6,0.8,0.8,0.6,0.7,0.5,kieserite
+62,0.6,0.8,0.3,0.4,0.8,0.7,0.7,0.5,0.9,potassium sulphate(SOP)
+63,0.6,0.6,0.5,0.5,0.2,0.2,0.5,0.8,0.9,ammonium nitrate lime(ANL)
+64,0.8,0.8,0.8,0.7,0.3,0.4,0.5,0.6,0.6,ammonium nitrate lime(ANL)
+65,0.6,0.5,0.5,0.7,0.8,0.5,0.3,0.3,0.5,single superphosphate(SSP)
+66,0.6,0.8,0.4,0.2,0.5,0.5,0.8,0.5,0.6,potassium sulphate(SOP)
+67,0.8,0.8,0.6,0.8,0.5,0.6,0.2,0.2,0.8,single superphosphate(SSP)
+68,0.6,0.8,0.7,0.5,0.6,0.6,0.2,0.4,0.6,single superphosphate(SSP)
+69,0.5,0.7,0.3,0.3,0.5,0.6,0.5,0.8,0.6,potassium sulphate(SOP)
+70,0.8,0.5,0.6,0.6,0.1,0.2,0.6,0.7,0.7,ammonium nitrate lime(ANL)
+71,0.7,0.8,0.8,0.5,0.1,0.1,0.5,0.7,0.5,ammonium nitrate lime(ANL)
+72,0.8,0.7,0.5,0.6,0.4,0.3,0.6,0.8,0.5,ammonium nitrate lime(ANL)
+73,0.7,0.8,0.5,0.5,0.4,0.4,0.6,0.6,0.8,ammonium nitrate lime(ANL)
+74,0.7,0.6,0.5,0.5,0.1,0.2,0.6,0.5,0.6,ammonium nitrate lime(ANL)
+75,0.6,0.6,0.8,0.5,0.1,0.2,0.8,0.7,0.7,ammonium nitrate lime(ANL)
+76,0.4,0.2,0.8,0.6,0.7,0.5,0.8,0.8,0.5,kieserite
+77,0.1,0.3,0.7,0.8,0.7,0.6,0.7,0.7,0.9,kieserite
+78,0.8,0.8,0.3,0.3,0.6,0.7,0.5,0.8,0.9,potassium sulphate(SOP)
+79,0.8,0.5,0.4,0.4,0.5,0.5,0.6,0.7,0.7,potassium sulphate(SOP)
+80,0.8,0.7,0.8,0.7,0.1,0.1,0.6,0.8,0.9,ammonium nitrate lime(ANL)
+81,0.6,0.8,0.7,0.5,0.1,0.4,0.5,0.5,0.7,ammonium nitrate lime(ANL)
+82,0.7,0.6,0.6,0.5,0.3,0.4,0.5,0.6,0.8,ammonium nitrate lime(ANL)
+83,0.7,0.5,0.4,0.3,0.6,0.8,0.8,0.6,0.7,potassium sulphate(SOP)
+84,0.3,0.2,0.7,0.5,0.7,0.6,0.6,0.5,0.5,kieserite
+85,0.6,0.7,0.4,0.2,0.5,0.7,0.8,0.7,0.9,potassium sulphate(SOP)
+86,0.1,0.3,0.7,0.5,0.8,0.5,0.6,0.7,0.9,kieserite
+87,0.8,0.5,0.8,0.6,0.6,0.5,0.3,0.3,0.5,single superphosphate(SSP)
+88,0.8,0.6,0.3,0.3,0.6,0.6,0.6,0.5,0.5,potassium sulphate(SOP)
+89,0.6,0.7,0.5,0.5,0.1,0.2,0.7,0.5,0.9,ammonium nitrate lime(ANL)
+90,0.5,0.7,0.8,0.7,0.3,0.3,0.8,0.5,0.8,ammonium nitrate lime(ANL)
+91,0.7,0.8,0.8,0.7,0.6,0.6,0.2,0.4,0.6,single superphosphate(SSP)
+92,0.7,0.8,0.8,0.8,0.1,0.2,0.5,0.7,0.9,ammonium nitrate lime(ANL)
+93,0.7,0.5,0.6,0.8,0.2,0.1,0.5,0.7,0.7,ammonium nitrate lime(ANL)
+94,0.6,0.7,0.3,0.1,0.8,0.5,0.7,0.8,0.9,potassium sulphate(SOP)
+95,0.4,0.2,0.5,0.6,0.8,0.5,0.7,0.8,0.5,kieserite
+96,0.7,0.7,0.1,0.4,0.7,0.8,0.6,0.8,0.5,potassium sulphate(SOP)
+97,0.7,0.8,0.7,0.8,0.6,0.5,0.2,0.4,0.8,single superphosphate(SSP)
+98,0.1,0.1,0.5,0.5,0.5,0.8,0.7,0.8,0.7,kieserite
+99,0.5,0.6,0.6,0.6,0.3,0.4,0.6,0.7,0.6,ammonium nitrate lime(ANL)
+100,0.4,0.2,0.8,0.7,0.7,0.8,0.5,0.6,0.7,kieserite
+101,0.8,0.8,0.5,0.7,0.7,0.8,0.4,0.4,0.5,single superphosphate(SSP)
+102,0.5,0.5,0.8,0.8,0.6,0.8,0.1,0.4,0.5,single superphosphate(SSP)
+103,0.5,0.6,0.7,0.8,0.3,0.2,0.6,0.7,0.6,ammonium nitrate lime(ANL)
+104,0.1,0.4,0.5,0.8,0.8,0.7,0.6,0.6,0.6,kieserite
+105,0.6,0.5,0.8,0.7,0.6,0.6,0.1,0.4,0.8,single superphosphate(SSP)
+106,0.7,0.5,0.8,0.5,0.2,0.1,0.7,0.8,0.5,ammonium nitrate lime(ANL)
+107,0.7,0.6,0.8,0.7,0.7,0.6,0.4,0.3,0.5,single superphosphate(SSP)
+108,0.4,0.1,0.6,0.5,0.7,0.7,0.5,0.5,0.9,kieserite
+109,0.5,0.8,0.4,0.2,0.8,0.5,0.5,0.6,0.9,potassium sulphate(SOP)
+110,0.8,0.5,0.6,0.5,0.5,0.5,0.4,0.1,0.6,single superphosphate(SSP)
+111,0.8,0.8,0.8,0.8,0.4,0.2,0.6,0.7,0.9,ammonium nitrate lime(ANL)
+112,0.7,0.8,0.8,0.6,0.7,0.6,0.1,0.4,0.8,single superphosphate(SSP)
+113,0.8,0.8,0.2,0.1,0.8,0.5,0.5,0.8,0.6,potassium sulphate(SOP)
+114,0.3,0.3,0.7,0.8,0.8,0.7,0.7,0.6,0.9,kieserite
+115,0.5,0.6,0.7,0.6,0.5,0.8,0.3,0.2,0.7,single superphosphate(SSP)
+116,0.8,0.5,0.1,0.1,0.6,0.8,0.6,0.7,0.5,potassium sulphate(SOP)
+117,0.7,0.5,0.8,0.6,0.5,0.8,0.2,0.3,0.5,single superphosphate(SSP)
+118,0.7,0.5,0.5,0.5,0.2,0.3,0.6,0.6,0.8,ammonium nitrate lime(ANL)
+119,0.8,0.8,0.2,0.2,0.8,0.5,0.5,0.7,0.7,potassium sulphate(SOP)
+120,0.7,0.7,0.8,0.8,0.5,0.7,0.3,0.3,0.9,single superphosphate(SSP)
+121,0.7,0.7,0.8,0.6,0.4,0.2,0.8,0.6,0.7,ammonium nitrate lime(ANL)
+122,0.2,0.3,0.5,0.6,0.8,0.5,0.8,0.6,0.7,kieserite
+123,0.6,0.8,0.7,0.6,0.2,0.1,0.7,0.8,0.8,ammonium nitrate lime(ANL)
+124,0.2,0.2,0.8,0.7,0.6,0.6,0.7,0.5,0.7,kieserite
+125,0.5,0.6,0.5,0.6,0.6,0.6,0.1,0.4,0.6,single superphosphate(SSP)
+126,0.8,0.5,0.2,0.2,0.8,0.7,0.7,0.7,0.7,potassium sulphate(SOP)
+127,0.1,0.4,0.7,0.5,0.8,0.6,0.7,0.8,0.7,kieserite
+128,0.8,0.5,0.6,0.8,0.5,0.5,0.4,0.4,0.9,single superphosphate(SSP)
+129,0.3,0.1,0.6,0.8,0.5,0.5,0.7,0.7,0.6,kieserite
+130,0.7,0.5,0.5,0.6,0.6,0.7,0.3,0.4,0.9,single superphosphate(SSP)
+131,0.6,0.7,0.2,0.4,0.6,0.5,0.7,0.5,0.9,potassium sulphate(SOP)
+132,0.8,0.8,0.6,0.6,0.2,0.2,0.7,0.5,0.5,ammonium nitrate lime(ANL)
+133,0.4,0.2,0.7,0.6,0.8,0.7,0.7,0.8,0.5,kieserite
+134,0.5,0.5,0.2,0.4,0.5,0.5,0.8,0.8,0.6,potassium sulphate(SOP)
+135,0.7,0.7,0.6,0.6,0.2,0.2,0.7,0.7,0.6,ammonium nitrate lime(ANL)
+136,0.7,0.8,0.2,0.2,0.7,0.7,0.8,0.6,0.9,potassium sulphate(SOP)
+137,0.5,0.8,0.8,0.7,0.2,0.2,0.7,0.7,0.5,ammonium nitrate lime(ANL)
+138,0.2,0.1,0.6,0.7,0.8,0.5,0.7,0.8,0.5,kieserite
+139,0.5,0.6,0.7,0.5,0.6,0.7,0.2,0.2,0.7,single superphosphate(SSP)
+140,0.1,0.4,0.8,0.6,0.8,0.8,0.8,0.7,0.9,kieserite
+141,0.6,0.8,0.7,0.6,0.2,0.1,0.6,0.8,0.8,ammonium nitrate lime(ANL)
+142,0.7,0.6,0.8,0.8,0.8,0.8,0.2,0.2,0.5,single superphosphate(SSP)
+143,0.6,0.7,0.7,0.6,0.7,0.5,0.1,0.1,0.5,single superphosphate(SSP)
+144,0.1,0.1,0.7,0.7,0.6,0.8,0.5,0.5,0.8,kieserite
+145,0.8,0.7,0.8,0.8,0.8,0.7,0.4,0.3,0.9,single superphosphate(SSP)
+146,0.8,0.8,0.6,0.7,0.1,0.3,0.7,0.5,0.5,ammonium nitrate lime(ANL)
+147,0.7,0.5,0.2,0.1,0.5,0.6,0.5,0.5,0.8,potassium sulphate(SOP)
+148,0.5,0.5,0.1,0.1,0.5,0.5,0.6,0.6,0.5,potassium sulphate(SOP)
+149,0.3,0.1,0.5,0.6,0.7,0.5,0.5,0.8,0.8,kieserite
+150,0.5,0.6,0.2,0.2,0.6,0.6,0.8,0.8,0.8,potassium sulphate(SOP)
+151,0.7,0.6,0.6,0.5,0.2,0.4,0.8,0.7,0.8,ammonium nitrate lime(ANL)
+152,0.1,0.3,0.7,0.7,0.8,0.5,0.8,0.5,0.6,kieserite
+153,0.2,0.1,0.7,0.7,0.6,0.7,0.6,0.6,0.8,kieserite
+154,0.4,0.3,0.5,0.8,0.7,0.8,0.7,0.7,0.8,kieserite
+155,0.5,0.7,0.2,0.3,0.8,0.6,0.5,0.7,0.5,potassium sulphate(SOP)
+156,0.7,0.5,0.8,0.6,0.1,0.2,0.8,0.7,0.8,ammonium nitrate lime(ANL)
+157,0.7,0.7,0.2,0.2,0.5,0.5,0.6,0.8,0.7,potassium sulphate(SOP)
+158,0.5,0.7,0.1,0.4,0.5,0.7,0.5,0.5,0.5,potassium sulphate(SOP)
+159,0.6,0.6,0.3,0.1,0.8,0.8,0.8,0.7,0.9,potassium sulphate(SOP)
+160,0.3,0.2,0.8,0.5,0.6,0.7,0.6,0.6,0.6,kieserite
+161,0.4,0.3,0.8,0.8,0.5,0.8,0.7,0.7,0.7,kieserite
+162,0.5,0.5,0.1,0.1,0.8,0.6,0.8,0.6,0.8,potassium sulphate(SOP)
+163,0.8,0.5,0.6,0.7,0.4,0.1,0.6,0.7,0.9,ammonium nitrate lime(ANL)
+164,0.7,0.8,0.8,0.5,0.8,0.8,0.1,0.2,0.5,single superphosphate(SSP)
+165,0.7,0.7,0.8,0.7,0.6,0.5,0.1,0.1,0.6,single superphosphate(SSP)
+166,0.8,0.7,0.8,0.5,0.1,0.1,0.6,0.8,0.5,ammonium nitrate lime(ANL)
+167,0.5,0.5,0.6,0.5,0.4,0.2,0.5,0.7,0.9,ammonium nitrate lime(ANL)
+168,0.8,0.8,0.8,0.5,0.1,0.3,0.6,0.6,0.5,ammonium nitrate lime(ANL)
+169,0.7,0.6,0.7,0.5,0.1,0.1,0.5,0.7,0.5,ammonium nitrate lime(ANL)
+170,0.3,0.3,0.6,0.6,0.7,0.7,0.8,0.7,0.6,kieserite
+171,0.7,0.5,0.8,0.5,0.5,0.8,0.2,0.3,0.7,single superphosphate(SSP)
+172,0.6,0.8,0.7,0.5,0.4,0.3,0.7,0.5,0.5,ammonium nitrate lime(ANL)
+173,0.4,0.4,0.6,0.8,0.7,0.8,0.6,0.6,0.6,kieserite
+174,0.7,0.8,0.7,0.7,0.1,0.4,0.6,0.5,0.5,ammonium nitrate lime(ANL)
+175,0.6,0.5,0.8,0.7,0.4,0.3,0.6,0.5,0.9,ammonium nitrate lime(ANL)
+176,0.1,0.1,0.7,0.8,0.6,0.6,0.6,0.5,0.6,kieserite
+177,0.7,0.6,0.6,0.7,0.3,0.2,0.7,0.5,0.9,ammonium nitrate lime(ANL)
+178,0.7,0.8,0.4,0.4,0.8,0.8,0.5,0.8,0.7,potassium sulphate(SOP)
+179,0.3,0.1,0.8,0.6,0.5,0.7,0.7,0.8,0.7,kieserite
+180,0.3,0.4,0.8,0.5,0.8,0.7,0.7,0.5,0.9,kieserite
+181,0.3,0.4,0.7,0.8,0.7,0.5,0.5,0.7,0.6,kieserite
+182,0.2,0.3,0.6,0.8,0.7,0.8,0.7,0.8,0.7,kieserite
+183,0.6,0.5,0.5,0.6,0.5,0.6,0.4,0.2,0.5,single superphosphate(SSP)
+184,0.8,0.8,0.4,0.4,0.5,0.8,0.6,0.7,0.7,potassium sulphate(SOP)
+185,0.3,0.2,0.8,0.6,0.7,0.7,0.6,0.5,0.7,kieserite
+186,0.8,0.6,0.3,0.2,0.8,0.7,0.6,0.8,0.7,potassium sulphate(SOP)
+187,0.7,0.5,0.8,0.8,0.3,0.1,0.5,0.7,0.5,ammonium nitrate lime(ANL)
+188,0.8,0.8,0.7,0.5,0.6,0.7,0.1,0.4,0.6,single superphosphate(SSP)
+189,0.8,0.8,0.3,0.4,0.6,0.7,0.8,0.7,0.7,potassium sulphate(SOP)
+190,0.8,0.6,0.8,0.6,0.6,0.8,0.3,0.3,0.6,single superphosphate(SSP)
+191,0.6,0.8,0.8,0.6,0.8,0.6,0.2,0.2,0.8,single superphosphate(SSP)
+192,0.3,0.1,0.5,0.8,0.5,0.6,0.7,0.5,0.7,kieserite
+193,0.7,0.8,0.2,0.2,0.6,0.5,0.5,0.8,0.6,potassium sulphate(SOP)
+194,0.7,0.8,0.7,0.7,0.3,0.4,0.7,0.8,0.9,ammonium nitrate lime(ANL)
+195,0.7,0.8,0.8,0.5,0.5,0.5,0.2,0.4,0.6,single superphosphate(SSP)
+196,0.8,0.5,0.6,0.6,0.4,0.3,0.5,0.8,0.6,ammonium nitrate lime(ANL)
+197,0.8,0.7,0.4,0.1,0.8,0.5,0.5,0.5,0.7,potassium sulphate(SOP)
+198,0.8,0.5,0.8,0.7,0.3,0.2,0.7,0.7,0.7,ammonium nitrate lime(ANL)
+199,0.1,0.2,0.8,0.5,0.5,0.7,0.6,0.5,0.9,kieserite
+200,0.7,0.7,0.8,0.6,0.4,0.2,0.6,0.5,0.9,ammonium nitrate lime(ANL)
+201,0.6,0.7,0.5,0.8,0.8,0.8,0.3,0.1,0.5,single superphosphate(SSP)
+202,0.5,0.7,0.1,0.1,0.8,0.6,0.8,0.8,0.5,potassium sulphate(SOP)
+203,0.8,0.5,0.3,0.1,0.7,0.5,0.8,0.7,0.8,potassium sulphate(SOP)
+204,0.1,0.3,0.8,0.7,0.6,0.5,0.6,0.5,0.6,kieserite
+205,0.7,0.8,0.6,0.6,0.5,0.6,0.1,0.2,0.9,single superphosphate(SSP)
+206,0.6,0.7,0.8,0.5,0.1,0.2,0.5,0.8,0.9,ammonium nitrate lime(ANL)
+207,0.3,0.2,0.6,0.7,0.5,0.7,0.8,0.6,0.6,kieserite
+208,0.8,0.7,0.8,0.8,0.3,0.1,0.6,0.5,0.9,ammonium nitrate lime(ANL)
+209,0.7,0.8,0.8,0.6,0.7,0.5,0.2,0.4,0.8,single superphosphate(SSP)
+210,0.8,0.8,0.6,0.8,0.4,0.1,0.6,0.6,0.7,ammonium nitrate lime(ANL)
+211,0.7,0.7,0.1,0.2,0.7,0.8,0.5,0.5,0.6,potassium sulphate(SOP)
+212,0.8,0.8,0.7,0.8,0.3,0.1,0.5,0.5,0.9,ammonium nitrate lime(ANL)
+213,0.6,0.8,0.6,0.7,0.6,0.7,0.3,0.3,0.7,single superphosphate(SSP)
+214,0.8,0.5,0.1,0.1,0.8,0.5,0.5,0.5,0.5,potassium sulphate(SOP)
+215,0.7,0.8,0.1,0.2,0.5,0.7,0.7,0.8,0.9,potassium sulphate(SOP)
+216,0.3,0.1,0.6,0.7,0.6,0.5,0.8,0.7,0.9,kieserite
+217,0.8,0.8,0.6,0.7,0.7,0.7,0.3,0.3,0.9,single superphosphate(SSP)
+218,0.7,0.5,0.1,0.1,0.8,0.6,0.7,0.6,0.6,potassium sulphate(SOP)
+219,0.7,0.8,0.8,0.6,0.7,0.6,0.3,0.3,0.5,single superphosphate(SSP)
+220,0.8,0.6,0.6,0.5,0.2,0.3,0.8,0.7,0.9,ammonium nitrate lime(ANL)
+221,0.8,0.6,0.5,0.6,0.1,0.4,0.7,0.8,0.8,ammonium nitrate lime(ANL)
+222,0.5,0.8,0.1,0.3,0.8,0.5,0.5,0.6,0.7,potassium sulphate(SOP)
+223,0.3,0.4,0.7,0.8,0.6,0.7,0.8,0.7,0.7,kieserite
+224,0.1,0.4,0.8,0.8,0.6,0.8,0.6,0.8,0.6,kieserite
+225,0.5,0.8,0.5,0.7,0.4,0.2,0.8,0.7,0.6,ammonium nitrate lime(ANL)
+226,0.6,0.8,0.8,0.7,0.8,0.8,0.3,0.4,0.6,single superphosphate(SSP)
+227,0.3,0.4,0.5,0.7,0.5,0.5,0.6,0.8,0.8,kieserite
+228,0.5,0.7,0.8,0.8,0.3,0.1,0.6,0.7,0.6,ammonium nitrate lime(ANL)
+229,0.8,0.7,0.7,0.7,0.5,0.7,0.2,0.2,0.5,single superphosphate(SSP)
+230,0.7,0.8,0.7,0.5,0.6,0.8,0.3,0.1,0.6,single superphosphate(SSP)
+231,0.3,0.1,0.5,0.5,0.8,0.5,0.5,0.7,0.9,kieserite
+232,0.6,0.5,0.7,0.5,0.7,0.8,0.1,0.4,0.5,single superphosphate(SSP)
+233,0.8,0.6,0.6,0.5,0.4,0.2,0.5,0.6,0.7,ammonium nitrate lime(ANL)
+234,0.3,0.2,0.6,0.8,0.6,0.5,0.7,0.5,0.8,kieserite
+235,0.5,0.7,0.6,0.6,0.4,0.4,0.8,0.7,0.7,ammonium nitrate lime(ANL)
+236,0.7,0.5,0.7,0.8,0.1,0.4,0.6,0.8,0.8,ammonium nitrate lime(ANL)
+237,0.7,0.7,0.4,0.2,0.8,0.5,0.5,0.7,0.9,potassium sulphate(SOP)
+238,0.6,0.5,0.5,0.7,0.1,0.2,0.6,0.7,0.9,ammonium nitrate lime(ANL)
+239,0.1,0.1,0.8,0.7,0.8,0.8,0.6,0.5,0.6,kieserite
+240,0.5,0.5,0.2,0.4,0.7,0.6,0.7,0.8,0.9,potassium sulphate(SOP)
+241,0.6,0.7,0.6,0.6,0.6,0.7,0.1,0.1,0.6,single superphosphate(SSP)
+242,0.5,0.5,0.8,0.8,0.6,0.6,0.1,0.4,0.6,single superphosphate(SSP)
+243,0.8,0.6,0.6,0.8,0.7,0.8,0.2,0.2,0.6,single superphosphate(SSP)
+244,0.7,0.6,0.5,0.7,0.6,0.7,0.3,0.3,0.9,single superphosphate(SSP)
+245,0.6,0.7,0.8,0.5,0.6,0.5,0.1,0.3,0.7,single superphosphate(SSP)
+246,0.4,0.3,0.7,0.6,0.6,0.7,0.5,0.8,0.8,kieserite
+247,0.8,0.8,0.4,0.3,0.6,0.7,0.7,0.8,0.8,potassium sulphate(SOP)
+248,0.4,0.3,0.7,0.5,0.8,0.8,0.5,0.6,0.8,kieserite
+249,0.7,0.7,0.7,0.5,0.5,0.7,0.2,0.4,0.7,single superphosphate(SSP)
+250,0.5,0.8,0.8,0.8,0.1,0.1,0.6,0.5,0.9,ammonium nitrate lime(ANL)
+251,0.5,0.7,0.6,0.7,0.6,0.5,0.1,0.4,0.5,single superphosphate(SSP)
+252,0.3,0.1,0.8,0.7,0.6,0.6,0.5,0.8,0.9,kieserite
+253,0.6,0.8,0.4,0.4,0.8,0.8,0.8,0.6,0.7,potassium sulphate(SOP)
+254,0.7,0.7,0.8,0.8,0.6,0.7,0.2,0.2,0.5,single superphosphate(SSP)
+255,0.4,0.3,0.6,0.8,0.7,0.6,0.8,0.5,0.8,kieserite
+256,0.7,0.6,0.5,0.7,0.7,0.8,0.1,0.1,0.8,single superphosphate(SSP)
+257,0.7,0.5,0.8,0.5,0.1,0.3,0.8,0.5,0.7,ammonium nitrate lime(ANL)
+258,0.2,0.2,0.7,0.5,0.7,0.6,0.8,0.8,0.8,kieserite
+259,0.7,0.7,0.6,0.5,0.6,0.7,0.2,0.4,0.7,single superphosphate(SSP)
+260,0.7,0.7,0.6,0.5,0.2,0.3,0.8,0.8,0.6,ammonium nitrate lime(ANL)
+261,0.5,0.5,0.5,0.6,0.1,0.4,0.6,0.8,0.8,ammonium nitrate lime(ANL)
+262,0.6,0.5,0.6,0.6,0.8,0.7,0.1,0.3,0.5,single superphosphate(SSP)
+263,0.4,0.4,0.7,0.6,0.6,0.7,0.5,0.6,0.6,kieserite
+264,0.6,0.5,0.7,0.7,0.3,0.2,0.6,0.5,0.7,ammonium nitrate lime(ANL)
+265,0.8,0.6,0.7,0.8,0.2,0.2,0.5,0.5,0.5,ammonium nitrate lime(ANL)
+266,0.4,0.3,0.5,0.8,0.8,0.7,0.6,0.7,0.7,kieserite
+267,0.7,0.7,0.4,0.4,0.6,0.5,0.6,0.5,0.9,potassium sulphate(SOP)
+268,0.7,0.6,0.7,0.7,0.7,0.5,0.3,0.3,0.8,single superphosphate(SSP)
+269,0.5,0.6,0.6,0.7,0.2,0.4,0.7,0.8,0.8,ammonium nitrate lime(ANL)
+270,0.6,0.8,0.8,0.8,0.4,0.2,0.7,0.5,0.8,ammonium nitrate lime(ANL)
+271,0.5,0.8,0.3,0.1,0.8,0.6,0.5,0.5,0.7,potassium sulphate(SOP)
+272,0.5,0.7,0.6,0.6,0.1,0.4,0.6,0.5,0.8,ammonium nitrate lime(ANL)
+273,0.8,0.6,0.6,0.6,0.7,0.5,0.3,0.1,0.5,single superphosphate(SSP)
+274,0.6,0.7,0.6,0.8,0.1,0.4,0.6,0.6,0.7,ammonium nitrate lime(ANL)
+275,0.2,0.4,0.7,0.5,0.5,0.8,0.7,0.8,0.5,kieserite
+276,0.5,0.5,0.5,0.5,0.7,0.8,0.1,0.4,0.5,single superphosphate(SSP)
+277,0.8,0.6,0.8,0.5,0.4,0.4,0.8,0.7,0.5,ammonium nitrate lime(ANL)
+278,0.4,0.1,0.5,0.7,0.7,0.5,0.5,0.5,0.8,kieserite
+279,0.6,0.5,0.6,0.6,0.3,0.2,0.7,0.5,0.8,ammonium nitrate lime(ANL)
+280,0.6,0.6,0.8,0.8,0.6,0.6,0.2,0.3,0.7,single superphosphate(SSP)
+281,0.1,0.3,0.5,0.7,0.8,0.7,0.5,0.8,0.6,kieserite
+282,0.7,0.7,0.6,0.7,0.7,0.7,0.4,0.3,0.8,single superphosphate(SSP)
+283,0.7,0.7,0.8,0.6,0.6,0.5,0.1,0.2,0.8,single superphosphate(SSP)
+284,0.8,0.7,0.7,0.8,0.8,0.6,0.1,0.2,0.9,single superphosphate(SSP)
+285,0.6,0.5,0.7,0.8,0.8,0.5,0.3,0.3,0.7,single superphosphate(SSP)
+286,0.6,0.8,0.6,0.5,0.2,0.1,0.7,0.8,0.6,ammonium nitrate lime(ANL)
+287,0.5,0.7,0.7,0.6,0.1,0.3,0.7,0.6,0.8,ammonium nitrate lime(ANL)
+288,0.7,0.8,0.8,0.5,0.5,0.6,0.2,0.4,0.5,single superphosphate(SSP)
+289,0.8,0.6,0.7,0.5,0.5,0.5,0.4,0.3,0.6,single superphosphate(SSP)
+290,0.8,0.7,0.6,0.6,0.4,0.2,0.8,0.6,0.6,ammonium nitrate lime(ANL)
+291,0.5,0.6,0.5,0.6,0.2,0.1,0.7,0.7,0.8,ammonium nitrate lime(ANL)
+292,0.2,0.4,0.8,0.7,0.8,0.6,0.7,0.8,0.8,kieserite
+293,0.8,0.7,0.3,0.3,0.8,0.5,0.7,0.7,0.8,potassium sulphate(SOP)
+294,0.2,0.4,0.6,0.6,0.5,0.8,0.7,0.6,0.8,kieserite
+295,0.7,0.8,0.7,0.5,0.6,0.6,0.3,0.3,0.7,single superphosphate(SSP)
+296,0.7,0.6,0.8,0.5,0.3,0.3,0.6,0.6,0.5,ammonium nitrate lime(ANL)
+297,0.7,0.5,0.8,0.7,0.1,0.3,0.6,0.7,0.8,ammonium nitrate lime(ANL)
+298,0.8,0.7,0.7,0.5,0.5,0.6,0.1,0.3,0.6,single superphosphate(SSP)
+299,0.7,0.6,0.8,0.5,0.4,0.3,0.6,0.7,0.8,ammonium nitrate lime(ANL)
+300,0.8,0.8,0.4,0.2,0.6,0.5,0.6,0.5,0.8,potassium sulphate(SOP)
+301,0.7,0.5,0.7,0.7,0.7,0.8,0.4,0.4,0.6,single superphosphate(SSP)
+302,0.5,0.6,0.8,0.7,0.6,0.7,0.2,0.1,0.5,single superphosphate(SSP)
+303,0.5,0.5,0.7,0.7,0.1,0.4,0.7,0.6,0.5,ammonium nitrate lime(ANL)
+304,0.6,0.6,0.6,0.6,0.8,0.5,0.4,0.3,0.5,single superphosphate(SSP)
+305,0.7,0.8,0.8,0.7,0.8,0.5,0.4,0.1,0.8,single superphosphate(SSP)
+306,0.6,0.8,0.2,0.2,0.8,0.8,0.8,0.6,0.9,potassium sulphate(SOP)
+307,0.8,0.6,0.6,0.6,0.5,0.6,0.3,0.1,0.6,single superphosphate(SSP)
+308,0.3,0.3,0.5,0.6,0.8,0.8,0.8,0.7,0.9,kieserite
+309,0.7,0.8,0.6,0.8,0.7,0.5,0.4,0.2,0.7,single superphosphate(SSP)
+310,0.1,0.4,0.5,0.8,0.7,0.5,0.7,0.8,0.7,kieserite
+311,0.5,0.7,0.4,0.3,0.8,0.5,0.7,0.6,0.6,potassium sulphate(SOP)
+312,0.6,0.7,0.8,0.7,0.3,0.2,0.7,0.5,0.7,ammonium nitrate lime(ANL)
+313,0.6,0.5,0.7,0.5,0.7,0.8,0.1,0.4,0.9,single superphosphate(SSP)
+314,0.6,0.8,0.4,0.1,0.7,0.7,0.8,0.5,0.8,potassium sulphate(SOP)
+315,0.8,0.5,0.7,0.7,0.5,0.8,0.1,0.1,0.7,single superphosphate(SSP)
+316,0.5,0.8,0.5,0.7,0.5,0.8,0.3,0.3,0.9,single superphosphate(SSP)
+317,0.5,0.8,0.8,0.6,0.6,0.6,0.1,0.2,0.9,single superphosphate(SSP)
+318,0.5,0.6,0.4,0.4,0.6,0.7,0.7,0.5,0.5,potassium sulphate(SOP)
+319,0.7,0.8,0.6,0.6,0.8,0.5,0.2,0.4,0.6,single superphosphate(SSP)
+320,0.4,0.3,0.5,0.5,0.8,0.8,0.6,0.7,0.5,kieserite
+321,0.6,0.6,0.1,0.2,0.5,0.7,0.6,0.6,0.7,potassium sulphate(SOP)
+322,0.8,0.6,0.6,0.6,0.2,0.2,0.8,0.7,0.6,ammonium nitrate lime(ANL)
+323,0.8,0.6,0.5,0.8,0.8,0.7,0.4,0.2,0.9,single superphosphate(SSP)
+324,0.8,0.6,0.7,0.6,0.7,0.6,0.1,0.3,0.5,single superphosphate(SSP)
+325,0.1,0.2,0.8,0.6,0.8,0.6,0.5,0.5,0.6,kieserite
+326,0.7,0.7,0.5,0.7,0.3,0.3,0.7,0.6,0.5,ammonium nitrate lime(ANL)
+327,0.6,0.5,0.4,0.3,0.6,0.8,0.7,0.5,0.9,potassium sulphate(SOP)
+328,0.4,0.1,0.5,0.7,0.7,0.5,0.6,0.7,0.5,kieserite
+329,0.5,0.5,0.1,0.2,0.5,0.8,0.5,0.6,0.7,potassium sulphate(SOP)
+330,0.5,0.8,0.7,0.8,0.5,0.8,0.4,0.4,0.6,single superphosphate(SSP)
+331,0.6,0.7,0.6,0.7,0.3,0.4,0.5,0.8,0.7,ammonium nitrate lime(ANL)
+332,0.3,0.1,0.6,0.5,0.8,0.7,0.5,0.5,0.5,kieserite
+333,0.8,0.7,0.7,0.8,0.6,0.6,0.1,0.4,0.9,single superphosphate(SSP)
+334,0.5,0.6,0.8,0.7,0.5,0.6,0.1,0.1,0.5,single superphosphate(SSP)
+335,0.5,0.8,0.1,0.4,0.6,0.8,0.6,0.8,0.7,potassium sulphate(SOP)
+336,0.1,0.1,0.6,0.7,0.7,0.8,0.8,0.6,0.5,kieserite
+337,0.6,0.7,0.8,0.8,0.6,0.7,0.3,0.2,0.9,single superphosphate(SSP)
+338,0.1,0.2,0.6,0.5,0.8,0.6,0.5,0.5,0.8,kieserite
+339,0.2,0.3,0.5,0.8,0.8,0.5,0.6,0.6,0.8,kieserite
+340,0.5,0.5,0.8,0.5,0.4,0.2,0.6,0.7,0.5,ammonium nitrate lime(ANL)
+341,0.4,0.1,0.6,0.6,0.8,0.6,0.5,0.6,0.9,kieserite
+342,0.5,0.5,0.5,0.5,0.1,0.3,0.7,0.8,0.6,ammonium nitrate lime(ANL)
+343,0.1,0.3,0.8,0.8,0.5,0.8,0.6,0.6,0.6,kieserite
+344,0.6,0.6,0.1,0.1,0.5,0.7,0.7,0.6,0.6,potassium sulphate(SOP)
+345,0.1,0.2,0.7,0.6,0.6,0.7,0.5,0.5,0.7,kieserite
+346,0.5,0.8,0.7,0.6,0.3,0.3,0.7,0.7,0.5,ammonium nitrate lime(ANL)
+347,0.8,0.8,0.1,0.2,0.6,0.8,0.6,0.6,0.9,potassium sulphate(SOP)
+348,0.3,0.2,0.8,0.6,0.7,0.8,0.5,0.7,0.5,kieserite
+349,0.6,0.8,0.8,0.7,0.2,0.4,0.8,0.6,0.7,ammonium nitrate lime(ANL)
+350,0.6,0.7,0.1,0.1,0.8,0.6,0.8,0.5,0.8,potassium sulphate(SOP)
+351,0.7,0.7,0.5,0.5,0.6,0.6,0.2,0.4,0.9,single superphosphate(SSP)
+352,0.2,0.4,0.7,0.5,0.8,0.8,0.8,0.8,0.7,kieserite
+353,0.4,0.2,0.8,0.5,0.8,0.5,0.6,0.7,0.7,kieserite
+354,0.7,0.5,0.5,0.8,0.3,0.4,0.7,0.5,0.6,ammonium nitrate lime(ANL)
+355,0.8,0.6,0.5,0.7,0.1,0.4,0.6,0.7,0.7,ammonium nitrate lime(ANL)
+356,0.8,0.6,0.1,0.4,0.7,0.8,0.7,0.7,0.5,potassium sulphate(SOP)
+357,0.7,0.5,0.7,0.5,0.5,0.7,0.1,0.1,0.6,single superphosphate(SSP)
+358,0.5,0.7,0.6,0.8,0.7,0.6,0.2,0.2,0.7,single superphosphate(SSP)
+359,0.2,0.3,0.8,0.6,0.7,0.6,0.6,0.6,0.8,kieserite
+360,0.6,0.7,0.3,0.4,0.5,0.6,0.6,0.5,0.5,potassium sulphate(SOP)
+361,0.6,0.7,0.4,0.2,0.5,0.5,0.8,0.8,0.7,potassium sulphate(SOP)
+362,0.8,0.6,0.5,0.6,0.4,0.3,0.7,0.7,0.9,ammonium nitrate lime(ANL)
+363,0.7,0.5,0.6,0.8,0.2,0.2,0.7,0.7,0.8,ammonium nitrate lime(ANL)
+364,0.7,0.8,0.5,0.7,0.8,0.7,0.3,0.2,0.8,single superphosphate(SSP)
+365,0.8,0.5,0.6,0.6,0.5,0.8,0.3,0.2,0.9,single superphosphate(SSP)
+366,0.6,0.8,0.4,0.4,0.8,0.8,0.8,0.6,0.9,potassium sulphate(SOP)
+367,0.7,0.8,0.7,0.7,0.7,0.6,0.1,0.2,0.9,single superphosphate(SSP)
+368,0.2,0.3,0.6,0.5,0.6,0.6,0.8,0.6,0.8,kieserite
+369,0.2,0.4,0.5,0.6,0.8,0.6,0.7,0.8,0.6,kieserite
+370,0.5,0.8,0.5,0.6,0.5,0.7,0.2,0.1,0.5,single superphosphate(SSP)
+371,0.2,0.3,0.7,0.8,0.6,0.7,0.7,0.6,0.8,kieserite
+372,0.2,0.4,0.6,0.6,0.8,0.6,0.5,0.7,0.8,kieserite
+373,0.6,0.8,0.8,0.7,0.2,0.2,0.7,0.8,0.7,ammonium nitrate lime(ANL)
+374,0.8,0.7,0.8,0.7,0.5,0.5,0.3,0.3,0.8,single superphosphate(SSP)
+375,0.6,0.8,0.3,0.4,0.7,0.6,0.8,0.6,0.7,potassium sulphate(SOP)
+376,0.8,0.8,0.8,0.7,0.1,0.1,0.7,0.8,0.7,ammonium nitrate lime(ANL)
+377,0.3,0.4,0.5,0.5,0.5,0.6,0.7,0.6,0.6,kieserite
+378,0.5,0.5,0.7,0.5,0.5,0.7,0.3,0.3,0.6,single superphosphate(SSP)
+379,0.5,0.5,0.3,0.4,0.6,0.7,0.6,0.6,0.5,potassium sulphate(SOP)
+380,0.8,0.8,0.7,0.6,0.8,0.6,0.3,0.1,0.8,single superphosphate(SSP)
+381,0.5,0.5,0.8,0.5,0.7,0.6,0.3,0.2,0.8,single superphosphate(SSP)
+382,0.7,0.7,0.7,0.5,0.5,0.8,0.2,0.3,0.7,single superphosphate(SSP)
+383,0.5,0.5,0.7,0.8,0.8,0.8,0.1,0.4,0.9,single superphosphate(SSP)
+384,0.1,0.3,0.8,0.6,0.5,0.5,0.8,0.5,0.6,kieserite
+385,0.5,0.7,0.7,0.6,0.5,0.5,0.3,0.2,0.9,single superphosphate(SSP)
+386,0.5,0.5,0.6,0.5,0.1,0.4,0.8,0.5,0.9,ammonium nitrate lime(ANL)
+387,0.6,0.6,0.1,0.1,0.6,0.6,0.5,0.7,0.6,potassium sulphate(SOP)
+388,0.7,0.8,0.6,0.6,0.4,0.3,0.5,0.5,0.5,ammonium nitrate lime(ANL)
+389,0.7,0.5,0.8,0.8,0.8,0.7,0.1,0.3,0.5,single superphosphate(SSP)
+390,0.8,0.5,0.8,0.5,0.8,0.8,0.2,0.2,0.7,single superphosphate(SSP)
+391,0.5,0.5,0.7,0.8,0.5,0.6,0.3,0.3,0.6,single superphosphate(SSP)
+392,0.3,0.1,0.8,0.8,0.8,0.6,0.7,0.6,0.9,kieserite
+393,0.8,0.7,0.7,0.7,0.3,0.2,0.7,0.7,0.7,ammonium nitrate lime(ANL)
+394,0.7,0.5,0.3,0.1,0.7,0.7,0.5,0.7,0.6,potassium sulphate(SOP)
+395,0.5,0.8,0.8,0.8,0.2,0.2,0.5,0.8,0.7,ammonium nitrate lime(ANL)
+396,0.1,0.4,0.5,0.5,0.6,0.8,0.6,0.5,0.5,kieserite
+397,0.7,0.8,0.2,0.1,0.6,0.8,0.6,0.5,0.7,potassium sulphate(SOP)
+398,0.6,0.6,0.6,0.7,0.3,0.2,0.6,0.8,0.7,ammonium nitrate lime(ANL)
+399,0.6,0.6,0.2,0.4,0.6,0.5,0.5,0.8,0.5,potassium sulphate(SOP)
+400,0.7,0.8,0.6,0.5,0.3,0.1,0.7,0.8,0.8,ammonium nitrate lime(ANL)
+401,0.7,0.6,0.1,0.1,0.8,0.8,0.5,0.7,0.7,potassium sulphate(SOP)
+402,0.5,0.8,0.6,0.7,0.3,0.2,0.6,0.8,0.7,ammonium nitrate lime(ANL)
+403,0.8,0.6,0.2,0.2,0.6,0.8,0.6,0.7,0.9,potassium sulphate(SOP)
+404,0.5,0.8,0.7,0.8,0.8,0.8,0.2,0.3,0.7,single superphosphate(SSP)
+405,0.8,0.8,0.5,0.7,0.8,0.6,0.1,0.1,0.5,single superphosphate(SSP)
+406,0.8,0.5,0.7,0.7,0.2,0.2,0.5,0.7,0.7,ammonium nitrate lime(ANL)
+407,0.7,0.7,0.7,0.7,0.2,0.3,0.8,0.7,0.6,ammonium nitrate lime(ANL)
+408,0.3,0.4,0.5,0.7,0.6,0.6,0.6,0.5,0.5,kieserite
+409,0.1,0.4,0.5,0.8,0.6,0.6,0.6,0.7,0.8,kieserite
+410,0.5,0.5,0.5,0.5,0.5,0.5,0.4,0.4,0.5,single superphosphate(SSP)
+411,0.7,0.7,0.2,0.3,0.6,0.7,0.7,0.6,0.7,potassium sulphate(SOP)
+412,0.7,0.6,0.6,0.6,0.1,0.4,0.7,0.8,0.7,ammonium nitrate lime(ANL)
+413,0.7,0.8,0.8,0.6,0.6,0.8,0.1,0.3,0.5,single superphosphate(SSP)
+414,0.5,0.5,0.5,0.6,0.6,0.5,0.1,0.3,0.5,single superphosphate(SSP)
+415,0.8,0.8,0.8,0.8,0.1,0.3,0.8,0.6,0.8,ammonium nitrate lime(ANL)
+416,0.5,0.5,0.7,0.5,0.3,0.3,0.5,0.5,0.5,ammonium nitrate lime(ANL)
+417,0.5,0.6,0.6,0.6,0.8,0.6,0.2,0.2,0.7,single superphosphate(SSP)
+418,0.7,0.7,0.7,0.5,0.4,0.3,0.7,0.5,0.5,ammonium nitrate lime(ANL)
+419,0.1,0.3,0.5,0.6,0.6,0.6,0.5,0.5,0.5,kieserite
+420,0.1,0.4,0.6,0.7,0.5,0.5,0.5,0.7,0.8,kieserite
+421,0.2,0.3,0.6,0.7,0.7,0.8,0.5,0.6,0.9,kieserite
+422,0.8,0.6,0.4,0.3,0.5,0.6,0.8,0.6,0.6,potassium sulphate(SOP)
+423,0.5,0.6,0.2,0.4,0.8,0.5,0.7,0.7,0.8,potassium sulphate(SOP)
+424,0.7,0.6,0.7,0.5,0.3,0.4,0.5,0.7,0.6,ammonium nitrate lime(ANL)
+425,0.5,0.8,0.3,0.3,0.5,0.7,0.8,0.6,0.5,potassium sulphate(SOP)
+426,0.5,0.8,0.6,0.8,0.1,0.1,0.5,0.5,0.6,ammonium nitrate lime(ANL)
+427,0.6,0.8,0.6,0.6,0.6,0.6,0.1,0.1,0.6,single superphosphate(SSP)
+428,0.7,0.6,0.6,0.7,0.8,0.6,0.2,0.3,0.9,single superphosphate(SSP)
+429,0.8,0.6,0.4,0.3,0.8,0.6,0.8,0.8,0.9,potassium sulphate(SOP)
+430,0.2,0.4,0.8,0.7,0.6,0.6,0.6,0.7,0.5,kieserite
+431,0.2,0.2,0.8,0.8,0.7,0.7,0.5,0.6,0.5,kieserite
+432,0.1,0.4,0.5,0.6,0.6,0.6,0.6,0.6,0.6,kieserite
+433,0.8,0.6,0.6,0.7,0.1,0.1,0.8,0.6,0.6,ammonium nitrate lime(ANL)
+434,0.7,0.5,0.2,0.2,0.6,0.7,0.7,0.8,0.6,potassium sulphate(SOP)
+435,0.7,0.8,0.4,0.4,0.7,0.7,0.5,0.7,0.6,potassium sulphate(SOP)
+436,0.8,0.8,0.5,0.6,0.1,0.3,0.7,0.7,0.5,ammonium nitrate lime(ANL)
+437,0.6,0.8,0.4,0.3,0.7,0.6,0.8,0.6,0.6,potassium sulphate(SOP)
+438,0.8,0.6,0.7,0.6,0.2,0.2,0.6,0.5,0.5,ammonium nitrate lime(ANL)
+439,0.3,0.4,0.5,0.6,0.8,0.7,0.5,0.6,0.9,kieserite
+440,0.7,0.8,0.2,0.3,0.8,0.5,0.7,0.5,0.6,potassium sulphate(SOP)
+441,0.6,0.8,0.6,0.7,0.2,0.2,0.8,0.6,0.6,ammonium nitrate lime(ANL)
+442,0.3,0.2,0.5,0.5,0.7,0.5,0.5,0.7,0.9,kieserite
+443,0.7,0.6,0.2,0.3,0.7,0.6,0.7,0.6,0.7,potassium sulphate(SOP)
+444,0.8,0.7,0.5,0.6,0.5,0.5,0.4,0.2,0.5,single superphosphate(SSP)
+445,0.2,0.2,0.8,0.5,0.5,0.6,0.5,0.5,0.8,kieserite
+446,0.7,0.8,0.7,0.5,0.3,0.1,0.6,0.8,0.8,ammonium nitrate lime(ANL)
+447,0.3,0.2,0.7,0.5,0.6,0.7,0.5,0.8,0.8,kieserite
+448,0.5,0.6,0.8,0.6,0.5,0.8,0.3,0.3,0.5,single superphosphate(SSP)
+449,0.2,0.4,0.6,0.6,0.7,0.8,0.6,0.6,0.7,kieserite
+450,0.8,0.7,0.4,0.1,0.6,0.8,0.8,0.7,0.5,potassium sulphate(SOP)
+451,0.4,0.4,0.5,0.7,0.6,0.5,0.6,0.5,0.7,kieserite
+452,0.7,0.7,0.8,0.8,0.2,0.1,0.5,0.5,0.8,ammonium nitrate lime(ANL)
+453,0.6,0.7,0.4,0.2,0.6,0.7,0.8,0.5,0.6,potassium sulphate(SOP)
+454,0.5,0.5,0.7,0.6,0.7,0.6,0.1,0.2,0.6,single superphosphate(SSP)
+455,0.3,0.2,0.8,0.7,0.6,0.6,0.8,0.6,0.6,kieserite
+456,0.6,0.6,0.7,0.7,0.7,0.8,0.3,0.2,0.5,single superphosphate(SSP)
+457,0.7,0.5,0.8,0.6,0.4,0.2,0.5,0.6,0.6,ammonium nitrate lime(ANL)
+458,0.6,0.8,0.5,0.6,0.5,0.6,0.4,0.2,0.9,single superphosphate(SSP)
+459,0.1,0.2,0.6,0.8,0.6,0.8,0.6,0.6,0.5,kieserite
+460,0.2,0.3,0.8,0.8,0.8,0.5,0.8,0.7,0.9,kieserite
+461,0.3,0.3,0.7,0.8,0.5,0.6,0.6,0.6,0.6,kieserite
+462,0.1,0.3,0.8,0.7,0.7,0.8,0.8,0.6,0.8,kieserite
+463,0.5,0.7,0.3,0.2,0.5,0.7,0.6,0.5,0.9,potassium sulphate(SOP)
+464,0.2,0.2,0.5,0.6,0.6,0.7,0.5,0.8,0.9,kieserite
+465,0.7,0.8,0.2,0.3,0.6,0.8,0.8,0.5,0.5,potassium sulphate(SOP)
+466,0.6,0.5,0.7,0.6,0.6,0.7,0.4,0.1,0.7,single superphosphate(SSP)
+467,0.6,0.5,0.2,0.2,0.8,0.6,0.8,0.6,0.7,potassium sulphate(SOP)
+468,0.6,0.6,0.1,0.3,0.5,0.5,0.6,0.7,0.8,potassium sulphate(SOP)
+469,0.5,0.7,0.7,0.5,0.7,0.8,0.4,0.2,0.6,single superphosphate(SSP)
+470,0.4,0.3,0.8,0.8,0.6,0.6,0.7,0.5,0.7,kieserite
+471,0.5,0.7,0.7,0.6,0.3,0.2,0.8,0.5,0.5,ammonium nitrate lime(ANL)
+472,0.8,0.5,0.5,0.7,0.7,0.5,0.1,0.2,0.9,single superphosphate(SSP)
+473,0.5,0.8,0.8,0.7,0.2,0.3,0.5,0.8,0.9,ammonium nitrate lime(ANL)
+474,0.7,0.8,0.7,0.8,0.8,0.7,0.4,0.2,0.8,single superphosphate(SSP)
+475,0.7,0.8,0.8,0.5,0.5,0.8,0.2,0.4,0.6,single superphosphate(SSP)
+476,0.8,0.8,0.5,0.8,0.7,0.8,0.3,0.4,0.6,single superphosphate(SSP)
+477,0.8,0.6,0.5,0.7,0.6,0.8,0.3,0.3,0.6,single superphosphate(SSP)
+478,0.8,0.7,0.2,0.4,0.7,0.7,0.7,0.5,0.9,potassium sulphate(SOP)
+479,0.6,0.6,0.1,0.1,0.7,0.5,0.8,0.7,0.7,potassium sulphate(SOP)
+480,0.7,0.5,0.4,0.1,0.6,0.7,0.6,0.7,0.8,potassium sulphate(SOP)
+481,0.2,0.4,0.8,0.5,0.6,0.8,0.8,0.5,0.5,kieserite
+482,0.5,0.8,0.4,0.1,0.6,0.7,0.5,0.5,0.8,potassium sulphate(SOP)
+483,0.6,0.6,0.7,0.8,0.3,0.3,0.7,0.8,0.7,ammonium nitrate lime(ANL)
+484,0.5,0.8,0.4,0.1,0.5,0.8,0.6,0.7,0.7,potassium sulphate(SOP)
+485,0.6,0.7,0.5,0.8,0.2,0.1,0.7,0.6,0.6,ammonium nitrate lime(ANL)
+486,0.8,0.8,0.7,0.5,0.2,0.2,0.7,0.8,0.6,ammonium nitrate lime(ANL)
+487,0.3,0.1,0.7,0.5,0.6,0.7,0.7,0.6,0.6,kieserite
+488,0.3,0.1,0.8,0.5,0.8,0.6,0.5,0.8,0.9,kieserite
+489,0.4,0.2,0.5,0.8,0.6,0.5,0.7,0.7,0.9,kieserite
+490,0.7,0.7,0.1,0.2,0.8,0.7,0.7,0.5,0.7,potassium sulphate(SOP)
+491,0.8,0.5,0.7,0.5,0.3,0.2,0.5,0.6,0.8,ammonium nitrate lime(ANL)
+492,0.3,0.1,0.7,0.8,0.8,0.8,0.5,0.6,0.7,kieserite
+493,0.6,0.5,0.1,0.1,0.5,0.5,0.6,0.8,0.9,potassium sulphate(SOP)
+494,0.2,0.2,0.8,0.7,0.6,0.7,0.8,0.8,0.6,kieserite
+495,0.5,0.7,0.3,0.3,0.5,0.7,0.5,0.7,0.5,potassium sulphate(SOP)
+496,0.6,0.5,0.4,0.4,0.8,0.7,0.7,0.5,0.6,potassium sulphate(SOP)
+497,0.8,0.8,0.7,0.8,0.1,0.3,0.6,0.8,0.9,ammonium nitrate lime(ANL)
+498,0.5,0.8,0.5,0.8,0.5,0.5,0.4,0.3,0.5,single superphosphate(SSP)
+499,0.2,0.4,0.6,0.7,0.7,0.7,0.8,0.7,0.7,kieserite
+500,0.8,0.5,0.3,0.4,0.6,0.5,0.5,0.5,0.6,potassium sulphate(SOP)
+501,0.5,0.7,0.5,0.8,0.5,0.8,0.4,0.2,0.6,single superphosphate(SSP)
+502,0.8,0.6,0.1,0.1,0.5,0.7,0.7,0.8,0.5,potassium sulphate(SOP)
+503,0.8,0.7,0.1,0.2,0.8,0.7,0.8,0.6,0.5,potassium sulphate(SOP)
+504,0.8,0.7,0.5,0.7,0.6,0.8,0.4,0.1,0.5,single superphosphate(SSP)
+505,0.6,0.8,0.8,0.5,0.3,0.3,0.5,0.5,0.5,ammonium nitrate lime(ANL)
+506,0.3,0.2,0.8,0.7,0.6,0.7,0.6,0.7,0.8,kieserite
+507,0.6,0.8,0.8,0.6,0.4,0.1,0.5,0.7,0.5,ammonium nitrate lime(ANL)
+508,0.7,0.8,0.7,0.7,0.2,0.2,0.8,0.6,0.9,ammonium nitrate lime(ANL)
+509,0.2,0.1,0.5,0.8,0.6,0.7,0.7,0.7,0.5,kieserite
+510,0.6,0.8,0.8,0.6,0.5,0.8,0.3,0.4,0.5,single superphosphate(SSP)
+511,0.1,0.3,0.8,0.7,0.6,0.5,0.8,0.8,0.5,kieserite
+512,0.6,0.8,0.5,0.6,0.7,0.5,0.3,0.1,0.6,single superphosphate(SSP)
+513,0.6,0.5,0.5,0.7,0.6,0.8,0.2,0.2,0.6,single superphosphate(SSP)
+514,0.5,0.7,0.2,0.2,0.7,0.5,0.6,0.8,0.8,potassium sulphate(SOP)
+515,0.8,0.6,0.4,0.1,0.8,0.7,0.7,0.5,0.5,potassium sulphate(SOP)
+516,0.8,0.7,0.8,0.7,0.7,0.7,0.4,0.2,0.9,single superphosphate(SSP)
+517,0.6,0.6,0.5,0.7,0.2,0.3,0.5,0.5,0.8,ammonium nitrate lime(ANL)
+518,0.8,0.8,0.6,0.5,0.6,0.6,0.4,0.2,0.9,single superphosphate(SSP)
+519,0.6,0.6,0.3,0.1,0.8,0.7,0.7,0.6,0.8,potassium sulphate(SOP)
+520,0.2,0.1,0.6,0.5,0.7,0.7,0.5,0.7,0.8,kieserite
+521,0.8,0.7,0.4,0.3,0.7,0.5,0.7,0.5,0.8,potassium sulphate(SOP)
+522,0.8,0.7,0.1,0.2,0.7,0.8,0.7,0.8,0.9,potassium sulphate(SOP)
+523,0.7,0.7,0.3,0.1,0.7,0.8,0.5,0.6,0.8,potassium sulphate(SOP)
+524,0.8,0.7,0.5,0.7,0.2,0.1,0.6,0.7,0.7,ammonium nitrate lime(ANL)
+525,0.1,0.2,0.8,0.7,0.8,0.5,0.6,0.7,0.6,kieserite
+526,0.8,0.7,0.7,0.5,0.6,0.5,0.4,0.4,0.8,single superphosphate(SSP)
+527,0.6,0.5,0.6,0.5,0.6,0.5,0.1,0.3,0.8,single superphosphate(SSP)
+528,0.7,0.6,0.6,0.6,0.6,0.5,0.4,0.1,0.9,single superphosphate(SSP)
+529,0.5,0.7,0.2,0.2,0.5,0.6,0.6,0.8,0.6,potassium sulphate(SOP)
+530,0.7,0.5,0.4,0.4,0.7,0.5,0.8,0.6,0.6,potassium sulphate(SOP)
+531,0.6,0.5,0.7,0.8,0.5,0.7,0.4,0.3,0.9,single superphosphate(SSP)
+532,0.6,0.8,0.5,0.8,0.3,0.3,0.7,0.7,0.8,ammonium nitrate lime(ANL)
+533,0.1,0.2,0.7,0.5,0.7,0.6,0.7,0.6,0.7,kieserite
+534,0.6,0.6,0.6,0.7,0.5,0.7,0.3,0.3,0.8,single superphosphate(SSP)
+535,0.8,0.6,0.5,0.5,0.8,0.8,0.3,0.3,0.6,single superphosphate(SSP)
+536,0.6,0.6,0.1,0.4,0.6,0.6,0.6,0.5,0.5,potassium sulphate(SOP)
+537,0.6,0.5,0.6,0.5,0.6,0.7,0.1,0.3,0.6,single superphosphate(SSP)
+538,0.8,0.6,0.5,0.7,0.8,0.8,0.3,0.3,0.5,single superphosphate(SSP)
+539,0.6,0.8,0.2,0.2,0.8,0.8,0.5,0.7,0.6,potassium sulphate(SOP)
+540,0.1,0.2,0.6,0.7,0.7,0.6,0.5,0.5,0.7,kieserite
+541,0.8,0.6,0.8,0.8,0.4,0.4,0.6,0.6,0.8,ammonium nitrate lime(ANL)
+542,0.6,0.8,0.8,0.8,0.2,0.1,0.6,0.8,0.9,ammonium nitrate lime(ANL)
+543,0.6,0.7,0.8,0.7,0.7,0.5,0.4,0.4,0.5,single superphosphate(SSP)
+544,0.7,0.8,0.2,0.4,0.8,0.6,0.6,0.7,0.9,potassium sulphate(SOP)
+545,0.7,0.7,0.3,0.1,0.5,0.8,0.6,0.7,0.8,potassium sulphate(SOP)
+546,0.6,0.7,0.7,0.6,0.2,0.4,0.6,0.8,0.6,ammonium nitrate lime(ANL)
+547,0.8,0.7,0.6,0.5,0.7,0.5,0.3,0.1,0.9,single superphosphate(SSP)
+548,0.8,0.7,0.2,0.4,0.8,0.8,0.8,0.5,0.6,potassium sulphate(SOP)
+549,0.8,0.6,0.6,0.8,0.5,0.7,0.4,0.2,0.5,single superphosphate(SSP)
+550,0.8,0.8,0.4,0.1,0.5,0.8,0.8,0.5,0.5,potassium sulphate(SOP)
+551,0.7,0.8,0.7,0.8,0.1,0.3,0.6,0.8,0.9,ammonium nitrate lime(ANL)
+552,0.8,0.5,0.5,0.8,0.4,0.2,0.7,0.8,0.5,ammonium nitrate lime(ANL)
+553,0.6,0.8,0.4,0.1,0.7,0.5,0.6,0.5,0.7,potassium sulphate(SOP)
+554,0.8,0.6,0.4,0.3,0.7,0.5,0.8,0.8,0.5,potassium sulphate(SOP)
+555,0.5,0.8,0.7,0.7,0.5,0.8,0.4,0.1,0.8,single superphosphate(SSP)
+556,0.8,0.7,0.7,0.7,0.3,0.3,0.8,0.7,0.7,ammonium nitrate lime(ANL)
+557,0.8,0.5,0.3,0.3,0.6,0.6,0.8,0.7,0.8,potassium sulphate(SOP)
+558,0.8,0.8,0.8,0.8,0.3,0.3,0.5,0.6,0.9,ammonium nitrate lime(ANL)
+559,0.5,0.7,0.7,0.5,0.7,0.7,0.2,0.2,0.8,single superphosphate(SSP)
+560,0.8,0.8,0.5,0.8,0.5,0.6,0.4,0.4,0.7,single superphosphate(SSP)
+561,0.4,0.3,0.5,0.5,0.8,0.5,0.6,0.6,0.8,kieserite
+562,0.8,0.6,0.6,0.5,0.7,0.7,0.2,0.1,0.7,single superphosphate(SSP)
+563,0.5,0.7,0.6,0.6,0.8,0.6,0.3,0.2,0.5,single superphosphate(SSP)
+564,0.5,0.8,0.6,0.8,0.4,0.2,0.8,0.7,0.6,ammonium nitrate lime(ANL)
+565,0.8,0.5,0.6,0.7,0.8,0.5,0.3,0.2,0.5,single superphosphate(SSP)
+566,0.2,0.3,0.8,0.7,0.6,0.8,0.5,0.5,0.8,kieserite
+567,0.1,0.4,0.7,0.6,0.7,0.7,0.6,0.8,0.9,kieserite
+568,0.5,0.6,0.5,0.6,0.5,0.6,0.3,0.3,0.7,single superphosphate(SSP)
+569,0.1,0.2,0.6,0.5,0.5,0.7,0.6,0.6,0.9,kieserite
+570,0.4,0.4,0.6,0.6,0.5,0.7,0.5,0.6,0.6,kieserite
+571,0.6,0.8,0.4,0.3,0.8,0.6,0.8,0.6,0.6,potassium sulphate(SOP)
+572,0.1,0.1,0.6,0.7,0.6,0.7,0.6,0.7,0.8,kieserite
+573,0.3,0.4,0.7,0.6,0.8,0.7,0.6,0.7,0.6,kieserite
+574,0.5,0.7,0.7,0.5,0.6,0.8,0.3,0.4,0.9,single superphosphate(SSP)
+575,0.6,0.7,0.8,0.5,0.4,0.1,0.5,0.6,0.8,ammonium nitrate lime(ANL)
+576,0.6,0.8,0.4,0.4,0.6,0.8,0.5,0.5,0.5,potassium sulphate(SOP)
+577,0.5,0.7,0.8,0.8,0.6,0.5,0.1,0.2,0.8,single superphosphate(SSP)
+578,0.5,0.8,0.5,0.8,0.2,0.2,0.8,0.7,0.8,ammonium nitrate lime(ANL)
+579,0.2,0.4,0.6,0.5,0.5,0.7,0.5,0.7,0.9,kieserite
+580,0.8,0.5,0.2,0.1,0.5,0.6,0.5,0.8,0.5,potassium sulphate(SOP)
+581,0.6,0.6,0.7,0.6,0.7,0.6,0.1,0.1,0.9,single superphosphate(SSP)
+582,0.6,0.7,0.6,0.5,0.4,0.2,0.6,0.7,0.8,ammonium nitrate lime(ANL)
+583,0.6,0.5,0.4,0.4,0.8,0.6,0.6,0.5,0.5,potassium sulphate(SOP)
+584,0.6,0.5,0.3,0.2,0.8,0.8,0.6,0.5,0.6,potassium sulphate(SOP)
+585,0.2,0.4,0.5,0.8,0.6,0.7,0.5,0.7,0.7,kieserite
+586,0.5,0.6,0.2,0.2,0.5,0.6,0.7,0.7,0.9,potassium sulphate(SOP)
+587,0.5,0.6,0.6,0.7,0.1,0.1,0.8,0.5,0.8,ammonium nitrate lime(ANL)
+588,0.5,0.8,0.5,0.6,0.2,0.2,0.7,0.8,0.5,ammonium nitrate lime(ANL)
+589,0.5,0.8,0.7,0.8,0.1,0.2,0.7,0.6,0.5,ammonium nitrate lime(ANL)
+590,0.8,0.7,0.3,0.2,0.5,0.7,0.6,0.8,0.7,potassium sulphate(SOP)
+591,0.6,0.8,0.1,0.2,0.6,0.8,0.5,0.7,0.6,potassium sulphate(SOP)
+592,0.6,0.8,0.3,0.1,0.8,0.8,0.8,0.5,0.9,potassium sulphate(SOP)
+593,0.8,0.6,0.6,0.8,0.5,0.6,0.4,0.1,0.9,single superphosphate(SSP)
+594,0.6,0.8,0.6,0.8,0.2,0.3,0.5,0.6,0.5,ammonium nitrate lime(ANL)
+595,0.7,0.7,0.6,0.8,0.2,0.3,0.7,0.7,0.8,ammonium nitrate lime(ANL)
+596,0.5,0.5,0.2,0.3,0.6,0.7,0.8,0.5,0.5,potassium sulphate(SOP)
+597,0.3,0.1,0.6,0.8,0.7,0.5,0.8,0.7,0.5,kieserite
+598,0.7,0.5,0.4,0.1,0.7,0.5,0.8,0.8,0.7,potassium sulphate(SOP)
+599,0.8,0.5,0.3,0.4,0.6,0.8,0.6,0.6,0.9,potassium sulphate(SOP)
+600,0.5,0.8,0.6,0.5,0.1,0.3,0.7,0.6,0.7,ammonium nitrate lime(ANL)
+601,0.2,0.3,0.6,0.6,0.6,0.5,0.8,0.5,0.8,kieserite
+602,0.5,0.8,0.8,0.7,0.7,0.6,0.2,0.4,0.5,single superphosphate(SSP)
+603,0.7,0.5,0.3,0.3,0.6,0.5,0.5,0.5,0.6,potassium sulphate(SOP)
+604,0.2,0.3,0.7,0.7,0.8,0.7,0.6,0.5,0.9,kieserite
+605,0.5,0.8,0.8,0.8,0.1,0.2,0.5,0.8,0.6,ammonium nitrate lime(ANL)
+606,0.5,0.7,0.1,0.3,0.7,0.6,0.7,0.7,0.9,potassium sulphate(SOP)
+607,0.3,0.2,0.8,0.8,0.6,0.5,0.8,0.7,0.8,kieserite
+608,0.4,0.2,0.7,0.8,0.6,0.8,0.7,0.5,0.6,kieserite
+609,0.8,0.8,0.7,0.5,0.2,0.4,0.5,0.7,0.8,ammonium nitrate lime(ANL)
+610,0.4,0.3,0.7,0.7,0.5,0.8,0.6,0.8,0.8,kieserite
+611,0.2,0.2,0.5,0.8,0.5,0.5,0.5,0.6,0.9,kieserite
+612,0.7,0.7,0.5,0.5,0.4,0.4,0.6,0.8,0.6,ammonium nitrate lime(ANL)
+613,0.8,0.8,0.7,0.8,0.8,0.7,0.2,0.3,0.9,single superphosphate(SSP)
+614,0.8,0.7,0.8,0.7,0.7,0.7,0.1,0.4,0.8,single superphosphate(SSP)
+615,0.2,0.2,0.6,0.7,0.8,0.8,0.6,0.6,0.9,kieserite
+616,0.8,0.5,0.3,0.2,0.6,0.8,0.7,0.5,0.6,potassium sulphate(SOP)
+617,0.7,0.5,0.3,0.4,0.6,0.6,0.5,0.6,0.5,potassium sulphate(SOP)
+618,0.7,0.7,0.6,0.6,0.4,0.2,0.6,0.5,0.8,ammonium nitrate lime(ANL)
+619,0.5,0.8,0.7,0.8,0.1,0.2,0.8,0.5,0.8,ammonium nitrate lime(ANL)
+620,0.8,0.6,0.7,0.8,0.5,0.5,0.2,0.3,0.5,single superphosphate(SSP)
+621,0.2,0.3,0.5,0.7,0.8,0.6,0.6,0.7,0.8,kieserite
+622,0.5,0.7,0.7,0.6,0.6,0.8,0.1,0.3,0.9,single superphosphate(SSP)
+623,0.8,0.6,0.7,0.6,0.5,0.8,0.2,0.4,0.6,single superphosphate(SSP)
+624,0.2,0.4,0.6,0.5,0.5,0.5,0.8,0.7,0.5,kieserite
+625,0.2,0.2,0.8,0.5,0.8,0.8,0.6,0.8,0.6,kieserite
+626,0.4,0.1,0.7,0.6,0.5,0.6,0.8,0.7,0.8,kieserite
+627,0.8,0.8,0.8,0.6,0.4,0.4,0.6,0.7,0.6,ammonium nitrate lime(ANL)
+628,0.6,0.6,0.2,0.1,0.8,0.5,0.7,0.8,0.6,potassium sulphate(SOP)
+629,0.8,0.5,0.7,0.8,0.8,0.5,0.4,0.4,0.9,single superphosphate(SSP)
+630,0.4,0.3,0.6,0.8,0.8,0.8,0.6,0.5,0.9,kieserite
+631,0.6,0.7,0.6,0.6,0.1,0.3,0.5,0.7,0.8,ammonium nitrate lime(ANL)
+632,0.3,0.3,0.6,0.5,0.5,0.6,0.6,0.8,0.9,kieserite
+633,0.3,0.4,0.5,0.5,0.7,0.7,0.5,0.8,0.8,kieserite
+634,0.1,0.3,0.8,0.7,0.6,0.8,0.6,0.7,0.7,kieserite
+635,0.3,0.2,0.8,0.8,0.7,0.5,0.6,0.8,0.9,kieserite
+636,0.6,0.6,0.1,0.3,0.7,0.7,0.8,0.6,0.7,potassium sulphate(SOP)
+637,0.3,0.1,0.7,0.8,0.8,0.6,0.8,0.7,0.9,kieserite
+638,0.8,0.7,0.6,0.6,0.1,0.1,0.6,0.7,0.8,ammonium nitrate lime(ANL)
+639,0.1,0.2,0.6,0.5,0.5,0.8,0.7,0.8,0.8,kieserite
+640,0.5,0.8,0.6,0.6,0.5,0.6,0.1,0.1,0.5,single superphosphate(SSP)
+641,0.2,0.1,0.7,0.6,0.7,0.5,0.7,0.8,0.6,kieserite
+642,0.6,0.7,0.6,0.6,0.1,0.2,0.5,0.5,0.7,ammonium nitrate lime(ANL)
+643,0.7,0.6,0.1,0.1,0.7,0.8,0.6,0.6,0.7,potassium sulphate(SOP)
+644,0.6,0.5,0.4,0.4,0.8,0.8,0.5,0.7,0.6,potassium sulphate(SOP)
+645,0.3,0.1,0.8,0.8,0.5,0.8,0.6,0.7,0.7,kieserite
+646,0.4,0.2,0.7,0.5,0.6,0.5,0.7,0.6,0.5,kieserite
+647,0.5,0.7,0.8,0.8,0.2,0.1,0.6,0.7,0.6,ammonium nitrate lime(ANL)
+648,0.6,0.8,0.2,0.2,0.8,0.7,0.5,0.5,0.7,potassium sulphate(SOP)
+649,0.5,0.6,0.6,0.8,0.3,0.4,0.8,0.5,0.8,ammonium nitrate lime(ANL)
+650,0.4,0.3,0.5,0.6,0.5,0.8,0.8,0.8,0.5,kieserite
+651,0.5,0.7,0.7,0.5,0.8,0.5,0.1,0.1,0.5,single superphosphate(SSP)
+652,0.7,0.6,0.8,0.7,0.3,0.1,0.6,0.5,0.7,ammonium nitrate lime(ANL)
+653,0.5,0.8,0.1,0.2,0.8,0.8,0.7,0.5,0.5,potassium sulphate(SOP)
+654,0.5,0.8,0.7,0.5,0.3,0.3,0.8,0.6,0.8,ammonium nitrate lime(ANL)
+655,0.8,0.7,0.1,0.4,0.7,0.6,0.7,0.8,0.5,potassium sulphate(SOP)
+656,0.6,0.7,0.6,0.6,0.4,0.3,0.7,0.5,0.7,ammonium nitrate lime(ANL)
+657,0.1,0.2,0.8,0.7,0.7,0.5,0.6,0.8,0.7,kieserite
+658,0.6,0.6,0.8,0.7,0.4,0.4,0.5,0.5,0.7,ammonium nitrate lime(ANL)
+659,0.7,0.7,0.7,0.7,0.7,0.5,0.3,0.4,0.6,single superphosphate(SSP)
+660,0.8,0.7,0.6,0.5,0.4,0.4,0.7,0.7,0.7,ammonium nitrate lime(ANL)
+661,0.2,0.1,0.6,0.6,0.6,0.7,0.6,0.8,0.6,kieserite
+662,0.6,0.6,0.4,0.4,0.7,0.8,0.8,0.5,0.7,potassium sulphate(SOP)
+663,0.7,0.7,0.5,0.5,0.4,0.4,0.6,0.8,0.6,ammonium nitrate lime(ANL)
+664,0.7,0.6,0.5,0.8,0.3,0.3,0.8,0.7,0.6,ammonium nitrate lime(ANL)
+665,0.1,0.2,0.5,0.6,0.6,0.6,0.7,0.6,0.9,kieserite
+666,0.8,0.5,0.1,0.3,0.6,0.6,0.6,0.5,0.9,potassium sulphate(SOP)
+667,0.8,0.8,0.4,0.4,0.5,0.6,0.8,0.8,0.8,potassium sulphate(SOP)
+668,0.5,0.5,0.5,0.7,0.1,0.1,0.6,0.5,0.5,ammonium nitrate lime(ANL)
+669,0.5,0.8,0.4,0.3,0.6,0.6,0.7,0.7,0.7,potassium sulphate(SOP)
+670,0.3,0.2,0.7,0.8,0.8,0.8,0.7,0.6,0.8,kieserite
+671,0.1,0.3,0.5,0.5,0.6,0.6,0.6,0.7,0.8,kieserite
+672,0.5,0.8,0.3,0.4,0.5,0.5,0.6,0.6,0.8,potassium sulphate(SOP)
+673,0.8,0.7,0.7,0.5,0.7,0.6,0.1,0.2,0.8,single superphosphate(SSP)
+674,0.5,0.7,0.4,0.3,0.5,0.8,0.6,0.5,0.8,potassium sulphate(SOP)
+675,0.5,0.5,0.7,0.5,0.2,0.1,0.5,0.5,0.7,ammonium nitrate lime(ANL)
+676,0.8,0.5,0.8,0.7,0.2,0.4,0.6,0.7,0.9,ammonium nitrate lime(ANL)
+677,0.8,0.5,0.6,0.5,0.5,0.8,0.3,0.1,0.8,single superphosphate(SSP)
+678,0.3,0.3,0.6,0.5,0.8,0.7,0.7,0.7,0.5,kieserite
+679,0.7,0.6,0.2,0.1,0.6,0.6,0.8,0.7,0.7,potassium sulphate(SOP)
+680,0.4,0.2,0.6,0.5,0.8,0.5,0.8,0.8,0.7,kieserite
+681,0.7,0.7,0.3,0.3,0.8,0.7,0.7,0.5,0.5,potassium sulphate(SOP)
+682,0.6,0.6,0.6,0.8,0.2,0.1,0.6,0.5,0.5,ammonium nitrate lime(ANL)
+683,0.8,0.8,0.2,0.2,0.7,0.7,0.5,0.8,0.9,potassium sulphate(SOP)
+684,0.7,0.6,0.8,0.7,0.3,0.1,0.5,0.8,0.8,ammonium nitrate lime(ANL)
+685,0.7,0.8,0.4,0.2,0.5,0.6,0.5,0.7,0.8,potassium sulphate(SOP)
+686,0.2,0.1,0.8,0.6,0.5,0.6,0.7,0.6,0.7,kieserite
+687,0.5,0.6,0.7,0.7,0.2,0.3,0.5,0.6,0.8,ammonium nitrate lime(ANL)
+688,0.6,0.5,0.7,0.6,0.4,0.2,0.7,0.5,0.6,ammonium nitrate lime(ANL)
+689,0.6,0.7,0.3,0.2,0.8,0.7,0.6,0.8,0.5,potassium sulphate(SOP)
+690,0.5,0.7,0.7,0.8,0.3,0.2,0.7,0.5,0.7,ammonium nitrate lime(ANL)
+691,0.8,0.8,0.4,0.2,0.5,0.7,0.6,0.6,0.6,potassium sulphate(SOP)
+692,0.7,0.5,0.5,0.6,0.1,0.3,0.7,0.7,0.7,ammonium nitrate lime(ANL)
+693,0.4,0.3,0.5,0.5,0.5,0.5,0.7,0.8,0.5,kieserite
+694,0.8,0.5,0.6,0.5,0.2,0.3,0.7,0.5,0.6,ammonium nitrate lime(ANL)
+695,0.5,0.8,0.5,0.6,0.5,0.8,0.3,0.2,0.9,single superphosphate(SSP)
+696,0.1,0.3,0.5,0.6,0.7,0.7,0.7,0.7,0.6,kieserite
+697,0.8,0.8,0.7,0.7,0.2,0.4,0.7,0.7,0.8,ammonium nitrate lime(ANL)
+698,0.5,0.5,0.8,0.6,0.1,0.2,0.7,0.5,0.5,ammonium nitrate lime(ANL)
+699,0.2,0.4,0.6,0.7,0.5,0.6,0.5,0.5,0.9,kieserite
+700,0.4,0.2,0.5,0.8,0.8,0.5,0.6,0.6,0.5,kieserite
+701,0.8,0.7,0.7,0.7,0.2,0.2,0.8,0.7,0.6,ammonium nitrate lime(ANL)
+702,0.1,0.2,0.5,0.8,0.6,0.6,0.8,0.6,0.9,kieserite
+703,0.8,0.7,0.8,0.7,0.2,0.4,0.5,0.6,0.6,ammonium nitrate lime(ANL)
+704,0.7,0.6,0.1,0.4,0.5,0.8,0.5,0.5,0.8,potassium sulphate(SOP)
+705,0.8,0.7,0.4,0.2,0.7,0.5,0.6,0.8,0.7,potassium sulphate(SOP)
+706,0.6,0.8,0.4,0.3,0.8,0.8,0.7,0.8,0.5,potassium sulphate(SOP)
+707,0.5,0.7,0.4,0.4,0.7,0.6,0.8,0.7,0.8,potassium sulphate(SOP)
+708,0.5,0.6,0.6,0.5,0.2,0.1,0.8,0.8,0.7,ammonium nitrate lime(ANL)
+709,0.8,0.5,0.1,0.2,0.8,0.8,0.5,0.7,0.8,potassium sulphate(SOP)
+710,0.6,0.8,0.7,0.5,0.6,0.6,0.3,0.4,0.5,single superphosphate(SSP)
+711,0.1,0.4,0.5,0.6,0.5,0.8,0.8,0.7,0.5,kieserite
+712,0.7,0.5,0.7,0.5,0.7,0.8,0.3,0.2,0.6,single superphosphate(SSP)
+713,0.4,0.4,0.6,0.7,0.6,0.6,0.6,0.8,0.9,kieserite
+714,0.6,0.5,0.7,0.8,0.6,0.7,0.1,0.4,0.5,single superphosphate(SSP)
+715,0.7,0.6,0.6,0.8,0.2,0.4,0.6,0.7,0.7,ammonium nitrate lime(ANL)
+716,0.3,0.3,0.8,0.8,0.8,0.7,0.6,0.5,0.7,kieserite
+717,0.5,0.7,0.4,0.3,0.5,0.6,0.8,0.8,0.5,potassium sulphate(SOP)
+718,0.6,0.6,0.4,0.1,0.6,0.5,0.8,0.6,0.6,potassium sulphate(SOP)
+719,0.7,0.8,0.3,0.4,0.6,0.7,0.6,0.8,0.5,potassium sulphate(SOP)
+720,0.7,0.8,0.6,0.8,0.2,0.1,0.8,0.7,0.6,ammonium nitrate lime(ANL)
+721,0.5,0.6,0.5,0.6,0.7,0.6,0.3,0.1,0.7,single superphosphate(SSP)
+722,0.2,0.2,0.7,0.5,0.6,0.5,0.5,0.6,0.8,kieserite
+723,0.1,0.1,0.8,0.8,0.8,0.8,0.7,0.8,0.8,kieserite
+724,0.5,0.5,0.6,0.6,0.1,0.2,0.7,0.7,0.5,ammonium nitrate lime(ANL)
+725,0.7,0.8,0.6,0.6,0.7,0.5,0.1,0.2,0.7,single superphosphate(SSP)
+726,0.7,0.5,0.6,0.7,0.8,0.7,0.3,0.2,0.7,single superphosphate(SSP)
+727,0.6,0.5,0.1,0.4,0.7,0.8,0.6,0.7,0.8,potassium sulphate(SOP)
+728,0.7,0.6,0.8,0.5,0.5,0.7,0.1,0.3,0.6,single superphosphate(SSP)
+729,0.3,0.4,0.5,0.6,0.8,0.8,0.7,0.5,0.8,kieserite
+730,0.4,0.1,0.5,0.6,0.7,0.7,0.5,0.6,0.9,kieserite
+731,0.6,0.7,0.2,0.1,0.8,0.7,0.5,0.7,0.7,potassium sulphate(SOP)
+732,0.3,0.4,0.8,0.8,0.6,0.7,0.5,0.5,0.6,kieserite
+733,0.6,0.8,0.5,0.5,0.7,0.5,0.1,0.4,0.9,single superphosphate(SSP)
+734,0.5,0.7,0.5,0.8,0.4,0.1,0.7,0.8,0.7,ammonium nitrate lime(ANL)
+735,0.8,0.5,0.6,0.7,0.6,0.7,0.2,0.1,0.5,single superphosphate(SSP)
+736,0.5,0.6,0.8,0.5,0.6,0.6,0.4,0.2,0.8,single superphosphate(SSP)
+737,0.3,0.4,0.8,0.8,0.8,0.5,0.8,0.5,0.5,kieserite
+738,0.5,0.6,0.4,0.2,0.5,0.6,0.8,0.8,0.8,potassium sulphate(SOP)
+739,0.6,0.6,0.8,0.7,0.2,0.2,0.7,0.5,0.8,ammonium nitrate lime(ANL)
+740,0.8,0.7,0.5,0.6,0.5,0.5,0.3,0.3,0.9,single superphosphate(SSP)
+741,0.3,0.2,0.5,0.5,0.8,0.5,0.7,0.5,0.5,kieserite
+742,0.7,0.6,0.5,0.6,0.5,0.5,0.1,0.3,0.9,single superphosphate(SSP)
+743,0.6,0.6,0.7,0.5,0.3,0.3,0.8,0.7,0.9,ammonium nitrate lime(ANL)
+744,0.5,0.6,0.5,0.8,0.2,0.4,0.5,0.7,0.8,ammonium nitrate lime(ANL)
+745,0.8,0.7,0.3,0.1,0.8,0.8,0.8,0.8,0.9,potassium sulphate(SOP)
+746,0.7,0.8,0.8,0.8,0.8,0.5,0.2,0.3,0.6,single superphosphate(SSP)
+747,0.7,0.5,0.8,0.5,0.4,0.4,0.5,0.7,0.5,ammonium nitrate lime(ANL)
+748,0.6,0.8,0.8,0.7,0.3,0.2,0.5,0.6,0.6,ammonium nitrate lime(ANL)
+749,0.3,0.3,0.5,0.7,0.7,0.8,0.5,0.6,0.9,kieserite
+750,0.1,0.1,0.7,0.6,0.6,0.8,0.7,0.8,0.9,kieserite
+751,0.3,0.4,0.8,0.8,0.6,0.6,0.6,0.8,0.7,kieserite
+752,0.5,0.5,0.1,0.3,0.8,0.8,0.5,0.5,0.8,potassium sulphate(SOP)
+753,0.7,0.5,0.2,0.2,0.8,0.7,0.8,0.7,0.6,potassium sulphate(SOP)
+754,0.6,0.5,0.2,0.3,0.7,0.5,0.7,0.5,0.9,potassium sulphate(SOP)
+755,0.7,0.8,0.8,0.6,0.8,0.8,0.4,0.3,0.5,single superphosphate(SSP)
+756,0.6,0.5,0.8,0.8,0.1,0.4,0.5,0.5,0.8,ammonium nitrate lime(ANL)
+757,0.5,0.6,0.8,0.8,0.5,0.6,0.3,0.1,0.8,single superphosphate(SSP)
+758,0.7,0.5,0.2,0.4,0.7,0.7,0.5,0.8,0.8,potassium sulphate(SOP)
+759,0.6,0.7,0.7,0.8,0.8,0.7,0.3,0.4,0.8,single superphosphate(SSP)
+760,0.5,0.7,0.5,0.7,0.1,0.4,0.7,0.7,0.9,ammonium nitrate lime(ANL)
+761,0.8,0.8,0.2,0.1,0.6,0.6,0.5,0.7,0.7,potassium sulphate(SOP)
+762,0.1,0.4,0.5,0.6,0.6,0.6,0.7,0.7,0.6,kieserite
+763,0.2,0.3,0.8,0.5,0.6,0.7,0.7,0.7,0.6,kieserite
+764,0.6,0.7,0.8,0.7,0.7,0.7,0.3,0.4,0.9,single superphosphate(SSP)
+765,0.7,0.6,0.6,0.8,0.5,0.5,0.1,0.2,0.8,single superphosphate(SSP)
+766,0.2,0.4,0.5,0.8,0.7,0.6,0.7,0.8,0.9,kieserite
+767,0.5,0.7,0.8,0.5,0.4,0.4,0.8,0.7,0.8,ammonium nitrate lime(ANL)
+768,0.5,0.6,0.1,0.4,0.7,0.8,0.7,0.8,0.5,potassium sulphate(SOP)
+769,0.6,0.7,0.5,0.8,0.1,0.4,0.6,0.5,0.8,ammonium nitrate lime(ANL)
+770,0.8,0.8,0.1,0.2,0.5,0.5,0.5,0.5,0.6,potassium sulphate(SOP)
+771,0.8,0.5,0.3,0.1,0.6,0.6,0.8,0.5,0.6,potassium sulphate(SOP)
+772,0.5,0.7,0.8,0.8,0.3,0.3,0.7,0.6,0.5,ammonium nitrate lime(ANL)
+773,0.6,0.6,0.5,0.7,0.4,0.2,0.8,0.5,0.7,ammonium nitrate lime(ANL)
+774,0.6,0.6,0.3,0.4,0.6,0.7,0.5,0.8,0.6,potassium sulphate(SOP)
+775,0.6,0.8,0.1,0.3,0.7,0.8,0.8,0.7,0.8,potassium sulphate(SOP)
+776,0.4,0.4,0.6,0.5,0.6,0.7,0.6,0.8,0.9,kieserite
+777,0.8,0.5,0.2,0.3,0.7,0.7,0.8,0.7,0.7,potassium sulphate(SOP)
+778,0.8,0.6,0.3,0.2,0.5,0.6,0.8,0.7,0.6,potassium sulphate(SOP)
+779,0.4,0.1,0.5,0.6,0.6,0.6,0.7,0.6,0.5,kieserite
+780,0.6,0.7,0.7,0.7,0.6,0.5,0.1,0.2,0.7,single superphosphate(SSP)
+781,0.6,0.7,0.1,0.1,0.5,0.5,0.8,0.6,0.8,potassium sulphate(SOP)
+782,0.6,0.6,0.1,0.4,0.6,0.5,0.5,0.8,0.9,potassium sulphate(SOP)
+783,0.6,0.8,0.5,0.6,0.2,0.1,0.8,0.7,0.7,ammonium nitrate lime(ANL)
+784,0.4,0.2,0.5,0.5,0.5,0.7,0.5,0.6,0.6,kieserite
+785,0.8,0.5,0.5,0.8,0.2,0.3,0.6,0.5,0.8,ammonium nitrate lime(ANL)
+786,0.2,0.2,0.7,0.6,0.6,0.8,0.8,0.8,0.7,kieserite
+787,0.1,0.1,0.8,0.8,0.6,0.7,0.7,0.7,0.8,kieserite
+788,0.6,0.7,0.5,0.8,0.6,0.7,0.2,0.3,0.8,single superphosphate(SSP)
+789,0.3,0.3,0.7,0.8,0.8,0.6,0.8,0.6,0.8,kieserite
+790,0.8,0.5,0.7,0.7,0.8,0.5,0.3,0.2,0.8,single superphosphate(SSP)
+791,0.6,0.7,0.7,0.6,0.7,0.5,0.2,0.3,0.8,single superphosphate(SSP)
+792,0.6,0.6,0.6,0.6,0.4,0.1,0.5,0.7,0.9,ammonium nitrate lime(ANL)
+793,0.8,0.8,0.6,0.6,0.3,0.1,0.8,0.7,0.9,ammonium nitrate lime(ANL)
+794,0.3,0.3,0.5,0.6,0.6,0.6,0.7,0.8,0.9,kieserite
+795,0.6,0.6,0.3,0.2,0.8,0.6,0.5,0.6,0.5,potassium sulphate(SOP)
+796,0.8,0.8,0.8,0.6,0.2,0.4,0.8,0.5,0.8,ammonium nitrate lime(ANL)
+797,0.2,0.1,0.5,0.6,0.7,0.8,0.7,0.7,0.5,kieserite
+798,0.7,0.6,0.7,0.6,0.7,0.6,0.1,0.4,0.6,single superphosphate(SSP)
+799,0.3,0.4,0.6,0.6,0.6,0.6,0.5,0.5,0.6,kieserite
+800,0.2,0.1,0.8,0.5,0.6,0.5,0.8,0.7,0.5,kieserite
+801,0.1,0.2,0.8,0.8,0.6,0.5,0.6,0.7,0.7,kieserite
+802,0.8,0.6,0.7,0.5,0.7,0.6,0.4,0.4,0.7,single superphosphate(SSP)
+803,0.3,0.1,0.5,0.6,0.5,0.8,0.5,0.8,0.7,kieserite
+804,0.6,0.6,0.7,0.6,0.5,0.7,0.1,0.1,0.5,single superphosphate(SSP)
+805,0.5,0.5,0.6,0.6,0.1,0.1,0.6,0.7,0.8,ammonium nitrate lime(ANL)
+806,0.1,0.3,0.7,0.5,0.8,0.7,0.7,0.8,0.9,kieserite
+807,0.8,0.8,0.3,0.4,0.7,0.8,0.6,0.7,0.8,potassium sulphate(SOP)
+808,0.5,0.8,0.2,0.3,0.7,0.7,0.6,0.7,0.7,potassium sulphate(SOP)
+809,0.5,0.5,0.2,0.3,0.5,0.8,0.7,0.8,0.5,potassium sulphate(SOP)
+810,0.7,0.5,0.7,0.8,0.8,0.6,0.3,0.3,0.5,single superphosphate(SSP)
+811,0.1,0.2,0.6,0.5,0.8,0.7,0.7,0.7,0.7,kieserite
+812,0.6,0.5,0.7,0.8,0.7,0.8,0.1,0.4,0.9,single superphosphate(SSP)
+813,0.1,0.1,0.7,0.6,0.6,0.7,0.8,0.8,0.5,kieserite
+814,0.6,0.8,0.4,0.4,0.7,0.7,0.7,0.5,0.5,potassium sulphate(SOP)
+815,0.6,0.6,0.3,0.1,0.8,0.5,0.5,0.7,0.9,potassium sulphate(SOP)
+816,0.6,0.6,0.8,0.6,0.6,0.6,0.2,0.3,0.6,single superphosphate(SSP)
+817,0.6,0.8,0.5,0.5,0.5,0.5,0.4,0.4,0.6,single superphosphate(SSP)
+818,0.7,0.6,0.2,0.3,0.8,0.5,0.8,0.5,0.9,potassium sulphate(SOP)
+819,0.6,0.5,0.7,0.6,0.2,0.3,0.6,0.6,0.7,ammonium nitrate lime(ANL)
+820,0.5,0.8,0.7,0.5,0.6,0.7,0.4,0.2,0.7,single superphosphate(SSP)
+821,0.8,0.8,0.8,0.8,0.3,0.1,0.6,0.5,0.9,ammonium nitrate lime(ANL)
+822,0.7,0.7,0.7,0.6,0.7,0.5,0.4,0.1,0.8,single superphosphate(SSP)
+823,0.3,0.3,0.6,0.7,0.7,0.5,0.6,0.8,0.8,kieserite
+824,0.6,0.6,0.7,0.8,0.6,0.6,0.3,0.2,0.5,single superphosphate(SSP)
+825,0.4,0.2,0.6,0.6,0.8,0.7,0.8,0.6,0.5,kieserite
+826,0.7,0.8,0.8,0.6,0.4,0.3,0.5,0.8,0.8,ammonium nitrate lime(ANL)
+827,0.5,0.6,0.7,0.8,0.3,0.1,0.8,0.5,0.9,ammonium nitrate lime(ANL)
+828,0.8,0.6,0.7,0.7,0.5,0.7,0.4,0.3,0.7,single superphosphate(SSP)
+829,0.8,0.7,0.4,0.1,0.6,0.7,0.6,0.8,0.7,potassium sulphate(SOP)
+830,0.1,0.3,0.8,0.5,0.6,0.5,0.8,0.8,0.5,kieserite
+831,0.5,0.8,0.7,0.5,0.5,0.5,0.1,0.2,0.8,single superphosphate(SSP)
+832,0.8,0.7,0.6,0.6,0.5,0.8,0.2,0.2,0.6,single superphosphate(SSP)
+833,0.6,0.8,0.8,0.5,0.6,0.6,0.3,0.2,0.9,single superphosphate(SSP)
+834,0.6,0.5,0.6,0.6,0.7,0.7,0.1,0.4,0.6,single superphosphate(SSP)
+835,0.1,0.4,0.7,0.7,0.7,0.5,0.6,0.5,0.5,kieserite
+836,0.2,0.1,0.7,0.7,0.6,0.6,0.5,0.6,0.5,kieserite
+837,0.2,0.1,0.8,0.5,0.8,0.7,0.5,0.5,0.8,kieserite
+838,0.8,0.5,0.7,0.8,0.6,0.6,0.3,0.3,0.8,single superphosphate(SSP)
+839,0.8,0.6,0.4,0.4,0.6,0.5,0.7,0.7,0.5,potassium sulphate(SOP)
+840,0.7,0.7,0.8,0.6,0.5,0.6,0.1,0.3,0.7,single superphosphate(SSP)
+841,0.5,0.6,0.3,0.2,0.6,0.7,0.5,0.6,0.8,potassium sulphate(SOP)
+842,0.1,0.4,0.7,0.8,0.7,0.6,0.8,0.6,0.8,kieserite
+843,0.5,0.5,0.5,0.8,0.7,0.6,0.4,0.3,0.7,single superphosphate(SSP)
+844,0.5,0.7,0.5,0.7,0.2,0.1,0.8,0.7,0.6,ammonium nitrate lime(ANL)
+845,0.6,0.8,0.7,0.8,0.1,0.4,0.8,0.5,0.8,ammonium nitrate lime(ANL)
+846,0.2,0.2,0.8,0.6,0.6,0.5,0.8,0.5,0.5,kieserite
+847,0.7,0.6,0.5,0.7,0.3,0.4,0.7,0.5,0.8,ammonium nitrate lime(ANL)
+848,0.7,0.5,0.7,0.7,0.8,0.8,0.3,0.3,0.9,single superphosphate(SSP)
+849,0.8,0.6,0.8,0.6,0.8,0.8,0.2,0.2,0.7,single superphosphate(SSP)
+850,0.6,0.5,0.2,0.3,0.7,0.5,0.6,0.7,0.9,potassium sulphate(SOP)
+851,0.5,0.5,0.8,0.8,0.4,0.1,0.8,0.6,0.5,ammonium nitrate lime(ANL)
+852,0.8,0.6,0.6,0.7,0.6,0.7,0.4,0.3,0.6,single superphosphate(SSP)
+853,0.7,0.7,0.8,0.8,0.6,0.5,0.3,0.4,0.5,single superphosphate(SSP)
+854,0.7,0.7,0.3,0.3,0.8,0.6,0.6,0.6,0.8,potassium sulphate(SOP)
+855,0.5,0.7,0.7,0.5,0.6,0.7,0.4,0.3,0.9,single superphosphate(SSP)
+856,0.8,0.7,0.3,0.3,0.8,0.5,0.5,0.5,0.9,potassium sulphate(SOP)
+857,0.8,0.8,0.8,0.5,0.3,0.2,0.8,0.5,0.9,ammonium nitrate lime(ANL)
+858,0.2,0.2,0.7,0.5,0.5,0.6,0.5,0.8,0.7,kieserite
+859,0.8,0.8,0.2,0.1,0.6,0.8,0.8,0.6,0.7,potassium sulphate(SOP)
+860,0.4,0.3,0.5,0.5,0.6,0.7,0.5,0.5,0.5,kieserite
+861,0.6,0.6,0.1,0.4,0.7,0.7,0.6,0.5,0.7,potassium sulphate(SOP)
+862,0.6,0.6,0.5,0.8,0.6,0.5,0.1,0.2,0.5,single superphosphate(SSP)
+863,0.1,0.2,0.7,0.8,0.8,0.5,0.6,0.5,0.6,kieserite
+864,0.6,0.7,0.1,0.3,0.7,0.5,0.8,0.6,0.6,potassium sulphate(SOP)
+865,0.8,0.6,0.6,0.5,0.4,0.1,0.6,0.5,0.7,ammonium nitrate lime(ANL)
+866,0.7,0.8,0.5,0.6,0.5,0.7,0.3,0.3,0.6,single superphosphate(SSP)
+867,0.4,0.4,0.8,0.8,0.6,0.6,0.7,0.8,0.7,kieserite
+868,0.7,0.5,0.1,0.1,0.5,0.7,0.7,0.6,0.5,potassium sulphate(SOP)
+869,0.4,0.2,0.5,0.8,0.5,0.8,0.6,0.7,0.6,kieserite
+870,0.7,0.7,0.3,0.1,0.6,0.7,0.7,0.7,0.9,potassium sulphate(SOP)
+871,0.1,0.3,0.5,0.8,0.7,0.7,0.7,0.5,0.5,kieserite
+872,0.8,0.5,0.4,0.4,0.5,0.8,0.5,0.5,0.8,potassium sulphate(SOP)
+873,0.8,0.5,0.6,0.6,0.5,0.7,0.4,0.1,0.6,single superphosphate(SSP)
+874,0.7,0.5,0.8,0.7,0.4,0.3,0.7,0.6,0.6,ammonium nitrate lime(ANL)
+875,0.7,0.6,0.6,0.7,0.1,0.3,0.5,0.6,0.6,ammonium nitrate lime(ANL)
+876,0.7,0.6,0.3,0.1,0.5,0.6,0.7,0.8,0.7,potassium sulphate(SOP)
+877,0.8,0.8,0.7,0.6,0.6,0.5,0.1,0.2,0.9,single superphosphate(SSP)
+878,0.7,0.8,0.6,0.8,0.3,0.3,0.6,0.6,0.7,ammonium nitrate lime(ANL)
+879,0.5,0.7,0.5,0.7,0.5,0.5,0.3,0.1,0.5,single superphosphate(SSP)
+880,0.2,0.1,0.5,0.6,0.7,0.7,0.6,0.6,0.9,kieserite
+881,0.3,0.3,0.5,0.7,0.8,0.5,0.8,0.8,0.5,kieserite
+882,0.8,0.8,0.5,0.7,0.5,0.5,0.1,0.3,0.8,single superphosphate(SSP)
+883,0.5,0.6,0.7,0.6,0.6,0.5,0.1,0.4,0.5,single superphosphate(SSP)
+884,0.7,0.8,0.8,0.7,0.8,0.7,0.2,0.3,0.6,single superphosphate(SSP)
+885,0.7,0.6,0.2,0.2,0.8,0.6,0.6,0.5,0.9,potassium sulphate(SOP)
+886,0.7,0.5,0.8,0.8,0.6,0.7,0.4,0.3,0.6,single superphosphate(SSP)
+887,0.6,0.7,0.5,0.8,0.6,0.6,0.4,0.1,0.9,single superphosphate(SSP)
+888,0.7,0.8,0.1,0.1,0.6,0.5,0.5,0.7,0.9,potassium sulphate(SOP)
+889,0.2,0.4,0.8,0.5,0.6,0.5,0.7,0.7,0.5,kieserite
+890,0.7,0.8,0.5,0.5,0.6,0.6,0.1,0.3,0.9,single superphosphate(SSP)
+891,0.4,0.1,0.5,0.5,0.8,0.6,0.6,0.8,0.9,kieserite
+892,0.5,0.6,0.2,0.4,0.7,0.6,0.7,0.8,0.6,potassium sulphate(SOP)
+893,0.6,0.6,0.6,0.6,0.1,0.2,0.7,0.8,0.6,ammonium nitrate lime(ANL)
+894,0.8,0.6,0.3,0.2,0.8,0.7,0.6,0.5,0.5,potassium sulphate(SOP)
+895,0.5,0.6,0.2,0.1,0.5,0.7,0.7,0.5,0.5,potassium sulphate(SOP)
+896,0.6,0.6,0.7,0.7,0.7,0.5,0.3,0.4,0.7,single superphosphate(SSP)
+897,0.5,0.5,0.1,0.3,0.8,0.8,0.8,0.5,0.7,potassium sulphate(SOP)
+898,0.4,0.3,0.5,0.6,0.7,0.6,0.8,0.7,0.5,kieserite
+899,0.3,0.4,0.7,0.6,0.7,0.6,0.8,0.6,0.5,kieserite
+900,0.8,0.8,0.2,0.1,0.8,0.6,0.5,0.5,0.6,potassium sulphate(SOP)
+901,0.4,0.4,0.5,0.6,0.5,0.8,0.8,0.6,0.6,kieserite
+902,0.7,0.6,0.1,0.4,0.6,0.6,0.8,0.7,0.8,potassium sulphate(SOP)
+903,0.3,0.3,0.6,0.7,0.8,0.6,0.7,0.5,0.5,kieserite
+904,0.6,0.6,0.5,0.8,0.4,0.1,0.6,0.5,0.7,ammonium nitrate lime(ANL)
+905,0.6,0.8,0.6,0.5,0.8,0.5,0.3,0.2,0.5,single superphosphate(SSP)
+906,0.5,0.6,0.8,0.7,0.4,0.2,0.6,0.7,0.5,ammonium nitrate lime(ANL)
+907,0.6,0.7,0.8,0.5,0.8,0.8,0.2,0.2,0.8,single superphosphate(SSP)
+908,0.8,0.5,0.7,0.8,0.5,0.8,0.3,0.2,0.8,single superphosphate(SSP)
+909,0.7,0.6,0.7,0.5,0.1,0.1,0.8,0.6,0.6,ammonium nitrate lime(ANL)
+910,0.3,0.3,0.5,0.6,0.7,0.7,0.8,0.5,0.8,kieserite
+911,0.7,0.8,0.3,0.4,0.7,0.6,0.8,0.5,0.5,potassium sulphate(SOP)
+912,0.5,0.7,0.5,0.7,0.5,0.6,0.3,0.1,0.7,single superphosphate(SSP)
+913,0.3,0.3,0.6,0.7,0.8,0.6,0.5,0.6,0.7,kieserite
+914,0.8,0.6,0.8,0.5,0.8,0.6,0.4,0.2,0.5,single superphosphate(SSP)
+915,0.4,0.3,0.6,0.5,0.5,0.8,0.5,0.5,0.6,kieserite
+916,0.5,0.8,0.3,0.2,0.6,0.8,0.5,0.7,0.8,potassium sulphate(SOP)
+917,0.6,0.5,0.5,0.8,0.3,0.2,0.8,0.6,0.5,ammonium nitrate lime(ANL)
+918,0.5,0.5,0.6,0.5,0.6,0.8,0.2,0.2,0.9,single superphosphate(SSP)
+919,0.1,0.3,0.8,0.8,0.5,0.6,0.8,0.5,0.8,kieserite
+920,0.7,0.7,0.3,0.3,0.5,0.8,0.7,0.8,0.7,potassium sulphate(SOP)
+921,0.5,0.8,0.7,0.8,0.2,0.3,0.7,0.5,0.7,ammonium nitrate lime(ANL)
+922,0.7,0.5,0.6,0.8,0.5,0.8,0.1,0.4,0.9,single superphosphate(SSP)
+923,0.6,0.5,0.2,0.3,0.8,0.6,0.8,0.6,0.7,potassium sulphate(SOP)
+924,0.8,0.7,0.5,0.7,0.8,0.5,0.4,0.2,0.5,single superphosphate(SSP)
+925,0.3,0.4,0.6,0.7,0.7,0.6,0.8,0.8,0.7,kieserite
+926,0.5,0.6,0.6,0.5,0.4,0.2,0.7,0.6,0.6,ammonium nitrate lime(ANL)
+927,0.8,0.8,0.8,0.5,0.4,0.4,0.8,0.6,0.8,ammonium nitrate lime(ANL)
+928,0.5,0.8,0.8,0.7,0.4,0.1,0.7,0.6,0.7,ammonium nitrate lime(ANL)
+929,0.7,0.6,0.8,0.8,0.7,0.5,0.2,0.4,0.6,single superphosphate(SSP)
+930,0.4,0.1,0.5,0.5,0.5,0.5,0.6,0.5,0.8,kieserite
+931,0.5,0.8,0.5,0.6,0.4,0.1,0.5,0.8,0.8,ammonium nitrate lime(ANL)
+932,0.7,0.8,0.6,0.6,0.6,0.5,0.4,0.3,0.6,single superphosphate(SSP)
+933,0.1,0.4,0.7,0.8,0.6,0.5,0.8,0.7,0.8,kieserite
+934,0.3,0.4,0.7,0.8,0.8,0.8,0.7,0.5,0.8,kieserite
+935,0.6,0.7,0.3,0.3,0.7,0.5,0.5,0.8,0.6,potassium sulphate(SOP)
+936,0.6,0.6,0.5,0.8,0.5,0.6,0.1,0.4,0.7,single superphosphate(SSP)
+937,0.8,0.5,0.7,0.7,0.7,0.7,0.3,0.3,0.6,single superphosphate(SSP)
+938,0.5,0.5,0.1,0.3,0.5,0.6,0.8,0.5,0.6,potassium sulphate(SOP)
+939,0.6,0.8,0.6,0.7,0.7,0.8,0.3,0.4,0.6,single superphosphate(SSP)
+940,0.8,0.8,0.5,0.5,0.3,0.3,0.5,0.7,0.5,ammonium nitrate lime(ANL)
+941,0.1,0.4,0.6,0.8,0.5,0.5,0.6,0.7,0.6,kieserite
+942,0.3,0.4,0.8,0.7,0.6,0.6,0.8,0.7,0.6,kieserite
+943,0.6,0.8,0.4,0.3,0.8,0.5,0.7,0.5,0.7,potassium sulphate(SOP)
+944,0.6,0.7,0.6,0.7,0.2,0.2,0.5,0.8,0.6,ammonium nitrate lime(ANL)
+945,0.8,0.6,0.7,0.7,0.3,0.4,0.6,0.5,0.8,ammonium nitrate lime(ANL)
+946,0.7,0.6,0.6,0.8,0.5,0.7,0.2,0.4,0.5,single superphosphate(SSP)
+947,0.5,0.6,0.4,0.3,0.6,0.5,0.8,0.8,0.8,potassium sulphate(SOP)
+948,0.7,0.6,0.3,0.4,0.8,0.7,0.8,0.6,0.7,potassium sulphate(SOP)
+949,0.5,0.6,0.7,0.5,0.5,0.5,0.3,0.2,0.9,single superphosphate(SSP)
+950,0.6,0.8,0.3,0.4,0.5,0.6,0.6,0.5,0.9,potassium sulphate(SOP)
+951,0.5,0.8,0.6,0.7,0.4,0.2,0.8,0.7,0.6,ammonium nitrate lime(ANL)
+952,0.8,0.8,0.8,0.8,0.7,0.5,0.1,0.1,0.6,single superphosphate(SSP)
+953,0.7,0.5,0.2,0.3,0.7,0.7,0.8,0.7,0.9,potassium sulphate(SOP)
+954,0.8,0.5,0.1,0.2,0.5,0.8,0.7,0.5,0.7,potassium sulphate(SOP)
+955,0.3,0.3,0.8,0.7,0.7,0.6,0.7,0.6,0.5,kieserite
+956,0.2,0.1,0.7,0.6,0.7,0.7,0.5,0.6,0.8,kieserite
+957,0.4,0.2,0.7,0.6,0.8,0.6,0.6,0.6,0.6,kieserite
+958,0.3,0.3,0.7,0.6,0.7,0.5,0.5,0.6,0.7,kieserite
+959,0.7,0.8,0.4,0.2,0.7,0.8,0.6,0.6,0.6,potassium sulphate(SOP)
+960,0.8,0.5,0.7,0.5,0.1,0.3,0.8,0.7,0.5,ammonium nitrate lime(ANL)
+961,0.1,0.2,0.7,0.5,0.5,0.7,0.7,0.7,0.7,kieserite
+962,0.5,0.6,0.4,0.1,0.8,0.6,0.7,0.6,0.6,potassium sulphate(SOP)
+963,0.8,0.8,0.6,0.6,0.2,0.1,0.8,0.6,0.5,ammonium nitrate lime(ANL)
+964,0.3,0.4,0.8,0.6,0.6,0.7,0.5,0.6,0.9,kieserite
+965,0.8,0.8,0.8,0.8,0.1,0.4,0.8,0.7,0.8,ammonium nitrate lime(ANL)
+966,0.6,0.8,0.5,0.7,0.2,0.1,0.5,0.8,0.5,ammonium nitrate lime(ANL)
+967,0.5,0.8,0.1,0.3,0.5,0.8,0.7,0.5,0.7,potassium sulphate(SOP)
+968,0.4,0.4,0.6,0.7,0.6,0.6,0.8,0.7,0.7,kieserite
+969,0.7,0.8,0.6,0.5,0.8,0.5,0.4,0.4,0.8,single superphosphate(SSP)
+970,0.7,0.6,0.8,0.5,0.5,0.5,0.4,0.2,0.7,single superphosphate(SSP)
+971,0.7,0.5,0.8,0.7,0.8,0.5,0.1,0.3,0.6,single superphosphate(SSP)
+972,0.7,0.6,0.7,0.8,0.5,0.6,0.4,0.1,0.6,single superphosphate(SSP)
+973,0.5,0.6,0.4,0.3,0.7,0.7,0.6,0.6,0.7,potassium sulphate(SOP)
+974,0.7,0.6,0.7,0.5,0.3,0.4,0.7,0.8,0.7,ammonium nitrate lime(ANL)
+975,0.7,0.8,0.4,0.3,0.8,0.7,0.5,0.8,0.8,potassium sulphate(SOP)
+976,0.3,0.2,0.5,0.6,0.7,0.7,0.8,0.7,0.8,kieserite
+977,0.5,0.7,0.4,0.1,0.7,0.6,0.5,0.5,0.6,potassium sulphate(SOP)
+978,0.6,0.7,0.8,0.7,0.3,0.4,0.7,0.5,0.7,ammonium nitrate lime(ANL)
+979,0.5,0.7,0.6,0.7,0.4,0.4,0.6,0.6,0.5,ammonium nitrate lime(ANL)
+980,0.5,0.6,0.1,0.3,0.8,0.5,0.7,0.5,0.5,potassium sulphate(SOP)
+981,0.5,0.7,0.1,0.2,0.7,0.6,0.6,0.7,0.8,potassium sulphate(SOP)
+982,0.2,0.4,0.6,0.7,0.8,0.8,0.5,0.5,0.6,kieserite
+983,0.6,0.7,0.2,0.1,0.8,0.7,0.8,0.8,0.8,potassium sulphate(SOP)
+984,0.2,0.4,0.8,0.8,0.5,0.8,0.7,0.6,0.9,kieserite
+985,0.8,0.6,0.8,0.8,0.3,0.2,0.8,0.6,0.9,ammonium nitrate lime(ANL)
+986,0.7,0.7,0.2,0.3,0.6,0.6,0.8,0.5,0.6,potassium sulphate(SOP)
+987,0.5,0.6,0.3,0.1,0.5,0.7,0.7,0.8,0.7,potassium sulphate(SOP)
+988,0.7,0.5,0.6,0.8,0.3,0.1,0.6,0.5,0.5,ammonium nitrate lime(ANL)
+989,0.2,0.4,0.7,0.7,0.8,0.5,0.8,0.6,0.5,kieserite
+990,0.3,0.2,0.6,0.7,0.5,0.8,0.8,0.6,0.7,kieserite
+991,0.5,0.5,0.7,0.6,0.1,0.2,0.5,0.7,0.7,ammonium nitrate lime(ANL)
+992,0.6,0.5,0.1,0.3,0.8,0.5,0.5,0.7,0.7,potassium sulphate(SOP)
+993,0.4,0.4,0.8,0.5,0.8,0.7,0.5,0.8,0.8,kieserite
+994,0.3,0.1,0.5,0.7,0.6,0.8,0.7,0.8,0.7,kieserite
+995,0.8,0.5,0.7,0.5,0.2,0.2,0.8,0.5,0.9,ammonium nitrate lime(ANL)
+996,0.7,0.6,0.5,0.6,0.4,0.4,0.6,0.8,0.5,ammonium nitrate lime(ANL)
+997,0.8,0.7,0.7,0.5,0.4,0.1,0.7,0.8,0.9,ammonium nitrate lime(ANL)
+998,0.1,0.1,0.7,0.8,0.7,0.5,0.8,0.6,0.7,kieserite
+999,0.6,0.5,0.6,0.7,0.3,0.1,0.7,0.7,0.9,ammonium nitrate lime(ANL)
+1000,0.6,0.5,0.6,0.8,0.8,0.7,0.1,0.2,0.8,single superphosphate(SSP)
+1001,0.6,0.8,0.3,0.4,0.6,0.6,0.8,0.6,0.9,potassium sulphate(SOP)
+1002,0.2,0.1,0.8,0.8,0.5,0.7,0.5,0.5,0.9,kieserite
+1003,0.1,0.3,0.7,0.8,0.7,0.7,0.6,0.8,0.8,kieserite
+1004,0.5,0.7,0.6,0.5,0.1,0.1,0.5,0.8,0.8,ammonium nitrate lime(ANL)
+1005,0.6,0.8,0.6,0.8,0.4,0.2,0.5,0.6,0.6,ammonium nitrate lime(ANL)
+1006,0.6,0.5,0.6,0.7,0.6,0.8,0.4,0.1,0.8,single superphosphate(SSP)
+1007,0.6,0.6,0.3,0.3,0.8,0.6,0.8,0.7,0.9,potassium sulphate(SOP)
+1008,0.8,0.7,0.7,0.6,0.8,0.7,0.1,0.2,0.8,single superphosphate(SSP)
+1009,0.5,0.6,0.1,0.4,0.7,0.7,0.8,0.5,0.7,potassium sulphate(SOP)
+1010,0.4,0.2,0.8,0.7,0.8,0.6,0.7,0.8,0.5,kieserite
+1011,0.3,0.4,0.8,0.6,0.7,0.6,0.7,0.5,0.5,kieserite
+1012,0.6,0.5,0.3,0.3,0.5,0.6,0.5,0.6,0.6,potassium sulphate(SOP)
+1013,0.7,0.5,0.7,0.6,0.3,0.1,0.6,0.7,0.8,ammonium nitrate lime(ANL)
+1014,0.1,0.2,0.8,0.7,0.6,0.6,0.7,0.6,0.7,kieserite
+1015,0.3,0.3,0.6,0.5,0.8,0.7,0.5,0.6,0.9,kieserite
+1016,0.4,0.4,0.7,0.5,0.7,0.6,0.7,0.7,0.5,kieserite
+1017,0.7,0.8,0.5,0.7,0.2,0.3,0.5,0.7,0.7,ammonium nitrate lime(ANL)
+1018,0.6,0.8,0.6,0.7,0.1,0.1,0.7,0.6,0.6,ammonium nitrate lime(ANL)
+1019,0.6,0.8,0.2,0.2,0.6,0.7,0.5,0.6,0.9,potassium sulphate(SOP)
+1020,0.6,0.6,0.6,0.5,0.6,0.8,0.1,0.1,0.6,single superphosphate(SSP)
+1021,0.2,0.3,0.5,0.8,0.5,0.5,0.5,0.6,0.8,kieserite
+1022,0.1,0.1,0.8,0.7,0.8,0.8,0.7,0.8,0.8,kieserite
+1023,0.7,0.5,0.2,0.4,0.7,0.5,0.6,0.5,0.6,potassium sulphate(SOP)
+1024,0.7,0.5,0.5,0.6,0.5,0.6,0.1,0.2,0.5,single superphosphate(SSP)
+1025,0.5,0.8,0.6,0.6,0.8,0.7,0.3,0.4,0.7,single superphosphate(SSP)
+1026,0.6,0.7,0.1,0.4,0.8,0.6,0.7,0.8,0.9,potassium sulphate(SOP)
+1027,0.6,0.5,0.8,0.6,0.2,0.4,0.7,0.8,0.6,ammonium nitrate lime(ANL)
+1028,0.7,0.6,0.1,0.4,0.5,0.7,0.5,0.6,0.7,potassium sulphate(SOP)
+1029,0.3,0.1,0.7,0.8,0.6,0.6,0.8,0.8,0.8,kieserite
+1030,0.5,0.5,0.5,0.6,0.4,0.1,0.8,0.8,0.9,ammonium nitrate lime(ANL)
+1031,0.8,0.5,0.6,0.8,0.6,0.7,0.2,0.1,0.8,single superphosphate(SSP)
+1032,0.6,0.7,0.5,0.8,0.2,0.1,0.8,0.6,0.7,ammonium nitrate lime(ANL)
+1033,0.6,0.6,0.1,0.4,0.6,0.7,0.6,0.7,0.9,potassium sulphate(SOP)
+1034,0.5,0.7,0.5,0.6,0.1,0.2,0.5,0.6,0.6,ammonium nitrate lime(ANL)
+1035,0.4,0.4,0.6,0.8,0.8,0.8,0.6,0.8,0.7,kieserite
+1036,0.6,0.7,0.6,0.6,0.3,0.2,0.5,0.7,0.9,ammonium nitrate lime(ANL)
+1037,0.5,0.5,0.5,0.7,0.2,0.1,0.5,0.7,0.8,ammonium nitrate lime(ANL)
+1038,0.3,0.1,0.6,0.8,0.8,0.6,0.5,0.7,0.6,kieserite
+1039,0.6,0.7,0.4,0.4,0.6,0.7,0.6,0.8,0.9,potassium sulphate(SOP)
+1040,0.5,0.5,0.7,0.6,0.6,0.7,0.1,0.2,0.9,single superphosphate(SSP)
+1041,0.8,0.6,0.6,0.5,0.1,0.2,0.5,0.7,0.5,ammonium nitrate lime(ANL)
+1042,0.2,0.1,0.5,0.8,0.8,0.5,0.7,0.5,0.6,kieserite
+1043,0.7,0.6,0.7,0.6,0.6,0.7,0.1,0.4,0.6,single superphosphate(SSP)
+1044,0.5,0.5,0.6,0.7,0.7,0.5,0.4,0.4,0.8,single superphosphate(SSP)
+1045,0.2,0.3,0.7,0.7,0.7,0.5,0.6,0.5,0.8,kieserite
+1046,0.7,0.6,0.6,0.6,0.6,0.6,0.4,0.4,0.7,single superphosphate(SSP)
+1047,0.8,0.8,0.6,0.7,0.4,0.4,0.7,0.7,0.6,ammonium nitrate lime(ANL)
+1048,0.7,0.5,0.8,0.5,0.5,0.7,0.1,0.3,0.8,single superphosphate(SSP)
+1049,0.5,0.8,0.5,0.5,0.4,0.1,0.7,0.6,0.9,ammonium nitrate lime(ANL)
+1050,0.7,0.5,0.8,0.7,0.3,0.3,0.5,0.5,0.8,ammonium nitrate lime(ANL)
+1051,0.6,0.6,0.3,0.2,0.6,0.8,0.5,0.5,0.7,potassium sulphate(SOP)
+1052,0.5,0.6,0.5,0.7,0.1,0.2,0.8,0.5,0.6,ammonium nitrate lime(ANL)
+1053,0.1,0.1,0.7,0.7,0.7,0.7,0.5,0.8,0.6,kieserite
+1054,0.2,0.4,0.8,0.6,0.5,0.7,0.7,0.6,0.7,kieserite
+1055,0.4,0.1,0.5,0.5,0.8,0.6,0.7,0.8,0.6,kieserite
+1056,0.6,0.8,0.2,0.3,0.5,0.8,0.5,0.6,0.7,potassium sulphate(SOP)
+1057,0.8,0.6,0.4,0.3,0.5,0.6,0.7,0.7,0.8,potassium sulphate(SOP)
+1058,0.7,0.8,0.3,0.1,0.6,0.7,0.7,0.7,0.9,potassium sulphate(SOP)
+1059,0.8,0.5,0.7,0.8,0.4,0.3,0.7,0.7,0.9,ammonium nitrate lime(ANL)
+1060,0.6,0.6,0.6,0.7,0.7,0.8,0.4,0.4,0.5,single superphosphate(SSP)
+1061,0.7,0.6,0.3,0.2,0.5,0.6,0.8,0.6,0.7,potassium sulphate(SOP)
+1062,0.7,0.6,0.3,0.3,0.8,0.8,0.5,0.8,0.9,potassium sulphate(SOP)
+1063,0.2,0.2,0.6,0.5,0.7,0.6,0.5,0.8,0.7,kieserite
+1064,0.8,0.6,0.2,0.4,0.6,0.8,0.7,0.7,0.6,potassium sulphate(SOP)
+1065,0.5,0.6,0.1,0.3,0.8,0.8,0.7,0.5,0.5,potassium sulphate(SOP)
+1066,0.5,0.5,0.5,0.8,0.5,0.8,0.4,0.2,0.8,single superphosphate(SSP)
+1067,0.6,0.5,0.4,0.2,0.8,0.5,0.7,0.7,0.9,potassium sulphate(SOP)
+1068,0.3,0.2,0.8,0.7,0.6,0.7,0.6,0.5,0.8,kieserite
+1069,0.6,0.6,0.3,0.1,0.5,0.8,0.8,0.6,0.9,potassium sulphate(SOP)
+1070,0.8,0.7,0.7,0.6,0.6,0.6,0.1,0.1,0.6,single superphosphate(SSP)
+1071,0.6,0.8,0.3,0.3,0.7,0.8,0.6,0.5,0.6,potassium sulphate(SOP)
+1072,0.7,0.8,0.1,0.1,0.8,0.8,0.8,0.5,0.6,potassium sulphate(SOP)
+1073,0.5,0.6,0.5,0.7,0.3,0.4,0.6,0.8,0.7,ammonium nitrate lime(ANL)
+1074,0.8,0.8,0.5,0.7,0.1,0.2,0.6,0.5,0.6,ammonium nitrate lime(ANL)
+1075,0.6,0.7,0.6,0.6,0.1,0.1,0.8,0.7,0.9,ammonium nitrate lime(ANL)
+1076,0.5,0.5,0.4,0.2,0.7,0.7,0.6,0.8,0.8,potassium sulphate(SOP)
+1077,0.7,0.8,0.5,0.8,0.3,0.4,0.6,0.5,0.9,ammonium nitrate lime(ANL)
+1078,0.8,0.7,0.3,0.2,0.6,0.6,0.5,0.5,0.7,potassium sulphate(SOP)
+1079,0.4,0.1,0.6,0.8,0.7,0.7,0.5,0.7,0.7,kieserite
+1080,0.8,0.7,0.5,0.7,0.6,0.6,0.1,0.4,0.9,single superphosphate(SSP)
+1081,0.3,0.2,0.8,0.5,0.5,0.8,0.7,0.6,0.8,kieserite
+1082,0.6,0.6,0.7,0.7,0.4,0.1,0.8,0.8,0.8,ammonium nitrate lime(ANL)
+1083,0.6,0.8,0.8,0.7,0.7,0.7,0.4,0.2,0.7,single superphosphate(SSP)
+1084,0.7,0.7,0.3,0.1,0.5,0.5,0.6,0.6,0.8,potassium sulphate(SOP)
+1085,0.4,0.1,0.5,0.8,0.7,0.6,0.7,0.6,0.5,kieserite
+1086,0.3,0.3,0.8,0.5,0.8,0.6,0.6,0.5,0.6,kieserite
+1087,0.7,0.6,0.4,0.2,0.8,0.7,0.6,0.8,0.7,potassium sulphate(SOP)
+1088,0.7,0.8,0.7,0.6,0.8,0.6,0.3,0.1,0.7,single superphosphate(SSP)
+1089,0.6,0.8,0.7,0.5,0.7,0.8,0.1,0.1,0.6,single superphosphate(SSP)
+1090,0.8,0.5,0.1,0.2,0.8,0.8,0.5,0.6,0.6,potassium sulphate(SOP)
+1091,0.8,0.6,0.1,0.2,0.5,0.5,0.6,0.6,0.6,potassium sulphate(SOP)
+1092,0.2,0.2,0.7,0.5,0.5,0.6,0.6,0.6,0.6,kieserite
+1093,0.7,0.6,0.6,0.6,0.1,0.4,0.6,0.7,0.9,ammonium nitrate lime(ANL)
+1094,0.6,0.6,0.2,0.4,0.8,0.8,0.7,0.6,0.7,potassium sulphate(SOP)
+1095,0.6,0.7,0.5,0.7,0.4,0.4,0.8,0.7,0.8,ammonium nitrate lime(ANL)
+1096,0.3,0.1,0.8,0.7,0.8,0.8,0.6,0.6,0.5,kieserite
+1097,0.1,0.4,0.7,0.6,0.5,0.6,0.6,0.6,0.9,kieserite
+1098,0.5,0.7,0.7,0.7,0.3,0.4,0.7,0.5,0.8,ammonium nitrate lime(ANL)
+1099,0.6,0.7,0.8,0.7,0.1,0.3,0.8,0.8,0.7,ammonium nitrate lime(ANL)
+1100,0.1,0.4,0.5,0.7,0.8,0.7,0.5,0.5,0.9,kieserite
+1101,0.6,0.7,0.5,0.6,0.8,0.8,0.2,0.3,0.9,single superphosphate(SSP)
+1102,0.6,0.5,0.6,0.8,0.5,0.6,0.4,0.1,0.8,single superphosphate(SSP)
+1103,0.2,0.4,0.8,0.8,0.7,0.5,0.7,0.5,0.8,kieserite
+1104,0.6,0.8,0.3,0.4,0.7,0.5,0.5,0.5,0.6,potassium sulphate(SOP)
+1105,0.5,0.7,0.1,0.4,0.7,0.8,0.5,0.7,0.6,potassium sulphate(SOP)
+1106,0.8,0.7,0.8,0.7,0.6,0.5,0.3,0.4,0.7,single superphosphate(SSP)
+1107,0.8,0.6,0.1,0.1,0.7,0.7,0.5,0.5,0.9,potassium sulphate(SOP)
+1108,0.6,0.8,0.3,0.3,0.6,0.7,0.5,0.5,0.8,potassium sulphate(SOP)
+1109,0.7,0.7,0.7,0.5,0.5,0.6,0.3,0.2,0.9,single superphosphate(SSP)
+1110,0.8,0.7,0.5,0.6,0.5,0.5,0.3,0.3,0.7,single superphosphate(SSP)
+1111,0.6,0.6,0.8,0.7,0.6,0.6,0.4,0.3,0.5,single superphosphate(SSP)
+1112,0.8,0.7,0.6,0.8,0.3,0.3,0.5,0.6,0.6,ammonium nitrate lime(ANL)
+1113,0.7,0.7,0.8,0.6,0.4,0.4,0.8,0.8,0.9,ammonium nitrate lime(ANL)
+1114,0.1,0.3,0.5,0.6,0.7,0.8,0.8,0.8,0.7,kieserite
+1115,0.1,0.1,0.8,0.8,0.5,0.7,0.8,0.6,0.8,kieserite
+1116,0.6,0.8,0.8,0.6,0.3,0.1,0.8,0.7,0.5,ammonium nitrate lime(ANL)
+1117,0.5,0.7,0.5,0.6,0.3,0.3,0.8,0.7,0.8,ammonium nitrate lime(ANL)
+1118,0.5,0.5,0.8,0.8,0.6,0.6,0.4,0.1,0.8,single superphosphate(SSP)
+1119,0.3,0.1,0.5,0.5,0.6,0.7,0.7,0.7,0.9,kieserite
+1120,0.2,0.1,0.5,0.6,0.5,0.7,0.6,0.7,0.7,kieserite
+1121,0.6,0.5,0.6,0.8,0.5,0.5,0.1,0.4,0.7,single superphosphate(SSP)
+1122,0.7,0.6,0.5,0.7,0.7,0.5,0.1,0.1,0.6,single superphosphate(SSP)
+1123,0.7,0.5,0.3,0.3,0.5,0.5,0.7,0.8,0.9,potassium sulphate(SOP)
+1124,0.6,0.8,0.1,0.4,0.5,0.5,0.6,0.5,0.6,potassium sulphate(SOP)
+1125,0.7,0.6,0.5,0.7,0.6,0.7,0.4,0.4,0.9,single superphosphate(SSP)
+1126,0.1,0.2,0.8,0.8,0.7,0.7,0.6,0.8,0.7,kieserite
+1127,0.6,0.5,0.8,0.8,0.3,0.1,0.7,0.5,0.7,ammonium nitrate lime(ANL)
+1128,0.5,0.7,0.8,0.7,0.2,0.3,0.6,0.8,0.7,ammonium nitrate lime(ANL)
+1129,0.4,0.3,0.5,0.8,0.7,0.7,0.5,0.7,0.5,kieserite
+1130,0.6,0.8,0.1,0.1,0.7,0.5,0.6,0.7,0.9,potassium sulphate(SOP)
+1131,0.2,0.4,0.6,0.5,0.8,0.8,0.8,0.7,0.8,kieserite
+1132,0.2,0.2,0.7,0.8,0.8,0.7,0.6,0.6,0.8,kieserite
+1133,0.6,0.6,0.7,0.5,0.5,0.5,0.3,0.2,0.7,single superphosphate(SSP)
+1134,0.6,0.6,0.7,0.6,0.6,0.5,0.1,0.3,0.6,single superphosphate(SSP)
+1135,0.7,0.5,0.6,0.6,0.7,0.8,0.2,0.1,0.7,single superphosphate(SSP)
+1136,0.6,0.6,0.6,0.6,0.5,0.8,0.3,0.1,0.9,single superphosphate(SSP)
+1137,0.3,0.1,0.8,0.8,0.7,0.8,0.8,0.8,0.9,kieserite
+1138,0.7,0.7,0.7,0.6,0.3,0.4,0.6,0.7,0.9,ammonium nitrate lime(ANL)
+1139,0.7,0.6,0.4,0.1,0.6,0.6,0.7,0.5,0.8,potassium sulphate(SOP)
+1140,0.6,0.6,0.6,0.5,0.2,0.4,0.6,0.6,0.5,ammonium nitrate lime(ANL)
+1141,0.5,0.5,0.2,0.2,0.6,0.6,0.7,0.8,0.7,potassium sulphate(SOP)
+1142,0.4,0.1,0.8,0.5,0.7,0.8,0.8,0.7,0.9,kieserite
+1143,0.1,0.1,0.8,0.5,0.6,0.7,0.8,0.5,0.9,kieserite
+1144,0.2,0.2,0.8,0.8,0.6,0.8,0.8,0.8,0.9,kieserite
+1145,0.7,0.5,0.8,0.8,0.8,0.7,0.4,0.4,0.7,single superphosphate(SSP)
+1146,0.1,0.2,0.6,0.7,0.8,0.6,0.5,0.7,0.9,kieserite
+1147,0.6,0.6,0.2,0.3,0.8,0.6,0.8,0.5,0.9,potassium sulphate(SOP)
+1148,0.4,0.4,0.8,0.8,0.8,0.7,0.6,0.7,0.8,kieserite
+1149,0.6,0.5,0.7,0.5,0.6,0.8,0.2,0.3,0.8,single superphosphate(SSP)
+1150,0.6,0.6,0.5,0.8,0.4,0.2,0.8,0.5,0.8,ammonium nitrate lime(ANL)
+1151,0.5,0.5,0.1,0.2,0.6,0.6,0.7,0.8,0.7,potassium sulphate(SOP)
+1152,0.7,0.5,0.7,0.8,0.7,0.5,0.3,0.2,0.5,single superphosphate(SSP)
+1153,0.3,0.3,0.8,0.8,0.6,0.6,0.6,0.6,0.9,kieserite
+1154,0.7,0.8,0.6,0.6,0.3,0.1,0.7,0.8,0.9,ammonium nitrate lime(ANL)
+1155,0.7,0.8,0.6,0.8,0.1,0.4,0.7,0.5,0.9,ammonium nitrate lime(ANL)
+1156,0.5,0.7,0.8,0.5,0.7,0.7,0.4,0.3,0.8,single superphosphate(SSP)
+1157,0.5,0.7,0.6,0.5,0.2,0.1,0.6,0.6,0.6,ammonium nitrate lime(ANL)
+1158,0.4,0.3,0.5,0.7,0.6,0.5,0.8,0.6,0.9,kieserite
+1159,0.7,0.8,0.7,0.5,0.4,0.2,0.5,0.8,0.7,ammonium nitrate lime(ANL)
+1160,0.8,0.8,0.8,0.5,0.3,0.4,0.7,0.6,0.6,ammonium nitrate lime(ANL)
+1161,0.3,0.3,0.5,0.6,0.8,0.7,0.5,0.7,0.7,kieserite
+1162,0.5,0.6,0.7,0.7,0.4,0.4,0.8,0.6,0.6,ammonium nitrate lime(ANL)
+1163,0.6,0.5,0.8,0.5,0.4,0.2,0.5,0.7,0.5,ammonium nitrate lime(ANL)
+1164,0.7,0.5,0.6,0.6,0.5,0.8,0.4,0.3,0.6,single superphosphate(SSP)
+1165,0.8,0.5,0.8,0.8,0.6,0.8,0.3,0.4,0.6,single superphosphate(SSP)
+1166,0.6,0.6,0.2,0.2,0.5,0.7,0.5,0.8,0.9,potassium sulphate(SOP)
+1167,0.8,0.8,0.8,0.7,0.2,0.1,0.6,0.6,0.7,ammonium nitrate lime(ANL)
+1168,0.7,0.5,0.7,0.7,0.8,0.6,0.3,0.1,0.5,single superphosphate(SSP)
+1169,0.2,0.3,0.5,0.8,0.7,0.5,0.8,0.8,0.9,kieserite
+1170,0.6,0.5,0.2,0.4,0.6,0.7,0.6,0.6,0.9,potassium sulphate(SOP)
+1171,0.1,0.1,0.8,0.7,0.8,0.6,0.8,0.5,0.8,kieserite
+1172,0.7,0.7,0.1,0.1,0.7,0.6,0.7,0.8,0.8,potassium sulphate(SOP)
+1173,0.5,0.8,0.8,0.6,0.7,0.7,0.3,0.2,0.8,single superphosphate(SSP)
+1174,0.5,0.7,0.8,0.6,0.8,0.8,0.2,0.4,0.6,single superphosphate(SSP)
+1175,0.6,0.5,0.5,0.5,0.5,0.5,0.4,0.2,0.5,single superphosphate(SSP)
+1176,0.8,0.5,0.7,0.7,0.8,0.8,0.3,0.1,0.7,single superphosphate(SSP)
+1177,0.3,0.1,0.7,0.8,0.6,0.6,0.6,0.7,0.7,kieserite
+1178,0.5,0.8,0.6,0.7,0.8,0.8,0.4,0.2,0.5,single superphosphate(SSP)
+1179,0.4,0.1,0.8,0.6,0.5,0.6,0.6,0.7,0.8,kieserite
+1180,0.5,0.8,0.3,0.3,0.7,0.5,0.5,0.6,0.5,potassium sulphate(SOP)
+1181,0.7,0.6,0.3,0.3,0.6,0.8,0.8,0.5,0.7,potassium sulphate(SOP)
+1182,0.3,0.2,0.8,0.7,0.8,0.5,0.5,0.7,0.8,kieserite
+1183,0.7,0.6,0.3,0.4,0.8,0.6,0.7,0.8,0.5,potassium sulphate(SOP)
+1184,0.7,0.6,0.1,0.4,0.8,0.5,0.5,0.5,0.6,potassium sulphate(SOP)
+1185,0.5,0.7,0.8,0.6,0.1,0.1,0.8,0.7,0.6,ammonium nitrate lime(ANL)
+1186,0.6,0.6,0.1,0.3,0.6,0.5,0.6,0.8,0.5,potassium sulphate(SOP)
+1187,0.3,0.2,0.8,0.8,0.5,0.6,0.8,0.7,0.9,kieserite
+1188,0.6,0.6,0.2,0.3,0.8,0.5,0.8,0.6,0.6,potassium sulphate(SOP)
+1189,0.6,0.8,0.5,0.5,0.3,0.4,0.7,0.7,0.6,ammonium nitrate lime(ANL)
+1190,0.5,0.5,0.5,0.8,0.1,0.1,0.8,0.6,0.9,ammonium nitrate lime(ANL)
+1191,0.8,0.5,0.1,0.1,0.7,0.6,0.5,0.6,0.8,potassium sulphate(SOP)
+1192,0.5,0.8,0.1,0.4,0.8,0.7,0.6,0.7,0.7,potassium sulphate(SOP)
+1193,0.6,0.6,0.5,0.6,0.1,0.2,0.8,0.7,0.5,ammonium nitrate lime(ANL)
+1194,0.8,0.7,0.6,0.5,0.2,0.3,0.6,0.7,0.6,ammonium nitrate lime(ANL)
+1195,0.7,0.5,0.4,0.4,0.7,0.7,0.8,0.7,0.9,potassium sulphate(SOP)
+1196,0.3,0.1,0.5,0.7,0.7,0.6,0.8,0.8,0.9,kieserite
+1197,0.2,0.2,0.6,0.6,0.6,0.5,0.8,0.5,0.7,kieserite
+1198,0.6,0.7,0.3,0.2,0.6,0.5,0.6,0.6,0.6,potassium sulphate(SOP)
+1199,0.8,0.5,0.3,0.1,0.5,0.6,0.5,0.6,0.5,potassium sulphate(SOP)
+1200,0.5,0.6,0.8,0.8,0.6,0.5,0.4,0.2,0.6,single superphosphate(SSP)
+1201,0.6,0.5,0.2,0.4,0.6,0.7,0.6,0.8,0.6,potassium sulphate(SOP)
+1202,0.6,0.6,0.3,0.3,0.8,0.7,0.6,0.6,0.5,potassium sulphate(SOP)
+1203,0.7,0.7,0.7,0.5,0.4,0.4,0.6,0.8,0.9,ammonium nitrate lime(ANL)
+1204,0.3,0.2,0.6,0.5,0.8,0.7,0.6,0.6,0.8,kieserite
+1205,0.6,0.5,0.3,0.4,0.8,0.8,0.8,0.8,0.8,potassium sulphate(SOP)
+1206,0.7,0.5,0.7,0.6,0.4,0.4,0.8,0.6,0.7,ammonium nitrate lime(ANL)
+1207,0.7,0.5,0.8,0.6,0.5,0.8,0.3,0.4,0.9,single superphosphate(SSP)
+1208,0.8,0.5,0.1,0.3,0.7,0.7,0.7,0.8,0.9,potassium sulphate(SOP)
+1209,0.3,0.4,0.8,0.5,0.6,0.5,0.6,0.7,0.6,kieserite
+1210,0.1,0.3,0.8,0.8,0.5,0.6,0.5,0.6,0.9,kieserite
+1211,0.7,0.7,0.7,0.8,0.3,0.2,0.8,0.7,0.6,ammonium nitrate lime(ANL)
+1212,0.3,0.1,0.8,0.5,0.7,0.7,0.7,0.5,0.6,kieserite
+1213,0.7,0.8,0.4,0.1,0.7,0.5,0.5,0.5,0.6,potassium sulphate(SOP)
+1214,0.5,0.5,0.8,0.8,0.3,0.4,0.8,0.7,0.9,ammonium nitrate lime(ANL)
+1215,0.5,0.8,0.8,0.7,0.5,0.7,0.1,0.4,0.7,single superphosphate(SSP)
+1216,0.8,0.8,0.3,0.4,0.6,0.7,0.6,0.6,0.6,potassium sulphate(SOP)
+1217,0.7,0.7,0.1,0.1,0.5,0.7,0.7,0.8,0.5,potassium sulphate(SOP)
+1218,0.2,0.4,0.8,0.6,0.5,0.7,0.5,0.5,0.8,kieserite
+1219,0.7,0.5,0.4,0.3,0.6,0.5,0.8,0.8,0.8,potassium sulphate(SOP)
+1220,0.5,0.7,0.3,0.1,0.7,0.7,0.5,0.6,0.6,potassium sulphate(SOP)
+1221,0.8,0.7,0.7,0.6,0.7,0.7,0.3,0.4,0.5,single superphosphate(SSP)
+1222,0.5,0.6,0.7,0.6,0.4,0.3,0.7,0.6,0.6,ammonium nitrate lime(ANL)
+1223,0.6,0.7,0.7,0.8,0.5,0.7,0.4,0.1,0.6,single superphosphate(SSP)
+1224,0.7,0.6,0.7,0.7,0.2,0.2,0.7,0.7,0.5,ammonium nitrate lime(ANL)
+1225,0.6,0.8,0.7,0.5,0.3,0.2,0.5,0.8,0.6,ammonium nitrate lime(ANL)
+1226,0.2,0.2,0.5,0.8,0.6,0.6,0.8,0.8,0.5,kieserite
+1227,0.4,0.1,0.5,0.8,0.6,0.7,0.7,0.5,0.6,kieserite
+1228,0.5,0.8,0.3,0.1,0.7,0.6,0.8,0.7,0.9,potassium sulphate(SOP)
+1229,0.8,0.7,0.8,0.5,0.2,0.3,0.8,0.6,0.9,ammonium nitrate lime(ANL)
+1230,0.2,0.1,0.5,0.7,0.8,0.6,0.5,0.6,0.6,kieserite
+1231,0.5,0.8,0.2,0.3,0.8,0.7,0.6,0.6,0.6,potassium sulphate(SOP)
+1232,0.2,0.2,0.6,0.7,0.8,0.8,0.7,0.8,0.5,kieserite
+1233,0.8,0.6,0.7,0.6,0.6,0.5,0.3,0.3,0.7,single superphosphate(SSP)
+1234,0.8,0.8,0.3,0.3,0.8,0.6,0.7,0.5,0.9,potassium sulphate(SOP)
+1235,0.6,0.7,0.3,0.1,0.5,0.5,0.6,0.8,0.5,potassium sulphate(SOP)
+1236,0.3,0.2,0.7,0.8,0.8,0.8,0.8,0.6,0.7,kieserite
+1237,0.1,0.1,0.6,0.6,0.8,0.7,0.7,0.7,0.7,kieserite
+1238,0.8,0.6,0.2,0.2,0.8,0.8,0.6,0.5,0.6,potassium sulphate(SOP)
+1239,0.6,0.5,0.8,0.5,0.4,0.1,0.8,0.8,0.8,ammonium nitrate lime(ANL)
+1240,0.8,0.6,0.8,0.7,0.8,0.5,0.4,0.2,0.8,single superphosphate(SSP)
+1241,0.6,0.6,0.5,0.7,0.6,0.7,0.2,0.4,0.9,single superphosphate(SSP)
+1242,0.8,0.7,0.5,0.6,0.3,0.4,0.5,0.5,0.7,ammonium nitrate lime(ANL)
+1243,0.1,0.4,0.7,0.7,0.5,0.6,0.5,0.7,0.6,kieserite
+1244,0.8,0.8,0.8,0.8,0.3,0.3,0.8,0.6,0.7,ammonium nitrate lime(ANL)
+1245,0.2,0.4,0.8,0.8,0.8,0.6,0.6,0.5,0.8,kieserite
+1246,0.6,0.8,0.6,0.8,0.5,0.7,0.2,0.1,0.8,single superphosphate(SSP)
+1247,0.8,0.6,0.6,0.6,0.2,0.1,0.6,0.6,0.9,ammonium nitrate lime(ANL)
+1248,0.5,0.5,0.6,0.7,0.8,0.7,0.3,0.1,0.8,single superphosphate(SSP)
+1249,0.3,0.2,0.8,0.6,0.7,0.5,0.7,0.7,0.6,kieserite
+1250,0.1,0.4,0.7,0.6,0.6,0.5,0.6,0.5,0.9,kieserite
+1251,0.7,0.5,0.2,0.4,0.5,0.7,0.7,0.5,0.9,potassium sulphate(SOP)
+1252,0.6,0.8,0.5,0.5,0.6,0.7,0.1,0.3,0.8,single superphosphate(SSP)
+1253,0.7,0.7,0.6,0.6,0.8,0.6,0.3,0.4,0.5,single superphosphate(SSP)
+1254,0.2,0.2,0.6,0.8,0.7,0.5,0.8,0.8,0.6,kieserite
+1255,0.5,0.5,0.2,0.4,0.7,0.5,0.6,0.5,0.9,potassium sulphate(SOP)
+1256,0.6,0.7,0.8,0.7,0.2,0.2,0.6,0.5,0.5,ammonium nitrate lime(ANL)
+1257,0.6,0.8,0.4,0.3,0.7,0.5,0.5,0.6,0.6,potassium sulphate(SOP)
+1258,0.5,0.7,0.8,0.7,0.1,0.2,0.5,0.6,0.6,ammonium nitrate lime(ANL)
+1259,0.1,0.2,0.8,0.6,0.8,0.5,0.5,0.7,0.5,kieserite
+1260,0.3,0.1,0.7,0.7,0.5,0.7,0.8,0.8,0.5,kieserite
+1261,0.1,0.3,0.6,0.8,0.8,0.8,0.6,0.8,0.7,kieserite
+1262,0.6,0.6,0.7,0.5,0.5,0.7,0.2,0.2,0.7,single superphosphate(SSP)
+1263,0.7,0.7,0.3,0.3,0.6,0.7,0.5,0.5,0.7,potassium sulphate(SOP)
+1264,0.5,0.5,0.6,0.5,0.2,0.3,0.8,0.7,0.7,ammonium nitrate lime(ANL)
+1265,0.5,0.6,0.7,0.7,0.1,0.1,0.7,0.7,0.6,ammonium nitrate lime(ANL)
+1266,0.5,0.7,0.5,0.8,0.1,0.1,0.7,0.8,0.6,ammonium nitrate lime(ANL)
+1267,0.1,0.2,0.5,0.8,0.5,0.7,0.5,0.7,0.5,kieserite
+1268,0.6,0.5,0.8,0.5,0.5,0.8,0.3,0.3,0.9,single superphosphate(SSP)
+1269,0.2,0.1,0.8,0.8,0.6,0.6,0.7,0.6,0.6,kieserite
+1270,0.3,0.4,0.6,0.8,0.7,0.6,0.7,0.6,0.5,kieserite
+1271,0.5,0.7,0.5,0.5,0.8,0.6,0.1,0.2,0.7,single superphosphate(SSP)
+1272,0.5,0.5,0.3,0.4,0.6,0.7,0.8,0.7,0.5,potassium sulphate(SOP)
+1273,0.8,0.5,0.6,0.5,0.8,0.8,0.4,0.2,0.6,single superphosphate(SSP)
+1274,0.1,0.2,0.8,0.6,0.5,0.7,0.5,0.8,0.6,kieserite
+1275,0.6,0.5,0.3,0.2,0.8,0.5,0.8,0.6,0.9,potassium sulphate(SOP)
+1276,0.4,0.1,0.5,0.8,0.6,0.7,0.6,0.7,0.6,kieserite
+1277,0.6,0.7,0.7,0.6,0.6,0.7,0.2,0.1,0.8,single superphosphate(SSP)
+1278,0.6,0.5,0.2,0.3,0.5,0.8,0.6,0.7,0.6,potassium sulphate(SOP)
+1279,0.7,0.8,0.7,0.7,0.2,0.1,0.5,0.8,0.6,ammonium nitrate lime(ANL)
+1280,0.5,0.7,0.1,0.4,0.8,0.7,0.5,0.5,0.9,potassium sulphate(SOP)
+1281,0.2,0.3,0.5,0.7,0.6,0.5,0.5,0.8,0.5,kieserite
+1282,0.8,0.5,0.7,0.7,0.2,0.2,0.5,0.5,0.5,ammonium nitrate lime(ANL)
+1283,0.8,0.7,0.4,0.2,0.8,0.6,0.6,0.8,0.5,potassium sulphate(SOP)
+1284,0.8,0.6,0.7,0.7,0.7,0.7,0.1,0.4,0.8,single superphosphate(SSP)
+1285,0.8,0.5,0.3,0.3,0.8,0.7,0.6,0.8,0.7,potassium sulphate(SOP)
+1286,0.7,0.5,0.5,0.7,0.7,0.5,0.2,0.4,0.8,single superphosphate(SSP)
+1287,0.2,0.3,0.8,0.6,0.8,0.8,0.6,0.5,0.9,kieserite
+1288,0.6,0.7,0.7,0.7,0.7,0.8,0.2,0.2,0.9,single superphosphate(SSP)
+1289,0.6,0.5,0.7,0.8,0.4,0.3,0.6,0.5,0.7,ammonium nitrate lime(ANL)
+1290,0.7,0.7,0.5,0.7,0.6,0.7,0.3,0.3,0.7,single superphosphate(SSP)
+1291,0.1,0.2,0.6,0.5,0.7,0.5,0.6,0.7,0.5,kieserite
+1292,0.7,0.5,0.8,0.5,0.3,0.1,0.5,0.5,0.9,ammonium nitrate lime(ANL)
+1293,0.1,0.3,0.6,0.5,0.7,0.6,0.7,0.7,0.5,kieserite
+1294,0.6,0.5,0.3,0.1,0.8,0.8,0.5,0.5,0.8,potassium sulphate(SOP)
+1295,0.1,0.1,0.8,0.5,0.8,0.5,0.5,0.8,0.5,kieserite
+1296,0.7,0.8,0.6,0.7,0.3,0.1,0.7,0.5,0.6,ammonium nitrate lime(ANL)
+1297,0.7,0.5,0.4,0.4,0.7,0.6,0.6,0.8,0.9,potassium sulphate(SOP)
+1298,0.8,0.5,0.2,0.2,0.6,0.6,0.6,0.5,0.6,potassium sulphate(SOP)
+1299,0.7,0.8,0.7,0.6,0.5,0.5,0.3,0.4,0.8,single superphosphate(SSP)
+1300,0.5,0.6,0.5,0.5,0.4,0.4,0.5,0.5,0.6,ammonium nitrate lime(ANL)
+1301,0.5,0.5,0.5,0.7,0.1,0.1,0.7,0.7,0.5,ammonium nitrate lime(ANL)
+1302,0.8,0.7,0.2,0.2,0.5,0.8,0.6,0.6,0.9,potassium sulphate(SOP)
+1303,0.3,0.3,0.6,0.7,0.8,0.8,0.7,0.5,0.9,kieserite
+1304,0.2,0.2,0.6,0.5,0.5,0.7,0.8,0.8,0.5,kieserite
+1305,0.5,0.6,0.7,0.5,0.1,0.2,0.5,0.6,0.9,ammonium nitrate lime(ANL)
+1306,0.8,0.7,0.5,0.5,0.2,0.1,0.5,0.7,0.9,ammonium nitrate lime(ANL)
+1307,0.1,0.1,0.6,0.6,0.7,0.6,0.5,0.7,0.6,kieserite
+1308,0.7,0.6,0.6,0.5,0.4,0.1,0.7,0.6,0.6,ammonium nitrate lime(ANL)
+1309,0.1,0.2,0.7,0.5,0.5,0.8,0.8,0.7,0.9,kieserite
+1310,0.3,0.2,0.7,0.6,0.5,0.5,0.6,0.7,0.8,kieserite
+1311,0.5,0.6,0.6,0.8,0.8,0.7,0.4,0.1,0.6,single superphosphate(SSP)
+1312,0.5,0.8,0.2,0.4,0.7,0.7,0.8,0.5,0.7,potassium sulphate(SOP)
+1313,0.7,0.6,0.2,0.1,0.7,0.5,0.8,0.5,0.6,potassium sulphate(SOP)
+1314,0.8,0.5,0.2,0.1,0.8,0.6,0.6,0.5,0.5,potassium sulphate(SOP)
+1315,0.6,0.7,0.8,0.7,0.1,0.1,0.6,0.7,0.6,ammonium nitrate lime(ANL)
+1316,0.7,0.6,0.1,0.3,0.6,0.6,0.7,0.7,0.7,potassium sulphate(SOP)
+1317,0.8,0.5,0.1,0.2,0.8,0.6,0.7,0.7,0.8,potassium sulphate(SOP)
+1318,0.6,0.5,0.7,0.8,0.5,0.6,0.1,0.3,0.7,single superphosphate(SSP)
+1319,0.7,0.8,0.5,0.8,0.6,0.7,0.3,0.1,0.8,single superphosphate(SSP)
+1320,0.8,0.6,0.7,0.6,0.6,0.7,0.3,0.4,0.5,single superphosphate(SSP)
+1321,0.8,0.6,0.8,0.8,0.2,0.3,0.6,0.6,0.8,ammonium nitrate lime(ANL)
+1322,0.8,0.8,0.3,0.3,0.8,0.6,0.7,0.8,0.6,potassium sulphate(SOP)
+1323,0.5,0.7,0.5,0.6,0.1,0.1,0.6,0.7,0.8,ammonium nitrate lime(ANL)
+1324,0.8,0.6,0.5,0.5,0.6,0.6,0.1,0.2,0.9,single superphosphate(SSP)
+1325,0.5,0.5,0.3,0.1,0.8,0.6,0.8,0.5,0.8,potassium sulphate(SOP)
+1326,0.6,0.8,0.5,0.5,0.3,0.4,0.6,0.7,0.7,ammonium nitrate lime(ANL)
+1327,0.7,0.8,0.5,0.7,0.5,0.6,0.2,0.3,0.7,single superphosphate(SSP)
+1328,0.5,0.8,0.2,0.1,0.5,0.6,0.6,0.6,0.7,potassium sulphate(SOP)
+1329,0.8,0.8,0.5,0.6,0.7,0.7,0.1,0.3,0.9,single superphosphate(SSP)
+1330,0.7,0.6,0.7,0.8,0.1,0.4,0.7,0.5,0.9,ammonium nitrate lime(ANL)
+1331,0.2,0.1,0.5,0.7,0.6,0.6,0.6,0.6,0.5,kieserite
+1332,0.7,0.8,0.4,0.3,0.5,0.6,0.7,0.5,0.6,potassium sulphate(SOP)
+1333,0.6,0.7,0.7,0.8,0.1,0.3,0.6,0.6,0.8,ammonium nitrate lime(ANL)
+1334,0.8,0.6,0.6,0.7,0.6,0.7,0.1,0.4,0.6,single superphosphate(SSP)
+1335,0.1,0.3,0.7,0.6,0.5,0.5,0.6,0.5,0.9,kieserite
+1336,0.5,0.7,0.5,0.6,0.8,0.7,0.3,0.2,0.5,single superphosphate(SSP)
+1337,0.8,0.5,0.6,0.5,0.8,0.8,0.3,0.4,0.9,single superphosphate(SSP)
+1338,0.4,0.4,0.6,0.5,0.8,0.6,0.7,0.8,0.5,kieserite
+1339,0.2,0.2,0.7,0.5,0.5,0.6,0.5,0.6,0.9,kieserite
+1340,0.3,0.1,0.6,0.6,0.6,0.7,0.6,0.8,0.9,kieserite
+1341,0.6,0.6,0.5,0.7,0.2,0.3,0.7,0.6,0.7,ammonium nitrate lime(ANL)
+1342,0.5,0.6,0.6,0.7,0.7,0.8,0.2,0.1,0.6,single superphosphate(SSP)
+1343,0.3,0.3,0.7,0.7,0.7,0.6,0.8,0.7,0.9,kieserite
+1344,0.2,0.1,0.5,0.6,0.8,0.7,0.6,0.5,0.9,kieserite
+1345,0.6,0.8,0.5,0.6,0.8,0.8,0.4,0.1,0.8,single superphosphate(SSP)
+1346,0.7,0.7,0.7,0.6,0.8,0.5,0.1,0.1,0.9,single superphosphate(SSP)
+1347,0.8,0.5,0.7,0.7,0.7,0.8,0.3,0.3,0.8,single superphosphate(SSP)
+1348,0.5,0.5,0.4,0.3,0.8,0.5,0.8,0.7,0.5,potassium sulphate(SOP)
+1349,0.7,0.5,0.5,0.7,0.8,0.5,0.4,0.4,0.7,single superphosphate(SSP)
+1350,0.5,0.6,0.6,0.7,0.7,0.5,0.2,0.2,0.9,single superphosphate(SSP)
+1351,0.7,0.6,0.8,0.6,0.6,0.8,0.4,0.1,0.7,single superphosphate(SSP)
+1352,0.8,0.8,0.5,0.5,0.8,0.5,0.3,0.2,0.5,single superphosphate(SSP)
+1353,0.8,0.8,0.6,0.6,0.5,0.7,0.2,0.4,0.9,single superphosphate(SSP)
+1354,0.5,0.7,0.6,0.6,0.6,0.6,0.3,0.4,0.9,single superphosphate(SSP)
+1355,0.7,0.6,0.3,0.4,0.7,0.8,0.5,0.6,0.9,potassium sulphate(SOP)
+1356,0.7,0.7,0.6,0.5,0.4,0.3,0.6,0.6,0.9,ammonium nitrate lime(ANL)
+1357,0.7,0.7,0.1,0.4,0.7,0.6,0.6,0.8,0.8,potassium sulphate(SOP)
+1358,0.7,0.7,0.2,0.4,0.8,0.5,0.8,0.5,0.8,potassium sulphate(SOP)
+1359,0.8,0.6,0.6,0.6,0.8,0.6,0.2,0.1,0.8,single superphosphate(SSP)
+1360,0.7,0.5,0.5,0.7,0.2,0.3,0.5,0.8,0.8,ammonium nitrate lime(ANL)
+1361,0.7,0.8,0.5,0.6,0.3,0.1,0.7,0.5,0.7,ammonium nitrate lime(ANL)
+1362,0.1,0.1,0.6,0.5,0.7,0.7,0.8,0.6,0.9,kieserite
+1363,0.6,0.6,0.5,0.5,0.7,0.7,0.3,0.4,0.5,single superphosphate(SSP)
+1364,0.4,0.2,0.6,0.7,0.7,0.7,0.5,0.7,0.7,kieserite
+1365,0.5,0.7,0.7,0.7,0.7,0.7,0.4,0.1,0.9,single superphosphate(SSP)
+1366,0.6,0.6,0.1,0.2,0.8,0.7,0.5,0.6,0.8,potassium sulphate(SOP)
+1367,0.5,0.8,0.1,0.1,0.6,0.7,0.5,0.7,0.9,potassium sulphate(SOP)
+1368,0.6,0.7,0.6,0.7,0.4,0.3,0.8,0.8,0.9,ammonium nitrate lime(ANL)
+1369,0.5,0.8,0.1,0.1,0.8,0.5,0.6,0.7,0.7,potassium sulphate(SOP)
+1370,0.8,0.8,0.8,0.6,0.2,0.1,0.8,0.6,0.6,ammonium nitrate lime(ANL)
+1371,0.8,0.7,0.5,0.7,0.4,0.2,0.5,0.8,0.7,ammonium nitrate lime(ANL)
+1372,0.5,0.6,0.4,0.2,0.5,0.7,0.5,0.7,0.5,potassium sulphate(SOP)
+1373,0.7,0.7,0.8,0.5,0.2,0.3,0.8,0.5,0.8,ammonium nitrate lime(ANL)
+1374,0.7,0.7,0.1,0.2,0.5,0.6,0.7,0.8,0.7,potassium sulphate(SOP)
+1375,0.2,0.1,0.5,0.6,0.7,0.7,0.7,0.5,0.7,kieserite
+1376,0.6,0.8,0.5,0.7,0.2,0.2,0.8,0.7,0.8,ammonium nitrate lime(ANL)
+1377,0.8,0.7,0.8,0.6,0.5,0.8,0.3,0.4,0.5,single superphosphate(SSP)
+1378,0.8,0.8,0.6,0.7,0.8,0.8,0.4,0.2,0.8,single superphosphate(SSP)
+1379,0.6,0.7,0.6,0.8,0.2,0.3,0.8,0.5,0.7,ammonium nitrate lime(ANL)
+1380,0.2,0.1,0.5,0.7,0.5,0.8,0.8,0.5,0.8,kieserite
+1381,0.5,0.6,0.2,0.1,0.5,0.8,0.6,0.6,0.9,potassium sulphate(SOP)
+1382,0.7,0.5,0.8,0.6,0.4,0.2,0.5,0.7,0.7,ammonium nitrate lime(ANL)
+1383,0.1,0.4,0.8,0.6,0.6,0.8,0.5,0.7,0.6,kieserite
+1384,0.8,0.6,0.6,0.5,0.3,0.4,0.7,0.6,0.7,ammonium nitrate lime(ANL)
+1385,0.6,0.8,0.8,0.6,0.7,0.6,0.1,0.2,0.9,single superphosphate(SSP)
+1386,0.1,0.2,0.5,0.8,0.5,0.5,0.7,0.6,0.6,kieserite
+1387,0.7,0.5,0.6,0.5,0.6,0.6,0.2,0.2,0.7,single superphosphate(SSP)
+1388,0.2,0.3,0.8,0.8,0.7,0.8,0.5,0.6,0.9,kieserite
+1389,0.3,0.2,0.5,0.8,0.7,0.7,0.5,0.7,0.7,kieserite
+1390,0.7,0.6,0.8,0.5,0.5,0.6,0.4,0.1,0.9,single superphosphate(SSP)
+1391,0.6,0.6,0.1,0.4,0.6,0.6,0.5,0.8,0.6,potassium sulphate(SOP)
+1392,0.7,0.6,0.5,0.6,0.4,0.4,0.8,0.6,0.6,ammonium nitrate lime(ANL)
+1393,0.6,0.6,0.1,0.3,0.5,0.7,0.7,0.5,0.7,potassium sulphate(SOP)
+1394,0.6,0.7,0.2,0.4,0.7,0.8,0.8,0.8,0.9,potassium sulphate(SOP)
+1395,0.5,0.7,0.7,0.6,0.2,0.1,0.6,0.8,0.8,ammonium nitrate lime(ANL)
+1396,0.4,0.2,0.5,0.6,0.8,0.8,0.6,0.8,0.9,kieserite
+1397,0.6,0.7,0.2,0.3,0.7,0.5,0.8,0.7,0.6,potassium sulphate(SOP)
+1398,0.7,0.5,0.7,0.6,0.7,0.7,0.4,0.3,0.7,single superphosphate(SSP)
+1399,0.4,0.1,0.5,0.6,0.5,0.6,0.7,0.6,0.7,kieserite
+1400,0.7,0.8,0.8,0.6,0.3,0.3,0.8,0.5,0.7,ammonium nitrate lime(ANL)
+1401,0.8,0.8,0.8,0.5,0.5,0.5,0.4,0.1,0.5,single superphosphate(SSP)
+1402,0.6,0.7,0.7,0.6,0.2,0.1,0.5,0.7,0.8,ammonium nitrate lime(ANL)
+1403,0.6,0.5,0.3,0.4,0.8,0.5,0.6,0.6,0.7,potassium sulphate(SOP)
+1404,0.4,0.2,0.8,0.8,0.7,0.7,0.5,0.6,0.6,kieserite
+1405,0.4,0.3,0.7,0.8,0.6,0.7,0.7,0.5,0.8,kieserite
+1406,0.7,0.6,0.7,0.7,0.3,0.2,0.8,0.5,0.7,ammonium nitrate lime(ANL)
+1407,0.7,0.8,0.8,0.8,0.8,0.5,0.4,0.2,0.6,single superphosphate(SSP)
+1408,0.8,0.6,0.5,0.8,0.8,0.7,0.1,0.4,0.9,single superphosphate(SSP)
+1409,0.3,0.1,0.6,0.5,0.6,0.8,0.5,0.6,0.8,kieserite
+1410,0.7,0.7,0.7,0.6,0.5,0.7,0.2,0.4,0.8,single superphosphate(SSP)
+1411,0.8,0.7,0.5,0.7,0.4,0.4,0.6,0.8,0.6,ammonium nitrate lime(ANL)
+1412,0.5,0.8,0.5,0.8,0.4,0.3,0.6,0.6,0.5,ammonium nitrate lime(ANL)
+1413,0.8,0.8,0.7,0.7,0.6,0.5,0.2,0.1,0.9,single superphosphate(SSP)
+1414,0.6,0.6,0.2,0.2,0.7,0.5,0.6,0.6,0.6,potassium sulphate(SOP)
+1415,0.6,0.5,0.8,0.8,0.7,0.5,0.4,0.3,0.5,single superphosphate(SSP)
+1416,0.7,0.6,0.5,0.6,0.1,0.3,0.6,0.7,0.9,ammonium nitrate lime(ANL)
+1417,0.2,0.3,0.7,0.5,0.6,0.5,0.6,0.5,0.5,kieserite
+1418,0.5,0.8,0.5,0.5,0.6,0.6,0.2,0.3,0.6,single superphosphate(SSP)
+1419,0.7,0.5,0.2,0.4,0.5,0.6,0.5,0.7,0.5,potassium sulphate(SOP)
+1420,0.6,0.6,0.3,0.3,0.7,0.5,0.8,0.7,0.8,potassium sulphate(SOP)
+1421,0.1,0.1,0.6,0.7,0.5,0.7,0.5,0.5,0.6,kieserite
+1422,0.5,0.6,0.1,0.3,0.8,0.8,0.8,0.6,0.6,potassium sulphate(SOP)
+1423,0.5,0.6,0.8,0.7,0.2,0.2,0.6,0.8,0.9,ammonium nitrate lime(ANL)
+1424,0.8,0.7,0.8,0.7,0.7,0.5,0.2,0.4,0.9,single superphosphate(SSP)
+1425,0.6,0.6,0.6,0.7,0.2,0.1,0.7,0.8,0.7,ammonium nitrate lime(ANL)
+1426,0.5,0.6,0.6,0.8,0.4,0.3,0.6,0.5,0.7,ammonium nitrate lime(ANL)
+1427,0.5,0.6,0.7,0.5,0.6,0.6,0.3,0.4,0.8,single superphosphate(SSP)
+1428,0.8,0.6,0.5,0.7,0.6,0.7,0.4,0.4,0.6,single superphosphate(SSP)
+1429,0.8,0.8,0.8,0.6,0.4,0.2,0.8,0.8,0.6,ammonium nitrate lime(ANL)
+1430,0.5,0.8,0.5,0.6,0.8,0.8,0.4,0.1,0.5,single superphosphate(SSP)
+1431,0.7,0.8,0.1,0.3,0.6,0.8,0.7,0.6,0.8,potassium sulphate(SOP)
+1432,0.1,0.4,0.6,0.7,0.6,0.5,0.8,0.8,0.5,kieserite
+1433,0.6,0.5,0.2,0.1,0.5,0.5,0.6,0.6,0.9,potassium sulphate(SOP)
+1434,0.7,0.8,0.8,0.5,0.1,0.4,0.6,0.6,0.6,ammonium nitrate lime(ANL)
+1435,0.2,0.4,0.8,0.6,0.7,0.6,0.7,0.5,0.9,kieserite
+1436,0.8,0.7,0.6,0.7,0.3,0.2,0.6,0.6,0.6,ammonium nitrate lime(ANL)
+1437,0.5,0.6,0.7,0.6,0.7,0.5,0.4,0.3,0.9,single superphosphate(SSP)
+1438,0.7,0.7,0.8,0.6,0.6,0.5,0.2,0.3,0.9,single superphosphate(SSP)
+1439,0.4,0.3,0.7,0.8,0.5,0.5,0.6,0.5,0.8,kieserite
+1440,0.6,0.6,0.5,0.5,0.7,0.5,0.2,0.2,0.8,single superphosphate(SSP)
+1441,0.3,0.1,0.8,0.5,0.8,0.5,0.6,0.8,0.5,kieserite
+1442,0.8,0.8,0.8,0.5,0.2,0.1,0.8,0.6,0.8,ammonium nitrate lime(ANL)
+1443,0.7,0.7,0.1,0.2,0.5,0.7,0.8,0.6,0.9,potassium sulphate(SOP)
+1444,0.5,0.6,0.6,0.7,0.7,0.8,0.4,0.1,0.8,single superphosphate(SSP)
+1445,0.5,0.8,0.8,0.8,0.7,0.8,0.1,0.2,0.9,single superphosphate(SSP)
+1446,0.5,0.6,0.4,0.1,0.5,0.7,0.6,0.5,0.9,potassium sulphate(SOP)
+1447,0.8,0.6,0.6,0.7,0.4,0.2,0.7,0.7,0.6,ammonium nitrate lime(ANL)
+1448,0.5,0.8,0.1,0.3,0.8,0.6,0.8,0.5,0.9,potassium sulphate(SOP)
+1449,0.8,0.5,0.7,0.7,0.8,0.6,0.1,0.2,0.7,single superphosphate(SSP)
+1450,0.8,0.7,0.5,0.8,0.6,0.8,0.3,0.1,0.9,single superphosphate(SSP)
+1451,0.7,0.7,0.2,0.2,0.8,0.7,0.6,0.7,0.9,potassium sulphate(SOP)
+1452,0.8,0.5,0.5,0.6,0.2,0.4,0.6,0.6,0.7,ammonium nitrate lime(ANL)
+1453,0.5,0.8,0.5,0.6,0.8,0.8,0.2,0.2,0.8,single superphosphate(SSP)
+1454,0.5,0.8,0.7,0.7,0.8,0.6,0.2,0.1,0.6,single superphosphate(SSP)
+1455,0.1,0.4,0.7,0.8,0.7,0.8,0.6,0.8,0.9,kieserite
+1456,0.8,0.6,0.2,0.1,0.8,0.7,0.6,0.8,0.8,potassium sulphate(SOP)
+1457,0.3,0.2,0.5,0.8,0.7,0.5,0.7,0.7,0.7,kieserite
+1458,0.8,0.6,0.8,0.7,0.4,0.4,0.5,0.8,0.8,ammonium nitrate lime(ANL)
+1459,0.7,0.8,0.8,0.8,0.6,0.8,0.1,0.3,0.9,single superphosphate(SSP)
+1460,0.7,0.5,0.1,0.2,0.5,0.6,0.5,0.7,0.6,potassium sulphate(SOP)
+1461,0.6,0.5,0.5,0.7,0.6,0.7,0.4,0.3,0.5,single superphosphate(SSP)
+1462,0.6,0.5,0.3,0.4,0.6,0.6,0.6,0.8,0.5,potassium sulphate(SOP)
+1463,0.7,0.8,0.7,0.5,0.3,0.1,0.7,0.5,0.8,ammonium nitrate lime(ANL)
+1464,0.7,0.7,0.7,0.6,0.4,0.2,0.7,0.7,0.8,ammonium nitrate lime(ANL)
+1465,0.5,0.7,0.1,0.3,0.5,0.6,0.5,0.5,0.6,potassium sulphate(SOP)
+1466,0.7,0.7,0.8,0.7,0.7,0.5,0.1,0.4,0.6,single superphosphate(SSP)
+1467,0.5,0.8,0.5,0.7,0.7,0.7,0.1,0.4,0.8,single superphosphate(SSP)
+1468,0.8,0.5,0.4,0.1,0.7,0.6,0.7,0.8,0.9,potassium sulphate(SOP)
+1469,0.4,0.1,0.5,0.8,0.5,0.6,0.5,0.8,0.6,kieserite
+1470,0.3,0.2,0.8,0.6,0.5,0.7,0.6,0.7,0.8,kieserite
+1471,0.1,0.2,0.5,0.8,0.6,0.8,0.7,0.6,0.7,kieserite
+1472,0.5,0.6,0.5,0.8,0.2,0.3,0.7,0.7,0.5,ammonium nitrate lime(ANL)
+1473,0.6,0.7,0.3,0.2,0.8,0.7,0.5,0.7,0.8,potassium sulphate(SOP)
+1474,0.4,0.1,0.6,0.8,0.7,0.7,0.6,0.7,0.9,kieserite
+1475,0.7,0.5,0.7,0.8,0.6,0.8,0.2,0.4,0.7,single superphosphate(SSP)
+1476,0.6,0.6,0.5,0.6,0.8,0.7,0.1,0.2,0.5,single superphosphate(SSP)
+1477,0.8,0.8,0.7,0.5,0.1,0.3,0.7,0.5,0.8,ammonium nitrate lime(ANL)
+1478,0.7,0.7,0.8,0.5,0.8,0.6,0.4,0.2,0.5,single superphosphate(SSP)
+1479,0.3,0.4,0.8,0.8,0.7,0.6,0.8,0.8,0.7,kieserite
+1480,0.5,0.5,0.7,0.6,0.5,0.6,0.2,0.2,0.7,single superphosphate(SSP)
+1481,0.3,0.4,0.7,0.8,0.6,0.6,0.6,0.8,0.5,kieserite
+1482,0.8,0.7,0.1,0.4,0.7,0.6,0.6,0.8,0.8,potassium sulphate(SOP)
+1483,0.7,0.5,0.5,0.6,0.3,0.3,0.5,0.6,0.7,ammonium nitrate lime(ANL)
+1484,0.2,0.2,0.5,0.7,0.7,0.5,0.7,0.6,0.7,kieserite
+1485,0.5,0.7,0.7,0.6,0.3,0.2,0.8,0.8,0.5,ammonium nitrate lime(ANL)
+1486,0.8,0.5,0.5,0.5,0.3,0.2,0.7,0.8,0.5,ammonium nitrate lime(ANL)
+1487,0.6,0.5,0.7,0.5,0.6,0.8,0.2,0.1,0.8,single superphosphate(SSP)
+1488,0.4,0.4,0.6,0.5,0.6,0.6,0.5,0.5,0.8,kieserite
+1489,0.1,0.4,0.5,0.8,0.6,0.5,0.8,0.8,0.6,kieserite
+1490,0.7,0.7,0.7,0.5,0.5,0.8,0.3,0.2,0.9,single superphosphate(SSP)
+1491,0.8,0.8,0.2,0.4,0.5,0.7,0.5,0.7,0.6,potassium sulphate(SOP)
+1492,0.8,0.6,0.1,0.4,0.6,0.8,0.6,0.6,0.9,potassium sulphate(SOP)
+1493,0.8,0.8,0.2,0.3,0.6,0.6,0.6,0.6,0.5,potassium sulphate(SOP)
+1494,0.1,0.4,0.8,0.7,0.8,0.5,0.7,0.6,0.9,kieserite
+1495,0.8,0.7,0.8,0.8,0.6,0.5,0.1,0.3,0.6,single superphosphate(SSP)
+1496,0.5,0.6,0.5,0.5,0.1,0.3,0.8,0.8,0.9,ammonium nitrate lime(ANL)
+1497,0.5,0.6,0.5,0.6,0.5,0.5,0.4,0.1,0.7,single superphosphate(SSP)
+1498,0.3,0.1,0.6,0.7,0.8,0.8,0.6,0.7,0.9,kieserite
+1499,0.7,0.8,0.3,0.1,0.5,0.5,0.6,0.8,0.5,potassium sulphate(SOP)
+1500,0.6,0.6,0.5,0.5,0.2,0.4,0.7,0.8,0.9,ammonium nitrate lime(ANL)
+1501,0.5,0.5,0.4,0.3,0.6,0.7,0.8,0.6,0.9,potassium sulphate(SOP)
+1502,0.8,0.8,0.5,0.6,0.3,0.3,0.5,0.7,0.7,ammonium nitrate lime(ANL)
+1503,0.6,0.5,0.8,0.7,0.8,0.8,0.2,0.4,0.9,single superphosphate(SSP)
+1504,0.8,0.8,0.6,0.6,0.6,0.6,0.2,0.1,0.9,single superphosphate(SSP)
+1505,0.8,0.6,0.4,0.2,0.8,0.8,0.5,0.6,0.8,potassium sulphate(SOP)
+1506,0.7,0.7,0.2,0.4,0.5,0.6,0.6,0.8,0.6,potassium sulphate(SOP)
+1507,0.3,0.3,0.8,0.8,0.5,0.8,0.5,0.8,0.7,kieserite
+1508,0.5,0.7,0.6,0.5,0.2,0.1,0.8,0.7,0.9,ammonium nitrate lime(ANL)
+1509,0.2,0.1,0.5,0.7,0.7,0.5,0.8,0.6,0.8,kieserite
+1510,0.3,0.4,0.7,0.6,0.8,0.7,0.5,0.7,0.8,kieserite
+1511,0.7,0.7,0.4,0.2,0.5,0.7,0.8,0.5,0.8,potassium sulphate(SOP)
+1512,0.6,0.7,0.6,0.5,0.4,0.3,0.8,0.8,0.7,ammonium nitrate lime(ANL)
+1513,0.5,0.6,0.8,0.5,0.7,0.8,0.2,0.1,0.5,single superphosphate(SSP)
+1514,0.6,0.8,0.4,0.1,0.6,0.6,0.8,0.8,0.6,potassium sulphate(SOP)
+1515,0.3,0.4,0.6,0.8,0.5,0.7,0.8,0.5,0.5,kieserite
+1516,0.6,0.8,0.5,0.6,0.3,0.4,0.6,0.7,0.7,ammonium nitrate lime(ANL)
+1517,0.6,0.8,0.2,0.3,0.7,0.5,0.7,0.5,0.9,potassium sulphate(SOP)
+1518,0.5,0.7,0.6,0.6,0.2,0.2,0.8,0.7,0.9,ammonium nitrate lime(ANL)
+1519,0.8,0.8,0.4,0.2,0.7,0.5,0.5,0.5,0.9,potassium sulphate(SOP)
+1520,0.8,0.6,0.1,0.1,0.7,0.7,0.7,0.5,0.6,potassium sulphate(SOP)
+1521,0.4,0.1,0.6,0.7,0.6,0.7,0.6,0.8,0.6,kieserite
+1522,0.7,0.8,0.1,0.4,0.6,0.7,0.5,0.5,0.7,potassium sulphate(SOP)
+1523,0.5,0.5,0.8,0.7,0.7,0.5,0.4,0.2,0.9,single superphosphate(SSP)
+1524,0.5,0.8,0.1,0.4,0.6,0.6,0.8,0.5,0.8,potassium sulphate(SOP)
+1525,0.7,0.5,0.6,0.8,0.2,0.2,0.6,0.5,0.6,ammonium nitrate lime(ANL)
+1526,0.4,0.1,0.7,0.8,0.5,0.8,0.5,0.6,0.9,kieserite
+1527,0.5,0.8,0.2,0.3,0.7,0.5,0.5,0.7,0.5,potassium sulphate(SOP)
+1528,0.7,0.7,0.7,0.8,0.6,0.6,0.1,0.4,0.5,single superphosphate(SSP)
+1529,0.6,0.8,0.3,0.3,0.6,0.8,0.7,0.7,0.6,potassium sulphate(SOP)
+1530,0.8,0.7,0.7,0.8,0.1,0.2,0.7,0.6,0.5,ammonium nitrate lime(ANL)
+1531,0.5,0.6,0.1,0.2,0.5,0.8,0.8,0.5,0.5,potassium sulphate(SOP)
+1532,0.4,0.1,0.7,0.7,0.5,0.6,0.7,0.7,0.8,kieserite
+1533,0.8,0.7,0.2,0.3,0.6,0.8,0.6,0.8,0.7,potassium sulphate(SOP)
+1534,0.8,0.8,0.8,0.6,0.6,0.5,0.4,0.2,0.9,single superphosphate(SSP)
+1535,0.7,0.5,0.5,0.5,0.1,0.1,0.5,0.7,0.8,ammonium nitrate lime(ANL)
+1536,0.8,0.7,0.6,0.5,0.2,0.3,0.6,0.6,0.7,ammonium nitrate lime(ANL)
+1537,0.3,0.2,0.8,0.8,0.8,0.5,0.7,0.7,0.5,kieserite
+1538,0.8,0.8,0.3,0.2,0.5,0.6,0.8,0.6,0.6,potassium sulphate(SOP)
+1539,0.7,0.7,0.6,0.5,0.5,0.8,0.2,0.1,0.7,single superphosphate(SSP)
+1540,0.5,0.8,0.8,0.8,0.7,0.5,0.4,0.3,0.9,single superphosphate(SSP)
+1541,0.6,0.5,0.5,0.7,0.8,0.6,0.1,0.2,0.6,single superphosphate(SSP)
+1542,0.2,0.1,0.7,0.8,0.5,0.8,0.7,0.8,0.8,kieserite
+1543,0.2,0.4,0.8,0.6,0.8,0.8,0.7,0.6,0.5,kieserite
+1544,0.7,0.5,0.3,0.4,0.6,0.8,0.6,0.8,0.9,potassium sulphate(SOP)
+1545,0.5,0.5,0.5,0.6,0.5,0.8,0.2,0.2,0.7,single superphosphate(SSP)
+1546,0.8,0.5,0.3,0.1,0.5,0.6,0.5,0.8,0.9,potassium sulphate(SOP)
+1547,0.7,0.5,0.2,0.2,0.7,0.6,0.8,0.8,0.8,potassium sulphate(SOP)
+1548,0.4,0.3,0.8,0.6,0.7,0.5,0.7,0.6,0.7,kieserite
+1549,0.8,0.7,0.6,0.8,0.7,0.7,0.2,0.4,0.9,single superphosphate(SSP)
+1550,0.5,0.6,0.5,0.7,0.3,0.4,0.6,0.8,0.6,ammonium nitrate lime(ANL)
+1551,0.7,0.7,0.2,0.1,0.6,0.7,0.7,0.6,0.5,potassium sulphate(SOP)
+1552,0.5,0.8,0.7,0.5,0.4,0.3,0.5,0.8,0.8,ammonium nitrate lime(ANL)
+1553,0.5,0.5,0.7,0.7,0.8,0.5,0.3,0.1,0.6,single superphosphate(SSP)
+1554,0.7,0.7,0.4,0.2,0.5,0.6,0.5,0.6,0.8,potassium sulphate(SOP)
+1555,0.6,0.5,0.8,0.6,0.2,0.4,0.5,0.7,0.9,ammonium nitrate lime(ANL)
+1556,0.8,0.5,0.3,0.3,0.6,0.8,0.7,0.8,0.8,potassium sulphate(SOP)
+1557,0.6,0.5,0.7,0.5,0.2,0.3,0.6,0.5,0.5,ammonium nitrate lime(ANL)
+1558,0.7,0.7,0.6,0.7,0.1,0.1,0.5,0.6,0.6,ammonium nitrate lime(ANL)
+1559,0.6,0.5,0.8,0.5,0.2,0.4,0.7,0.5,0.5,ammonium nitrate lime(ANL)
+1560,0.8,0.8,0.7,0.5,0.8,0.7,0.4,0.2,0.7,single superphosphate(SSP)
+1561,0.7,0.5,0.1,0.4,0.8,0.5,0.5,0.7,0.5,potassium sulphate(SOP)
+1562,0.4,0.1,0.7,0.7,0.8,0.5,0.6,0.7,0.7,kieserite
+1563,0.6,0.8,0.6,0.8,0.3,0.3,0.7,0.6,0.8,ammonium nitrate lime(ANL)
+1564,0.2,0.3,0.6,0.7,0.5,0.7,0.5,0.8,0.8,kieserite
+1565,0.5,0.6,0.3,0.2,0.8,0.7,0.8,0.5,0.5,potassium sulphate(SOP)
+1566,0.5,0.5,0.7,0.5,0.1,0.2,0.6,0.7,0.8,ammonium nitrate lime(ANL)
+1567,0.5,0.8,0.6,0.5,0.6,0.7,0.4,0.3,0.7,single superphosphate(SSP)
+1568,0.5,0.8,0.3,0.3,0.5,0.7,0.6,0.5,0.9,potassium sulphate(SOP)
+1569,0.6,0.5,0.3,0.3,0.8,0.6,0.5,0.6,0.6,potassium sulphate(SOP)
+1570,0.8,0.8,0.2,0.3,0.6,0.8,0.5,0.8,0.8,potassium sulphate(SOP)
+1571,0.4,0.2,0.6,0.6,0.8,0.5,0.8,0.8,0.8,kieserite
+1572,0.8,0.5,0.7,0.5,0.3,0.3,0.6,0.7,0.8,ammonium nitrate lime(ANL)
+1573,0.1,0.3,0.6,0.8,0.8,0.8,0.7,0.7,0.9,kieserite
+1574,0.8,0.6,0.8,0.6,0.8,0.8,0.1,0.2,0.8,single superphosphate(SSP)
+1575,0.6,0.5,0.7,0.7,0.6,0.6,0.1,0.2,0.5,single superphosphate(SSP)
+1576,0.7,0.7,0.7,0.5,0.7,0.7,0.2,0.4,0.6,single superphosphate(SSP)
+1577,0.8,0.5,0.4,0.2,0.6,0.8,0.7,0.8,0.5,potassium sulphate(SOP)
+1578,0.6,0.6,0.1,0.3,0.6,0.5,0.7,0.7,0.8,potassium sulphate(SOP)
+1579,0.7,0.5,0.6,0.6,0.1,0.4,0.8,0.5,0.5,ammonium nitrate lime(ANL)
+1580,0.6,0.6,0.7,0.8,0.7,0.8,0.4,0.4,0.7,single superphosphate(SSP)
+1581,0.4,0.1,0.8,0.7,0.8,0.8,0.6,0.8,0.6,kieserite
+1582,0.2,0.4,0.5,0.8,0.7,0.8,0.7,0.7,0.8,kieserite
+1583,0.3,0.3,0.7,0.5,0.8,0.6,0.8,0.6,0.5,kieserite
+1584,0.8,0.7,0.7,0.5,0.7,0.8,0.3,0.3,0.7,single superphosphate(SSP)
+1585,0.5,0.7,0.8,0.7,0.8,0.5,0.3,0.3,0.9,single superphosphate(SSP)
+1586,0.8,0.6,0.7,0.6,0.7,0.6,0.1,0.1,0.7,single superphosphate(SSP)
+1587,0.8,0.7,0.7,0.7,0.1,0.3,0.8,0.6,0.7,ammonium nitrate lime(ANL)
+1588,0.8,0.6,0.7,0.6,0.6,0.8,0.2,0.1,0.8,single superphosphate(SSP)
+1589,0.5,0.7,0.7,0.5,0.8,0.8,0.3,0.3,0.9,single superphosphate(SSP)
+1590,0.2,0.4,0.7,0.8,0.7,0.8,0.8,0.6,0.9,kieserite
+1591,0.4,0.4,0.7,0.7,0.8,0.6,0.5,0.8,0.6,kieserite
+1592,0.8,0.7,0.7,0.6,0.2,0.2,0.8,0.8,0.9,ammonium nitrate lime(ANL)
+1593,0.8,0.5,0.8,0.7,0.2,0.1,0.5,0.8,0.6,ammonium nitrate lime(ANL)
+1594,0.6,0.7,0.5,0.7,0.6,0.6,0.3,0.3,0.9,single superphosphate(SSP)
+1595,0.8,0.5,0.6,0.5,0.3,0.1,0.7,0.5,0.5,ammonium nitrate lime(ANL)
+1596,0.7,0.8,0.3,0.1,0.7,0.6,0.8,0.5,0.7,potassium sulphate(SOP)
+1597,0.6,0.5,0.8,0.5,0.6,0.8,0.3,0.3,0.7,single superphosphate(SSP)
+1598,0.4,0.4,0.8,0.6,0.6,0.8,0.8,0.7,0.8,kieserite

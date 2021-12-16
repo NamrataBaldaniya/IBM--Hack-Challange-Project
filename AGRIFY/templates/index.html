@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Agrifyzen - Home </title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<script type="text/javascript" src="https://cdn.weglot.com/weglot.min.js"></script>
+
+<style>
+    .team{
+        display: inline-block;
+        width: 80%;
+        margin-left: 10%;
+        text-align: center;
+        
+    }
+    .team .t1 ,.t2 ,.t3,.t4{
+        width: 25%;
+       
+        float: left;
+        
+    }
+    .team p{
+        font-size: 20px;
+    }
+
+    .id{
+        
+        margin-left: 25%;
+    }
+    
+    
+    .team li{
+        float: left;
+        font-size: 30px;
+        padding-right: 30px;
+        
+    }
+
+    .id .linkdin a{
+        color: #0976b4;
+    }
+
+    .id .insta a{
+        color: #fb3958;
+    }
+
+	.id .github a{
+        color: black;
+    }
+
+</style>
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8">
+<meta name="keywords" content="Agro Harvest Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+
+    <script src="https://kit.fontawesome.com/a9a20b01b1.js" 
+	crossorigin="anonymous">
+        addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+    </script>
+	
+	<!-- css files -->
+    <!-- <link href="../static/css/bootstrap.css" rel='stylesheet' type='text/css' />bootstrap css -->
+    <!-- <link href="../static/css/style.css" rel='stylesheet' type='text/css' />custom css -->
+    <!-- <link href="../static/css/font-awesome.min.css" rel="stylesheet">fontawesome css -->
+	<!-- //css files -->
+
+	<!-- css files -->
+    <link href="{{ url_for('static',filename='css/bootstrap.css') }}" rel='stylesheet' type='text/css'/><!-- bootstrap css -->
+    <link href="{{ url_for('static',filename='css/style.css') }}" rel='stylesheet' type='text/css'/><!-- custom css -->
+    <link href="{{ url_for('static',filename='css/font-awesome.min.css') }}" rel="stylesheet"/><!-- fontawesome css -->
+	<!-- //css files -->
+	
+	<!-- <link href="css/css_slider.css" type="text/css" rel="stylesheet" media="all"> -->
+
+	<!-- google fonts -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap" rel="stylesheet">
+	<!-- <link href="//fonts.googleapis.com/css?family=Thasadith:400,400i,700,700i&amp;subset=latin-ext,thai,vietnamese" rel="stylesheet"> -->
+	<!-- //google fonts -->
+	
+</head>
+<body>
+
+<!-- header -->
+<header>
+	<div class="container">
+		<!-- nav -->
+		<nav class="py-4 d-lg-flex">
+			<div id="logo">
+				<h1> <a href="/"><span class="fa fa-leaf"></span> Agrify </a></h1>
+			</div>
+			<label for="drop" class="toggle"><span class="fa fa-bars"></span></label>
+			
+			
+		</nav>
+		<!-- //nav -->
+	</div>
+</header>
+<!-- //header -->
+
+
+<!-- banner -->
+<section class="banner_w3lspvt" id="home">
+	<div class="csslider infinity" id="slider1">
+	
+				<div class="banner-top">
+					<div class="overlay">
+						<div class="container">
+							<div class="w3layouts-banner-info text-center">
+								<h3 class="text-wh">Agrifyzen</h3>
+								<h4 class="text-wh mx-auto my-4">Get informed decisions about your farming strategy.</h4>
+								<p class="text-li mx-auto mt-2">Here are some questions we'll answer:<br>
+									1. What crop to plant here? <br>
+									2. What fertilizer to use? <br>
+									3. What will be the Crop yield?</p>
+							</div>
+						</div>
+					</div>
+				</div>
+	</div>
+</section>
+<!-- //banner -->
+
+
+<!-- core values -->
+
+	<section class="blog py-5">
+		<div class="container py-md-5">
+			<h3 class="heading mb-sm-5 mb-4 text-center"> Our Services</h3>
+			<div class="row blog-grids">
+				<div class="col-lg-4 col-md-6 blog-left mb-lg-0 mb-sm-5 pb-lg-0 pb-5">	
+					<img src="../static/images/s3.jpg" class="img-fliud" alt="" />
+					<div class="blog-info">
+						<h4>Crop</h4>
+						<p class="mt-2"> Recommendation about the type of crops to be cultivated which is best suited for the respective conditions.<br><a href="/crops">click here for Recommendation</a> </p>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 blog-middle mb-lg-0 mb-sm-5 pb-lg-0 pb-md-5">	
+					<img src="../static/images/s2.jpg" class="img-fliud" alt="" />
+					<div class="blog-info">
+						<h4>Fertilizer</h4>
+						<p class="mt-2">Recommendation about the type of fertilizer best suited for the particular soil and the recommended crop.<br><a href="/fertilizer">click here for Recommendation</a> </p>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 blog-right mt-lg-0 mt-5 pt-lg-0 pt-md-5">
+					<img src="../static/images/s4.jpg" class="img-fliud" alt="" />
+					<div class="blog-info">
+						<h4>Yield</h4>
+						<p class="mt-2">This field predict the production of the crops based on the inputs provided by the users.<br><br><a href="/yield">click here for Prediction</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+</section>
+<div class="container py-md-4">
+	<h3 class="heading mb-sm-5 mb-4 text-center"> About Us</h3>
+	<div class="row core-grids">
+		<div class="col-lg-6 core-left">	
+			<img src="../static/images/5.png" class="img-fliud" alt="" />
+		</div>
+		<div class="col-lg-6 core-right">
+			<h3 class="mt-4">Improving Agriculture, Improving Lives, Cultivating Crops To Make Farmers Increase Profit.</h3>
+			<p class="mt-3">We use state-of-the-art machine learning technologies to help you guide through 
+			the entire farming process. Make informed decisions to understand the demographics of your area, understand the
+			factors that affect your crop and keep them healthy for a super awesome successful yield.</p>
+		</div>
+	</div>
+</div>
+<div style="margin-bottom: 10px;">
+	<h1 class="ourteam" style="font-weight: bold;
+	text-align: center;">Our Team</h1>
+</div>
+
+<div class="team">
+    <div class="t1">
+        <p>Keyur Chaniyara</p>
+        <div class="id">
+            <ul>
+                <li class="linkdin"><a href="https://www.linkedin.com/in/keyur-chaniyara-41385a1a9/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                <li class="insta"><a href="https://instagram.com/keyur_patel_3121?utm_medium=copy_link" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                <li class="github"><a href="https://github.com/Keyurchaniyara" target="_blank"><i class="fab fa-github"></i></a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="t2">
+        <p>Namrata Baldaniya</p>
+        <div class="id">
+            <ul>
+				<li class="linkdin"><a href="https://www.linkedin.com/in/namrata-baldaniya-360576211" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                <li class="insta"><a href="https://www.instagram.com/namrata_baldaniya" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                <li class="github"><a href="https://github.com/NamrataBaldaniya" target="_blank"><i class="fab fa-github"></i></a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="t3">
+        <p>Nisha Kathiriya</p>
+        <div class="id">
+            <ul>
+                <li class="linkdin"><a href="https://www.linkedin.com/in/nisha-kathiriya-5716a1206"><i class="fa fa-linkedin" role="button"></i></a></li>
+				<li class="insta"><a href="https://www.instagram.com/nisha._.kathiriya"><i class="fa fa-instagram" role="button"></i></a></li>
+				<li class="github"><a href="https://github.com/NishaKathiriya"><i class="fa fa-github" role="button"></i></a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="t4">
+        <p>Janvi Prajapati</p>
+        <div class="id">
+            <ul>
+                <li class="linkdin"><a href="https://www.linkedin.com/in/janvi-prajapati-96b1681b9"><i class="fa fa-linkedin" role="button"></i></a></li>
+				<li class="insta"><a href="https://instagram.com/janvi__101?utm_medium=copy_link"><i class="fa fa-instagram" role="button"></i></a></li>
+				<li class="github"><a href="https://github.com/Janvi191"><i class="fa fa-github" role="button"></i></a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<!-- //core values -->
+
+<!-- Products & Services -->
+
+<!-- footer -->
+<footer class="text-center py-5">
+	<div class="container py-md-3">
+		<!-- logo -->
+		<h2 class="logo2 text-center">
+			<a href="/">
+				<span class="fa fa-leaf"></span> Agrify
+			</a>
+		</h2>
+		<!-- //logo -->
+		<!-- address -->
+		<div class="contact-left-footer mt-4">
+
+				<p class="homelogo">
+					<a>copyrightby</a>
+					|
+					<a >TeamAgrify</a>
+                
+				</p>
+				<p>
+					<a>teamagrify@gmail.com</a>
+				</p>
+		</div>
+		<div class="w3l-copy text-center">
+			<p class="text-da">An Environmental Intelligence Startup<br> </p>
+		</div>
+	</div>
+</footer>
+<!-- //footer -->
+
+<!-- move top icon -->
+<a href="#home" class="move-top text-center"></a>
+<!-- //move top icon -->
+<script>
+	window.watsonAssistantChatOptions = {
+		integrationID: "54b1421b-1846-49a0-a471-3e372a3d47c7", // The ID of this integration.
+		region: "eu-gb", // The region your integration is hosted in.
+		serviceInstanceID: "85858c00-6fae-4f78-b3c6-da02577975de", // The ID of your service instance.
+		onLoad: function(instance) { instance.render(); }
+	  };
+	setTimeout(function(){
+	  const t=document.createElement('script');
+	  t.src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
+	  document.head.appendChild(t);
+	});
+  </script>
+</body>
+</html>

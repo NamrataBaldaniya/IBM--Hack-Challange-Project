@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ url_for('static',filename='css/yield.css') }}">
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Yield Predictor</title>
+   
+  </head>
+
+  <body>
+    <header>
+        <div id="logo">
+    
+            <h1> <a href="/" style="text-decoration: none; color: white;"><i class="fa fa-leaf" style="color: greenyellow;"></i> Agrify </a></h1>
+           
+        </div>
+    
+</header> 
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+    <div class="img"></div>
+    
+    <form class="form" method="post" action="{{ url_for('Yield')}}" accept-charset="utf-8">
+        <h2>State</h2>
+        <select class="state"  type="text" id="s" class="floatLabel" name="State_Name">
+
+            {% for State_Name in States %}
+
+            <option value="{{ State_Name }}">{{ State_Name }}</option>
+            {% endfor %}
+        </select>
+        <h2>District</h2>
+        <select class="district"  type="text" id="d" class="floatLabel" name="District_Name">
+
+            {% for District_Name in Districts %}
+
+            <option value="{{ District_Name }}">{{ District_Name }}</option>
+            {% endfor %}
+        </select>
+        <h2>Crop Year</h2>
+        <select class="cropyear"  type="text" id="cy" class="floatLabel" name="Crop_Year">
+
+            {% for Crop_Year in Years %}
+
+            <option value="{{ Crop_Year }}">{{ Crop_Year }}</option>
+            {% endfor %}
+        </select>
+        <h2>Season</h2>
+        <select class="season"  type="text" id="se" class="floatLabel" name="Season">
+
+            {% for Season in Seasons %}
+
+            <option value="{{ Season }}">{{ Season }}</option>
+            {% endfor %}
+        </select>
+        <h2>Crop</h2>
+        <select class="crop"  type="text" id="cr" class="floatLabel" name="Crop">
+
+            {% for Crop in Crops %}
+
+            <option value="{{ Crop }}">{{ Crop }}</option>
+            {% endfor %}
+        </select>
+        <h2>Area</h2>
+        <input class="area"  type="text" id="ar" class="floatLabel" name="Area">
+        <h2><button class="submit" onclick="onClickedPredictYield()" type="button">Predict Yield</button></h2>
+        <div id="prediction" class="result" style="color:whitesmoke ; font-size:17px"><h2></h2> </div>
+    </form>
+
+    <br>
+   
+    <script>
+
+        function form_handler(event)
+        {
+            event.preventDefault()
+        }
+
+        function onClickedPredictYield()
+        {
+            document.querySelector('form').addEventListener('submit',form_handler);
+
+            var fd=new FormData(document.querySelector('form'));
+
+            var xhr=new XMLHttpRequest();
+            xhr.open('POST','/yield/predict',true);
+            document.getElementById("prediction").innerHTML="Waiting for prediction......";
+
+            xhr.onreadystatechange= function()
+            {
+                if(xhr.readyState == XMLHttpRequest.DONE)
+                {
+                    document.getElementById("prediction").innerHTML="prediction : "+xhr.responseText;
+                }
+            }
+            xhr.onload = function(){};
+            xhr.send(fd);
+        }
+
+    </script>
+  
+  </body>
+</html>
